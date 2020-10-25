@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Times>
+  <DaySkipper0>568<!--JP--></DaySkipper0>
+  <DaySkipper1>728<!--EU--></DaySkipper1>
+  <DaySkipper2>728<!--US--></DaySkipper2>
+  <DaySkipper_Unlimited0>568<!--JP--></DaySkipper_Unlimited0>
+  <DaySkipper_Unlimited1>728<!--EU--></DaySkipper_Unlimited1>
+  <DaySkipper_Unlimited2>728<!--US--></DaySkipper_Unlimited2>
+  <TurboA>0</TurboA>
+  <WattFarmer0>9893<!--JP--></WattFarmer0>
+  <WattFarmer1>9893<!--EU--></WattFarmer1>
+  <WattFarmer2>10027<!--US--></WattFarmer2>
+  <FriendDeleteAdd>10244</FriendDeleteAdd>
+  <BerryFarmer0>16783<!--JP--></BerryFarmer0>
+  <BerryFarmer1>16783<!--EU--></BerryFarmer1>
+  <BerryFarmer2>16917<!--US--></BerryFarmer2>
+  <AutoLoto0>21204<!--JP--></AutoLoto0>
+  <AutoLoto1>21204<!--EU--></AutoLoto1>
+  <AutoLoto2>21338<!--US--></AutoLoto2>
+  <BoxRelease>93810</BoxRelease>
+  <AutoFossil0>18401<!--Both top slot--></AutoFossil0>
+  <AutoFossil1>18468<!--One bottom slot--></AutoFossil1>
+  <AutoFossil2>18535<!--Both botton slot--></AutoFossil2>
+  <Auto3DaySkipper0>107041<!--JP--></Auto3DaySkipper0>
+  <Auto3DaySkipper1>107041<!--EU--></Auto3DaySkipper1>
+  <Auto3DaySkipper2>107324<!--US--></Auto3DaySkipper2>
+  <BoxSurpriseTrade0>1962117<!--Complete dex--></BoxSurpriseTrade0>
+  <BoxSurpriseTrade1>2070627<!--Non-complete dex--></BoxSurpriseTrade1>
+  <AutoHost00>146797<!--Wait 1 min, SR--></AutoHost00>
+  <AutoHost01>133867<!--Wait 1 min, No SR--></AutoHost01>
+  <AutoHost10>207074<!--Wait 2 min, SR--></AutoHost10>
+  <AutoHost11>194144<!--Wait 2 min, No SR--></AutoHost11>
+  <AutoHost000>206557<!--Wait 1 min, SR, JP Skip 3 days--></AutoHost000>
+  <AutoHost001>206557<!--Wait 1 min, SR, EU Skip 3 days--></AutoHost001>
+  <AutoHost002>206840<!--Wait 1 min, SR, US Skip 3 days--></AutoHost002>
+  <AutoHost100>266834<!--Wait 2 min, SR, JP Skip 3 days--></AutoHost100>
+  <AutoHost101>266834<!--Wait 2 min, SR, EU Skip 3 days--></AutoHost101>
+  <AutoHost102>267117<!--Wait 2 min, SR, US Skip 3 days--></AutoHost102>
+  <EggCollector>16333</EggCollector>
+  <EggHatcher1280>146233</EggHatcher1280>
+  <EggHatcher2560>158083</EggHatcher2560>
+  <EggHatcher3840>176250</EggHatcher3840>
+  <EggHatcher5120>189402</EggHatcher5120>
+  <EggHatcher6400>206333</EggHatcher6400>
+  <EggHatcher7680>218267</EggHatcher7680>
+  <EggHatcher8960>236350</EggHatcher8960>
+  <EggHatcher10240>247033</EggHatcher10240>
+  <GodEggDuplication>23023</GodEggDuplication>
+  <PurpleBeamFinder>46730</PurpleBeamFinder>
+</Times>

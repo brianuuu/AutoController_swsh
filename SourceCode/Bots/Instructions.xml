@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Instructions>
+  <DaySkipper>
+    <text>System time unsynced</text>
+    <text>Do NOT set current time between daylight saving (1am - 3am)</text>
+    <text>Y-comm glitch activated</text>
+    <text>Goto Pokemon Center to prevent crash</text>
+    <text>Hover cursor on Date and Time</text>
+    <text>Plug the Arduino/Teensy to the Switch</text>
+  </DaySkipper>
+  <DaySkipper_Unlimited>
+    <text>System time unsynced</text>
+    <text>Set current date to 1st of any month with 31 days</text>
+    <text>Y-comm glitch activated</text>
+    <text>Goto Pokemon Center to prevent crash</text>
+    <text>Hover cursor on Date and Time</text>
+    <text>Plug the Arduino/Teensy to the Switch</text>
+  </DaySkipper_Unlimited>
+  <TurboA></TurboA>
+  <WattFarmer>
+    <text>Set text speed to Fast</text>
+    <text>Stand in front of a wishing piece den</text>
+    <text>System time unsynced</text>
+    <text>Y-comm glitch activated</text>
+  </WattFarmer>
+  <FriendDeleteAdd>
+    <text>Hover cursor on the last friend</text>
+    <text>Plug the Arduino/Teensy to the Switch</text>
+  </FriendDeleteAdd>
+  <BerryFarmer>
+    <text>Set text speed to Fast</text>
+    <text>Stand in front of a berry tree</text>
+    <text>Stay away from wild pokemon that can run into you</text>
+    <text>System time unsynced</text>
+    <text>Y-comm glitch activated</text>
+  </BerryFarmer>
+  <AutoLoto>
+    <text>Set text speed to Fast</text>
+    <text>Stand in front of Rotom PC</text>
+    <text>System time unsynced</text>
+    <text>Y-comm glitch activated</text>
+  </AutoLoto>
+  <BoxRelease>
+    <text>Set text speed to Fast, save game first</text>
+    <text>All release boxes are adjacent to each other</text>
+    <text>All release boxes don't have any eggs and completely filled</text>
+    <text>Set cursor mode to "Select" (red)</text>
+    <text>Move cursor to leftmost box's top left corner</text>
+  </BoxRelease>
+  <AutoFossil>
+    <text>Set text speed to Fast, save in front of Cara Liss</text>
+    <text>Fossil pokemon already registered in the Pokedex</text>
+    <text>Turn off asking for nickname in Options</text>
+    <text>Talk to Cara Liss to check the slot for each fossil</text>
+    <text>Have enough number for both fossils</text>
+  </AutoFossil>
+  <Auto3DaySkipper>
+    <text>Set text speed to Fast, ride on a bike</text>
+    <text>Collect watts of a wishing piece den and save</text>
+    <text>System time unsynced</text>
+  </Auto3DaySkipper>
+  <BoxSurpriseTrade>
+    <text>Set text speed to Fast</text>
+    <text>Goto any places that is not Wild Area (reduce lag)</text>
+    <text>Don't stand in front of any NPCs</text>
+    <text>All trade boxes are adjacent to each other</text>
+    <text>All trade boxes don't have any eggs, empty spaces are fine</text>
+    <text>Goto PC and scroll to the leftmost box then exit</text>
+    <text>Connect to the internet</text>
+  </BoxSurpriseTrade>
+  <AutoHost>
+    <text>Set text speed to Fast</text>
+    <text>Collect watts of a wishing piece den and save</text>
+    <text>Disconnet from the internet</text>
+    <text>(Optional) Skipping 3 days require system time unsynced</text>
+    <text>(Optional) Use wired connection for stability</text>
+  </AutoHost>
+  <EggCollector>
+    <text>Set text speed to Fast</text>
+    <text>Set Send to Box to Automatic in Options</text>
+    <text>Have plenty of space in your PC</text>
+    <text>Have a full party without any eggs, collected eggs will goto box</text>
+    <text>Have a fully upgraded Rotom Bike (use WattFarmer)</text>
+    <text>Goto Route 5 Nursery and charge up Rotom Bike turbo boost</text>
+    <text>Cycle to the left side of the Nursery worker, facing North-East</text>
+    <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
+    <text>(Optional) Pokemon in Nursery have different trainer ID</text>
+  </EggCollector>
+  <EggHatcher>
+    <text>Set text speed to Fast</text>
+    <text>Set Give Nicknames to Don't give in Options</text>
+    <text>Have only one pokemon with Flame Body in your party</text>
+    <text>Have the hatching pokemon already registered in the Pokedex</text>
+    <text>Have a fully upgraded Rotom Bike (use WattFarmer)</text>
+    <text>Goto Route 5 Nursery and charge up Rotom Bike turbo boost</text>
+    <text>From nursery, cycle south west until you hit the NPC on the bridge</text>
+    <text>All columns of hatching eggs in PC must be adjacent to each other</text>
+    <text>Each column must have 5 eggs, except the rightmost (last) column</text>
+    <text>All eggs must be in the same egg cycle group</text>
+    <text>Move the cursor to the top left of the leftmost box (first column)</text>
+    <text>Press Y to change the cursor to Multiselect mode (Green)</text>
+  </EggHatcher>
+  <AutoBattleTower>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Rent team "0000-0006-15Y4-3R" at VS Battle Stadium (Team detail in Manual)</text>
+	<text>Join Single Battle on Battle Tower, wait until you can press Fight</text>
+  </AutoBattleTower>
+  <AutoTournament>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Use ONLY Zacian and with ONLY Max PP Up Behemoth Blade (Iron Head)</text>
+	<text>(Optional) Use ONLY one Pokemon from recommended list (check Manual)</text>
+	<text>(Optional) Level up to 100, max IV and EV train the Pokemon you bring</text>
+	<text>Stand in front of Wyndon Stadium receptionist</text>
+  </AutoTournament>
+  <GodEggDuplication>
+    <text>Set text speed to Fast</text>
+    <text>Set Send to Box to Manual in Options</text>
+    <text>Have a full party without any eggs, put target Pokemon on top slot</text>
+    <text>Have a fully upgraded Rotom Bike (use WattFarmer)</text>
+	<text>Put god egg and a Ditto in Route 5 Nursery</text>
+    <text>Charge up Rotom Bike turbo boost</text>
+    <text>Cycle to the left side of the Nursery worker, facing North-East</text>
+    <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
+    <text>(Optional) Pokemon in Nursery have different trainer ID</text>
+  </GodEggDuplication>
+  <PurpleBeamFinder>
+    <text>Set text speed to Fast</text>
+    <text>Have at least one wishing piece</text>
+    <text>Ride on a bike in front of an empty den (with watts collected) and save</text>
+  </PurpleBeamFinder>
+</Instructions>
