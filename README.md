@@ -18,3 +18,8 @@ You should watch the following timestamp of the video, you can skip the others:
 
 # How to use
 Please read the manual **AutoController_Manual.pdf** for more in-depth details for each program and how to use AutoControllerHelper
+
+# Download
+You can download the entire repository as .zip here, alternative from this permenent Google Drive link:
+
+https://drive.google.com/file/d/1BR1ekm2gvtMGBKlSVWNlt_BkQj-KDu7U/view?usp=sharing
