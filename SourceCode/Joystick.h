@@ -110,8 +110,12 @@ typedef struct {
 // Custom button mapping, only provide one combination per enum type
 typedef enum {
 	UP,
+	UP_RIGHT,
+	UP_LEFT,
 	UP_A,
 	DOWN,
+	DOWN_RIGHT,
+	DOWN_LEFT,
 	LEFT,
 	RIGHT,
 	RIGHT_A,
