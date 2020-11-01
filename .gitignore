@@ -1,2 +1,7 @@
 
 SourceCode/output.log
+*.o
+*.d
+*.elf
+*.hex
+*.map

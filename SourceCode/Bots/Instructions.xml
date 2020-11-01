@@ -128,4 +128,20 @@
     <text>Have at least one wishing piece</text>
     <text>Ride on a bike in front of an empty den (with watts collected) and save</text>
   </PurpleBeamFinder>
+  <ShinyFiveRegi>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>First Pokemon must be able to run away from battle (or hold Smoke Bomb)</text>
+    <text>Rock/Ice/Steel: Walk straight to the statue without lighting up any spots</text>
+    <text>Eleki/Drago: Enter a battle with the Regi and run</text>
+    <text>FAST MODE: First Pokemon MUST NOT be shiny/have a showable ability/high happiness</text>
+  </ShinyFiveRegi>
+  <ShinySwordTrio>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>First Pokemon must be able to run away from battle (or hold Smoke Bomb)</text>
+    <text>Run into the trio Pokemon and run</text>
+    <text>Stand on the spot where the trio would spawn, then start camping</text>
+    <text>FAST MODE: First Pokemon MUST NOT be shiny/have a showable ability</text>
+	<text>FAST MODE: ALL Pokemon in the team MUST NOT have high happiness</text>
+	<text>FAST MODE: Weather must be CLEAR, not Sunny, Snowing, Raining etc.</text>
+  </ShinySwordTrio>
 </Instructions>
