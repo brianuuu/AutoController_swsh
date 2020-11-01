@@ -111,7 +111,11 @@ typedef struct {
 typedef enum {
 	UP,
 	UP_A,
+	UP_RIGHT,
+	UP_LEFT,
 	DOWN,
+	DOWN_RIGHT,
+	DOWN_LEFT,
 	LEFT,
 	RIGHT,
 	RIGHT_A,
