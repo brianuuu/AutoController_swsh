@@ -34,7 +34,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 1},			// Comfirm close game
 	{NOTHING, 120},
 	{A, 1},			// Choose game
-	{NOTHING, 50},
+	{NOTHING, 150},
 	{A, 1},			// Pick User
 	{NOTHING, 820},
 	{A, 1},			// Enter game
