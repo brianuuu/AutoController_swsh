@@ -7,4 +7,4 @@ SourceCode/output.log
 *.map
 Make a shortcut of AutoControllerHelper.exe here!.txt
 AutoController_Manual.doc
-*.o
+SourceCode/makefile
