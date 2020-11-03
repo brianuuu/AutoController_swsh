@@ -5,3 +5,6 @@ SourceCode/output.log
 *.elf
 *.hex
 *.map
+Make a shortcut of AutoControllerHelper.exe here!.txt
+AutoController_Manual.doc
+*.o
