@@ -1,7 +1,7 @@
-=====================================================================================
-   Parts of AutoControllerHelper might be subject to other licenses. Only original
-       code written for AutoControllerHelper is subject to the license below.
-=====================================================================================
+=========================================================================================================
+   Parts of AutoControllerHelper & ShinyPixelChecker might be subject to other licenses. Only original
+       code written for AutoControllerHelper & ShinyPixelChecker is subject to the license below.
+=========================================================================================================
 
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007

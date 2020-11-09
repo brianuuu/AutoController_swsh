@@ -2,4 +2,5 @@
 // Please run AutoControllerHelper tool!!!
 
 uint8_t m_type = 3;
-bool m_fastMode = false;
+uint8_t m_mode = 2;
+uint16_t m_battleWaitTicks = 626;

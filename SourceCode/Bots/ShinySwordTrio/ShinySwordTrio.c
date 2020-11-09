@@ -149,6 +149,11 @@ int durationCount = 0;
 int commandIndex = 0;
 int m_endIndex = 2;
 
+// m_mode
+// 0: slow
+// 1: fast (fastest)
+// 2: shiny aware
+
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
@@ -175,8 +180,16 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			// Get the next command sequence (new start and end)
 			if (commandIndex == -1)
 			{
-				commandIndex = 3;
-				m_endIndex = 10;
+				if (m_mode == 2)
+				{
+					commandIndex = 12;
+					m_endIndex = 28;
+				}
+				else
+				{
+					commandIndex = 3;
+					m_endIndex = 11;
+				}
 			}
 		
 			memcpy_P(&tempCommand, &(m_command[commandIndex]), sizeof(Command));
@@ -192,6 +205,10 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
 				case DOWN:
 					ReportData->LY = STICK_MAX;				
+					break;
+					
+				case DPAD_DOWN:
+					ReportData->HAT = HAT_BOTTOM;
 					break;
 
 				case RIGHT:
@@ -266,13 +283,17 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			durationCount++;
 			
 			// Hard-coded overwrite battle wait duration (yes, I don't like this either)
-			if (commandIndex == 4)
+			if (commandIndex == 5) // leave camp timer
 			{
-				tempCommand.duration = (m_fastMode ? 650 : 1000);
+				tempCommand.duration = (m_mode == 0 ? 1000 : 650);
 			}
-			else if (commandIndex == 10)
+			else if (commandIndex == 11) // start camp timer
 			{
-				tempCommand.duration = (m_fastMode ? 280 : 460);
+				tempCommand.duration = (m_mode == 0 ? 460 : 280);
+			}
+			else if (commandIndex == 14) // shiny aware timer
+			{
+				tempCommand.duration = m_battleWaitTicks;
 			}
 
 			if (durationCount > tempCommand.duration)

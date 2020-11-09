@@ -157,6 +157,11 @@ int m_sequence = 0;
 // 3: Regieleki
 // 4: Regidrago
 
+// m_mode
+// 0: slow
+// 1: fast (fastest)
+// 2: shiny aware
+
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
@@ -187,8 +192,16 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				if (m_sequence == 2)
 				{
 					// Encounter + Leave
-					commandIndex = 3;
-					m_endIndex = 11;
+					if (m_mode == 2)
+					{
+						commandIndex = 71;
+						m_endIndex = 88;
+					}
+					else
+					{
+						commandIndex = 3;
+						m_endIndex = 11;
+					}
 					
 					m_sequence = 0;
 				}
@@ -198,32 +211,32 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					{
 						// Regirock
 						commandIndex = 12;
-						m_endIndex = 22;
+						m_endIndex = 23;
 					}
 					else if (m_type == 1)
 					{
 						// Regice
-						commandIndex = 23;
-						m_endIndex = 32;
+						commandIndex = 24;
+						m_endIndex = 34;
 					}
 					else if (m_type == 2)
 					{
 						// Registeel
-						commandIndex = 33;
-						m_endIndex = 43;
+						commandIndex = 35;
+						m_endIndex = 46;
 					}
 					else if (m_type == 3)
 					{
 						// Regieleki
-						commandIndex = 44;
-						m_endIndex = 54;
+						commandIndex = 47;
+						m_endIndex = 58;
 						
 					}
 					else //if (m_type == 4)
 					{
 						// Regidrago
-						commandIndex = 55;
-						m_endIndex = 65;
+						commandIndex = 59;
+						m_endIndex = 70;
 					}
 				}
 			}
@@ -335,10 +348,15 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			durationCount++;
 			
 			// Hard-coded overwrite battle wait duration (yes, I don't like this either)
-			if (commandIndex == 7)
+			if (commandIndex == 7) // slow mode VS fast mode timer
 			{
-				tempCommand.duration = (m_fastMode ? 650 : 1000);
+				tempCommand.duration = (m_mode == 0 ? 1000 : 650);
 			}
+			else if (commandIndex == 75) // shiny aware timer
+			{
+				tempCommand.duration = m_battleWaitTicks;
+			}
+
 
 			if (durationCount > tempCommand.duration)
 			{
