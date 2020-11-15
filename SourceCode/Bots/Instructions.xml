@@ -48,9 +48,10 @@
     <text>Move cursor to leftmost box's top left corner</text>
   </BoxRelease>
   <AutoFossil>
+	<text>Set Send to Boxes to Automatic, Give Nicknames to Don't give</text>
+	<text>Set Sound Effects volume to 0 (Require Hi-tech Earbuds)</text>
     <text>Set text speed to Fast, save in front of Cara Liss</text>
     <text>Fossil pokemon already registered in the Pokedex</text>
-    <text>Turn off asking for nickname in Options</text>
     <text>Talk to Cara Liss to check the slot for each fossil</text>
     <text>Have enough number for both fossils</text>
   </AutoFossil>
@@ -86,6 +87,17 @@
     <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
     <text>(Optional) Pokemon in Nursery have different trainer ID</text>
   </EggCollector>
+  <EggCollector_IT>
+    <text>Set text speed to Fast</text>
+    <text>Set Send to Box to Automatic in Options</text>
+    <text>Have plenty of space in your PC</text>
+    <text>Have a full party without any eggs, collected eggs will goto box</text>
+    <text>Have a fully upgraded Rotom Bike (use WattFarmer)</text>
+    <text>Goto Route 5 Nursery and charge up Rotom Bike turbo boost</text>
+    <text>Cycle to the left side of the Nursery worker, facing North-East</text>
+    <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
+    <text>(Optional) Pokemon in Nursery have different trainer ID</text>
+  </EggCollector_IT>
   <EggHatcher>
     <text>Set text speed to Fast</text>
     <text>Set Give Nicknames to Don't give in Options</text>
@@ -143,5 +155,6 @@
     <text>FAST MODE: First Pokemon MUST NOT be shiny/have a showable ability</text>
 	<text>FAST MODE: ALL Pokemon in the team MUST NOT have high happiness</text>
 	<text>FAST MODE: Weather must be CLEAR, not Sunny, Snowing, Raining etc.</text>
+	<text>SHINY AWARE MODE: No following Pokemon, character facing up</text>
   </ShinySwordTrio>
 </Instructions>

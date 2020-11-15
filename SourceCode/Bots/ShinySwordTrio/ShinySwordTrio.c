@@ -183,7 +183,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				if (m_mode == 2)
 				{
 					commandIndex = 12;
-					m_endIndex = 28;
+					m_endIndex = 33;
 				}
 				else
 				{
@@ -291,7 +291,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			{
 				tempCommand.duration = (m_mode == 0 ? 460 : 280);
 			}
-			else if (commandIndex == 14) // shiny aware timer
+			else if (commandIndex == 22) // shiny aware timer
 			{
 				tempCommand.duration = m_battleWaitTicks;
 			}

@@ -18,9 +18,9 @@
   <AutoLoto1>21204<!--EU--></AutoLoto1>
   <AutoLoto2>21338<!--US--></AutoLoto2>
   <BoxRelease>93810</BoxRelease>
-  <AutoFossil0>18401<!--Both top slot--></AutoFossil0>
-  <AutoFossil1>18468<!--One bottom slot--></AutoFossil1>
-  <AutoFossil2>18535<!--Both botton slot--></AutoFossil2>
+  <AutoFossil0>14881<!--Both top slot--></AutoFossil0>
+  <AutoFossil1>14948<!--One bottom slot--></AutoFossil1>
+  <AutoFossil2>15015<!--Both botton slot--></AutoFossil2>
   <Auto3DaySkipper0>107041<!--JP--></Auto3DaySkipper0>
   <Auto3DaySkipper1>107041<!--EU--></Auto3DaySkipper1>
   <Auto3DaySkipper2>107324<!--US--></Auto3DaySkipper2>
@@ -37,6 +37,7 @@
   <AutoHost101>266834<!--Wait 2 min, SR, EU Skip 3 days--></AutoHost101>
   <AutoHost102>267117<!--Wait 2 min, SR, US Skip 3 days--></AutoHost102>
   <EggCollector>16333</EggCollector>
+  <EggCollector_IT>16333</EggCollector_IT>
   <EggHatcher1280>146233</EggHatcher1280>
   <EggHatcher2560>158083</EggHatcher2560>
   <EggHatcher3840>176250</EggHatcher3840>
@@ -64,4 +65,5 @@
   <ShinyFiveRegi42>41808<!--Shiny aware--></ShinyFiveRegi42>
   <ShinySwordTrio0>41425</ShinySwordTrio0>
   <ShinySwordTrio1>28695<!--Fast mode--></ShinySwordTrio1>
+  <ShinySwordTrio2>29463<!--Shiny aware--></ShinySwordTrio2>
 </Times>

@@ -69,7 +69,7 @@ static const Command m_command[] PROGMEM = {
 	{DOWN, 64},
 	{UP, 23},
 	{RIGHT, 51},
-	{DOWN, 15},
+	{DOWN, 14},
 	{UP, 44},
 	
 	{A, 170},		// Something changed in the air...
@@ -83,7 +83,7 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 35},
 	{DOWN, 47},
 	{RIGHT, 51},
-	{UP, 13},
+	{UP, 12},
 	{DOWN, 60},
 	{LEFT, 24},
 	{UP, 50},

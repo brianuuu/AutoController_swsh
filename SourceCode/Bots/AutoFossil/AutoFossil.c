@@ -184,8 +184,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					if (m_autoSoftReset)
 					{
 						// Soft reset
-						commandIndex = 29;
-						m_endIndex = 40;
+						commandIndex = 27;
+						m_endIndex = 38;
 						
 						m_fossilCount = 0;
 					}
@@ -194,8 +194,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 						if (m_talkSequence == 0)
 						{
 							// Goto HOME and tell player it's finished
-							commandIndex = 29;
-							m_endIndex = 30;
+							commandIndex = 27;
+							m_endIndex = 28;
 							
 							m_talkSequence++;
 						}
@@ -221,7 +221,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					{
 						// Getting fossil
 						commandIndex = 11;
-						m_endIndex = 28;
+						m_endIndex = 26;
 						
 						m_talkSequence = 0;
 						m_fossilCount++;

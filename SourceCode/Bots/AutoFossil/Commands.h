@@ -20,10 +20,10 @@ static const Command m_command[] PROGMEM = {
 	{A, 32},		// 1st fossil
 	{NOTHING, 1},
 	
-	//----------Get fossil [11,28]----------
+	//----------Get fossil [11,26]----------
 	{A, 20},		// Yes please
 	{NOTHING, 1},
-	{A, 160},		// OK. Restoration time...
+	{A, 40},		// OK. Restoration time... (SFX OFF)
 	{NOTHING, 1},
 	{A, 30},		// All right, I'll stick 'em together! ...
 	{NOTHING, 1},
@@ -35,16 +35,14 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 1},
 	{B, 80},		// You received XXX! (please check if this is a shiny here)
 	{NOTHING, 1},
-	{B, 24},		// Send to box
-	{NOTHING, 1},
 	{B, 60},		// XXX has been sent to box
 	{NOTHING, 1},
 	
-	//----------Finish/Prepare SR [29,30]----------
+	//----------Finish/Prepare SR [27,28]----------
 	{HOME, 1},		// (We use this to tell player it is done, if m_autoSoftReset = false
 	{NOTHING, 40},
 	
-	//----------Soft reset [31,40]----------
+	//----------Soft reset [29,38]----------
 	{X, 1},			// Close game
 	{NOTHING, 8},
 	{A, 1},			// Comfirm close game
