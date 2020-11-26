@@ -55,6 +55,14 @@
     <text>Talk to Cara Liss to check the slot for each fossil</text>
     <text>Have enough number for both fossils</text>
   </AutoFossil>
+  <AutoFossil_GR>
+	<text>Set Send to Boxes to Automatic, Give Nicknames to Don't give</text>
+	<text>Set Sound Effects volume to 0 (Require Hi-tech Earbuds)</text>
+    <text>Set text speed to Fast, save in front of Cara Liss</text>
+    <text>Fossil pokemon already registered in the Pokedex</text>
+    <text>Talk to Cara Liss to check the slot for each fossil</text>
+    <text>Have enough number for both fossils</text>
+  </AutoFossil_GR>
   <Auto3DaySkipper>
     <text>Set text speed to Fast, ride on a bike</text>
     <text>Collect watts of a wishing piece den and save</text>

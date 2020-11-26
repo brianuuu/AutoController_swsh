@@ -23,7 +23,7 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 1},
 	{A, 120},		// Yes
 	{NOTHING, 1},
-	{B, 82},		// You received an Egg from the Nursery worker!
+	{B, 92},		// You received an Egg from the Nursery worker!
 	{NOTHING, 1},
 	
 	{A, 32},		// Add to your party
@@ -31,7 +31,7 @@ static const Command m_command[] PROGMEM = {
 	{B, 92},		// Please select a Pokemon to swap from your party
 	{NOTHING, 1},
 	
-	{A, 104},		// Select pokemon
+	{A, 114},		// Select pokemon
 	{NOTHING, 1},
 	{B, 38},		// (Optional) Send the Pokemon to Box as is
 	{NOTHING, 1},
