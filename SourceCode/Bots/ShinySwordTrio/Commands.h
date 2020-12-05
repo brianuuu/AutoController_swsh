@@ -22,8 +22,8 @@ static const Command m_command[] PROGMEM = {
 	{A, 9999},		// OVERWRITTEN, Start camping
 	
 	//----------Encounter + Leave + Camp (Shiny aware) [12,33]----------
-	{RIGHT, 1},		// Little correction. Player will make narrow circles
-	{DOWN, 30}, 	// Go down
+	{UP, 15},		// Little correction. Player will make narrow circles
+	{DOWN, 35}, 	// Go down
 	
 	{X, 1},	
 	{NOTHING, 20},
@@ -31,10 +31,10 @@ static const Command m_command[] PROGMEM = {
 	
 	{X, 10},		// Leave camp
 	{LEFT, 1},
-	{A, 230},		// Black screen delay (account for longest time)
+	{A, 240},		// Black screen delay (account for longest time)
 
-	{LEFT, 1},		// Little correction (when player is facing up and turns down, he always turns by rigth side and he moves a little to right)
-	{UP, 40},		// Go up for encounter
+	{DOWN, 15},		// Little correction (when player is facing up and turns down, he always turns by rigth side and he moves a little to right)
+	{UP, 45},		// Go up for encounter
 	
 	{NOTHING, 9999},// OVERWRITTEN, Time to wait for battle to begin, default 366
 	

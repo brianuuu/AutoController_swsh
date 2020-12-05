@@ -8,3 +8,6 @@ SourceCode/output.log
 Make a shortcut of AutoControllerHelper.exe here!.txt
 AutoController_Manual.doc
 SourceCode/makefile
+SourceCode/Bots/Testing/Commands.h
+SourceCode/Bots/Testing/Config.h
+SourceCode/Bots/Testing/Testing.c
