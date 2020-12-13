@@ -7,16 +7,10 @@
   <DaySkipper_Unlimited1>728<!--EU--></DaySkipper_Unlimited1>
   <DaySkipper_Unlimited2>728<!--US--></DaySkipper_Unlimited2>
   <TurboA>0</TurboA>
-  <WattFarmer0>9893<!--JP--></WattFarmer0>
-  <WattFarmer1>9893<!--EU--></WattFarmer1>
-  <WattFarmer2>10027<!--US--></WattFarmer2>
+  <WattFarmer>8192</WattFarmer>
   <FriendDeleteAdd>10244</FriendDeleteAdd>
-  <BerryFarmer0>16783<!--JP--></BerryFarmer0>
-  <BerryFarmer1>16783<!--EU--></BerryFarmer1>
-  <BerryFarmer2>16917<!--US--></BerryFarmer2>
-  <AutoLoto0>21204<!--JP--></AutoLoto0>
-  <AutoLoto1>21204<!--EU--></AutoLoto1>
-  <AutoLoto2>21338<!--US--></AutoLoto2>
+  <BerryFarmer>16049</BerryFarmer>
+  <AutoLoto>19953</AutoLoto>
   <BoxRelease>93810</BoxRelease>
   <AutoFossil0>14881<!--Both top slot--></AutoFossil0>
   <AutoFossil1>14948<!--One bottom slot--></AutoFossil1>
@@ -24,9 +18,7 @@
   <AutoFossil_GR0>15281<!--Both top slot--></AutoFossil_GR0>
   <AutoFossil_GR1>15348<!--One bottom slot--></AutoFossil_GR1>
   <AutoFossil_GR2>15415<!--Both botton slot--></AutoFossil_GR2>
-  <Auto3DaySkipper0>107041<!--JP--></Auto3DaySkipper0>
-  <Auto3DaySkipper1>107041<!--EU--></Auto3DaySkipper1>
-  <Auto3DaySkipper2>107324<!--US--></Auto3DaySkipper2>
+  <Auto3DaySkipper>100217</Auto3DaySkipper>
   <BoxSurpriseTrade0>1962117<!--Complete dex--></BoxSurpriseTrade0>
   <BoxSurpriseTrade1>2070627<!--Non-complete dex--></BoxSurpriseTrade1>
   <AutoHost00>146797<!--Wait 1 min, SR--></AutoHost00>
@@ -68,5 +60,9 @@
   <ShinyFiveRegi42>41808<!--Shiny aware--></ShinyFiveRegi42>
   <ShinySwordTrio0>41425</ShinySwordTrio0>
   <ShinySwordTrio1>28695<!--Fast mode--></ShinySwordTrio1>
-  <ShinySwordTrio2>29463<!--Shiny aware--></ShinySwordTrio2>
+  <ShinySwordTrio2>31531<!--Shiny aware--></ShinySwordTrio2>
+  <DailyHighlightFarmer>16133</DailyHighlightFarmer>
+  <ShinyRegigigas0>54783<!--SR--></ShinyRegigigas0>
+  <ShinyRegigigas1>55689<!--Shiny aware--></ShinyRegigigas1>
+  <ShinyRegigigas2>563063<!--Shiny aware * 10 + Berry time--></ShinyRegigigas2>
 </Times>

@@ -1,111 +1,94 @@
 #include "../../Joystick.h"
 #include <avr/pgmspace.h>
 
+// Define ECHOES here:
+// 0 will run significantly faster but min button push time is 5 (sticks are 4)
+// 1 is not tested
+// 2 is the regular mode with min push time 1
+#define ECHOES 0
+#if ECHOES <= 1
+	#define SPAM_DURATION 5
+#else
+	#define SPAM_DURATION 1
+#endif
+
 static const Command m_command[] PROGMEM = {
 	//----------Setup [0,2]----------
-	// Press B once to connect
-	{NOTHING, 30},
-	{B, 1},
-	{NOTHING, 1},
+	// Press A once to connect
+	{NOTHING, 80},
+	{A, 10},
+	{NOTHING, 20},
 	
-	//----------Sync and unsync time, goto change date [3,40]----------
+	//----------Sync and unsync time, goto change date [3,39]----------
 	// To System Settings
-	{HOME, 1},
-	{NOTHING, 30},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{NOTHING, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
+	{HOME, 5},
+	{NOTHING, 100},
+	{RIGHT, 4},
+	{RRIGHT, 4},
+	{DOWN, 4},
+	{RIGHT, 4},
+	{A, 120},
 	
 	// To Date and Time
-	{DOWN, 80},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 8},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{NOTHING, 50},
+	{A, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{A, 4},
+	{NOTHING, 30},
 	
 	// Sync and unsync time
-	{A, 1},
-	{NOTHING, 4},
-	{A, 1},
-	{NOTHING, 8},
+	{A, 5},
+	{NOTHING, 5},
+	{A, 5},
+	{NOTHING, 36},
 	
 	// To actually Date and Time
-	{DOWN, 1},
-	{NOTHING, 1},
-	{DOWN, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 7},
+	{DOWN, 4},
+	{RDOWN, 4},
+	{A, 5},
+	{NOTHING, 16},
 	
-	//----------Plus 1 year [41,56]----------
-	{RIGHT, 1},		// EU/US start
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{UP, 1},		// JP start
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},
-	{RIGHT, 1},
-	{NOTHING, 1},	// EU end
-	{RIGHT, 1},
-	{NOTHING, 1},	// US end
-	{RIGHT, 1},		
-	{NOTHING, 1},	// JP end
+	//----------Plus 1 year [40,46]----------
+	{RIGHT, 4},		// EU/US start
+	{RRIGHT, 4},
+	{UP_A, 4},		// JP start
+	{RIGHT, 4},
+	{RRIGHT, 4},	// EU end
+	{RIGHT, 4},		// US end
+	{RRIGHT, 4},	// JP end
 	
-	//----------Back to game [57,62]----------
-	{A, 1},
-	{NOTHING, 4},
-	{HOME, 1},
+	//----------Back to game [47,52]----------
+	{A, 5},
 	{NOTHING, 30},
-	{HOME, 1},
-	{NOTHING, 30},
+	{HOME, 5},
+	{NOTHING, 120},
+	{HOME, 5},
+	{NOTHING, 120},
 	
-	//----------Collect Berry [63,80]----------
-	{A, 16},		// It's a Berry tree. Do you want to shake it?
-	{NOTHING, 1},
-	{A, 12},
-	{NOTHING, 1},
-	{A, 170},		// Yes
-	{NOTHING, 1},
-	{B, 30},		// X fell from the tree!
-	{NOTHING, 1},
-	{B, 65},		// There are X Berries on the ground. Quit
-	{NOTHING, 1},
-	{B, 16},		// You picked up the Betties that fell from the tree!
-	{NOTHING, 1},
-	{B, 16},
-	{NOTHING, 1},
-	{B, 16},
-	{NOTHING, 1},
-	{B, 16},
-	{NOTHING, 14},
+	//----------Save Game [53,56]----------
+	{X, 70},
+	{R, 150},
+	{A, 4},
+	{NOTHING, 420},
 	
-	//----------Save Game [81,86]----------
-	{X, 1},	
-	{NOTHING, 20},
-	{R, 1},
-	{NOTHING, 50},
-	{A, 1},
-	{NOTHING, 140}
+	//----------Collect berries [57,58]----------
+	{A_SPAM, 140},	
+	{B_SPAM, 1040},
 };

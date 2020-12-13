@@ -24,9 +24,9 @@ static const Command m_command[] PROGMEM = {
 	
 	//----------Back to game [9,12]----------
 	{NOTHING, 30},
-	{HOME, 4},
+	{HOME, 5},
 	{NOTHING, 150},
-	{HOME, 4},
+	{HOME, 5},
 	
 	//----------Skip day JP [13,21]----------
 	{A, 5},

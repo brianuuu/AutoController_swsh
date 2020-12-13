@@ -64,7 +64,7 @@
     <text>Have enough number for both fossils</text>
   </AutoFossil_GR>
   <Auto3DaySkipper>
-    <text>Set text speed to Fast, ride on a bike</text>
+    <text>Set text speed to Fast</text>
     <text>Collect watts of a wishing piece den and save</text>
     <text>System time unsynced</text>
   </Auto3DaySkipper>
@@ -159,10 +159,26 @@
     <text>Set text speed to Fast and Battle Effects to Off</text>
     <text>First Pokemon must be able to run away from battle (or hold Smoke Bomb)</text>
     <text>Run into the trio Pokemon and run</text>
-    <text>Stand on the spot where the trio would spawn, then start camping</text>
+    <text>Stand on the spot where the trio spawns (Slow/Fast mode only: start camping)</text>
     <text>FAST MODE: First Pokemon MUST NOT be shiny/have a showable ability</text>
 	<text>FAST MODE: ALL Pokemon in the team MUST NOT have high happiness</text>
 	<text>FAST MODE: Weather must be CLEAR, not Sunny, Snowing, Raining etc.</text>
-	<text>SHINY AWARE MODE: No following Pokemon, character facing up</text>
+	<text>SHINY AWARE MODE: No following Pokemon, avatar facing up</text>
   </ShinySwordTrio>
+  <DailyHighlightFarmer>
+    <text>Set text speed to Fast</text>
+    <text>Stand in front of Watt Trader at Snowslide Slope</text>
+    <text>System time unsynced</text>
+    <text>Y-comm glitch activated</text>
+  </DailyHighlightFarmer>
+  <ShinyRegigigas>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Bring all 5 Regis with you in your team</text>
+    <text>Stand in front of Regigigas den in Giant's Bed and save</text>
+    <text>SOFT RESET MODE: No extra requirement</text>
+	<text>SHINY AWARE MODE: First Pokemon has Reversal to OHKO Regigigas (check Manual)</text>
+	<text>SHINY AWARE MODE: Reversal move of first Pokemon must have at least 10 PP</text>
+	<text>SHINY AWARE MODE: Navigate to beg and hover to Leppa Berry then leave</text>
+	<text>SHINY AWARE MODE: Win the raid manually at least once before starting</text>
+  </ShinyRegigigas>
 </Instructions>

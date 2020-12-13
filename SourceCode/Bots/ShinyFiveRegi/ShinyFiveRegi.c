@@ -1,5 +1,5 @@
 /*
-Pokemon Sword & Shield Fast Egg Collector - Proof-of-Concept
+Pokemon Sword & Shield Regi Shiny Hunt - Proof-of-Concept
 
 Based on the LUFA library's Low-Level Joystick Demo
 	(C) Dean Camera

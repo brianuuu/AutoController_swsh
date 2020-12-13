@@ -138,7 +138,6 @@ typedef enum {
 } State_t;
 State_t state = PROCESS;
 
-#define ECHOES 2
 int echoes = 0;
 USB_JoystickReport_Input_t last_report;
 
@@ -150,8 +149,8 @@ int commandIndex = 0;
 int m_endIndex = 2;
 int m_sequence = 0;
 
-// Saving
-int m_saveCount = 0;
+uint16_t m_saveCount = 0;
+uint16_t m_farmCount = 0;
 
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
@@ -179,49 +178,71 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			// Get the next command sequence (new start and end)
 			if (commandIndex == -1)
 			{
+				if (m_farmTotal > 0 && m_farmCount >= m_farmTotal)
+				{
+					// Goto home and stop the program
+					if (m_endIndex == 50)
+					{
+						state = DONE;
+					}
+					else
+					{
+						commandIndex = 49;
+						m_endIndex = 50;
+					}
+					break;
+				}
+				
 				m_sequence++;
 				if (m_sequence == 1)
 				{
 					// sync and unsync time
 					commandIndex = 3;
-					m_endIndex = 40;
+					m_endIndex = 39;
 				}
 				else if (m_sequence == 2)
 				{
 					// Plus 1 year
 					if (m_JP_EU_US == 0)
 					{
-						commandIndex = 45;
-						m_endIndex = 56;
+						commandIndex = 42;
+						m_endIndex = 46;
 					}
 					else if (m_JP_EU_US == 1)
 					{
-						commandIndex = 41;
-						m_endIndex = 52;
+						commandIndex = 40;
+						m_endIndex = 44;
 					}
 					else // if (m_JP_EU_US == 2)
 					{
-						commandIndex = 41;
-						m_endIndex = 54;
+						commandIndex = 40;
+						m_endIndex = 45;
 					}
 				}
 				else if (m_sequence == 3)
 				{
-					// collect berries
+					// go back to game
+					commandIndex = 47;
+					m_endIndex = 52;
+				}
+				else if (m_sequence == 4)
+				{
+					// shake berry tree once
 					commandIndex = 57;
-					m_endIndex = 80;
+					m_endIndex = 58;
 					
+					m_farmCount++;					
 					m_saveCount++;
 					if (m_saveCount != m_saveAt)
 					{
 						m_sequence = 0;
 					}
 				}
-				else if (m_sequence == 4)
+				else if (m_sequence == 5)
 				{
 					// save game
-					commandIndex = 81;
-					m_endIndex = 86;
+					commandIndex = 53;
+					m_endIndex = 56;
 					
 					m_saveCount = 0;
 					m_sequence = 0;
@@ -235,18 +256,80 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LY = STICK_MIN;				
 					break;
 
-				case LEFT:
-					ReportData->LX = STICK_MIN;				
+				case UP_A:
+					ReportData->LY = STICK_MIN;	
+					ReportData->Button |= SWITCH_A;
 					break;
-
+					
+				case UP_RIGHT:
+					ReportData->LY = STICK_MIN;		
+					ReportData->LX = STICK_MAX;	
+					break;
+				
+				case UP_LEFT:
+					ReportData->LY = STICK_MIN;		
+					ReportData->LX = STICK_MIN;	
+					break;
+					
 				case DOWN:
 					ReportData->LY = STICK_MAX;				
+					break;
+
+				case DOWN_RIGHT:
+					ReportData->LY = STICK_MAX;		
+					ReportData->LX = STICK_MAX;	
+					break;
+				
+				case DOWN_LEFT:
+					ReportData->LY = STICK_MAX;		
+					ReportData->LX = STICK_MIN;	
+					break;
+
+				case LEFT:
+					ReportData->LX = STICK_MIN;				
 					break;
 
 				case RIGHT:
 					ReportData->LX = STICK_MAX;				
 					break;
+					
+				case RIGHT_A:
+					ReportData->LX = STICK_MAX;	
+					ReportData->Button |= SWITCH_A;					
+					break;
+					
+				case RUP:
+					ReportData->RY = STICK_MIN;				
+					break;
 
+				case RDOWN:
+					ReportData->RY = STICK_MAX;				
+					break;
+					
+				case RLEFT:
+					ReportData->RX = STICK_MIN;				
+					break;
+
+				case RRIGHT:
+					ReportData->RX = STICK_MAX;				
+					break;
+					
+				case DPAD_UP:
+					ReportData->HAT = HAT_TOP;
+					break;
+					
+				case DPAD_DOWN:
+					ReportData->HAT = HAT_BOTTOM;
+					break;
+					
+				case DPAD_LEFT:
+					ReportData->HAT = HAT_LEFT;
+					break;
+					
+				case DPAD_RIGHT:
+					ReportData->HAT = HAT_RIGHT;
+					break;
+					
 				case X:
 					ReportData->Button |= SWITCH_X;
 					break;
@@ -258,20 +341,40 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				case A:
 					ReportData->Button |= SWITCH_A;
 					break;
-
+					
+				case A_SPAM:
+				{
+					// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+					if ((durationCount / SPAM_DURATION) % 2 == 0)
+					{
+						ReportData->Button |= SWITCH_A;
+					}
+					break;
+				}
+				
 				case B:
 					ReportData->Button |= SWITCH_B;
 					break;
+					
+				case B_SPAM:
+				{
+					// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+					if ((durationCount / SPAM_DURATION) % 2 == 0)
+					{
+						ReportData->Button |= SWITCH_B;
+					}
+					break;
+				}
 
-				/*case L:
+				case L:
 					ReportData->Button |= SWITCH_L;
-					break;*/
+					break;
 
 				case R:
 					ReportData->Button |= SWITCH_R;
 					break;
 
-				/*case ZL:
+				case ZL:
 					ReportData->Button |= SWITCH_ZL;
 					break;
 
@@ -293,7 +396,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
 				case RCLICK:
 					ReportData->Button |= SWITCH_RCLICK;
-					break;*/
+					break;
 
 				case TRIGGERS:
 					ReportData->Button |= SWITCH_L | SWITCH_R;
@@ -303,9 +406,9 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->Button |= SWITCH_HOME;
 					break;
 
-				/*case CAPTURE:
+				case CAPTURE:
 					ReportData->Button |= SWITCH_CAPTURE;
-					break;*/
+					break;
 
 				default:
 					// really nothing lol

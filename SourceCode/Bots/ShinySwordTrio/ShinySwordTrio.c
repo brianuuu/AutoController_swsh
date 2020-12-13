@@ -1,5 +1,5 @@
 /*
-Pokemon Sword & Shield Fast Egg Collector - Proof-of-Concept
+Pokemon Sword & Shield Sword of Justice Shiny Hunt - Proof-of-Concept
 
 Based on the LUFA library's Low-Level Joystick Demo
 	(C) Dean Camera
@@ -138,7 +138,6 @@ typedef enum {
 } State_t;
 State_t state = PROCESS;
 
-#define ECHOES 2
 int echoes = 0;
 USB_JoystickReport_Input_t last_report;
 
@@ -148,6 +147,9 @@ int durationCount = 0;
 // start and end index of "Setup"
 int commandIndex = 0;
 int m_endIndex = 2;
+
+int m_sequence = 0;
+int m_cycle = 0;
 
 // m_mode
 // 0: slow
@@ -180,6 +182,50 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			// Get the next command sequence (new start and end)
 			if (commandIndex == -1)
 			{
+				if (m_sequence > 0)
+				{
+					if (m_sequence == 1)
+					{
+						// Minus 1 hour
+						commandIndex = 64;
+						if (m_JP_EU_US == 2)
+						{
+							m_endIndex = 69;
+						}
+						else
+						{
+							m_endIndex = 68;
+						}
+						m_sequence++;
+					}
+					else // if (m_sequence == 2)
+					{
+						commandIndex = 70;
+						m_endIndex = 74;
+						
+						m_sequence = 0;
+						m_cycle = 0;
+					}
+					break;
+				}
+				
+				if (m_hourlyRollback)
+				{
+					m_cycle++;
+					if ((m_mode == 0 && m_cycle > 88)	// 41.425 * 87 = 3645.4s
+					||	(m_mode == 1 && m_cycle > 127)	// 28.695 * 127 = 3644.265s
+					||	(m_mode == 2 && m_cycle > 117))	// 31.531 * 117 = 3689.127s
+					{
+						// Goto system clock
+						commandIndex = 34;
+						m_endIndex = 63;
+						
+						m_sequence = 1;
+						break;
+					}
+				}
+				
+				// Encounter pokemon
 				if (m_mode == 2)
 				{
 					commandIndex = 12;
@@ -196,42 +242,125 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			switch (tempCommand.button)
 			{
 				case UP:
+					ReportData->LY = STICK_MIN;				
+					break;
+
+				case UP_A:
 					ReportData->LY = STICK_MIN;	
+					ReportData->Button |= SWITCH_A;
+					break;
+					
+				case UP_RIGHT:
+					ReportData->LY = STICK_MIN;		
+					ReportData->LX = STICK_MAX;	
+					break;
+				
+				case UP_LEFT:
+					ReportData->LY = STICK_MIN;		
+					ReportData->LX = STICK_MIN;	
+					break;
+					
+				case DOWN:
+					ReportData->LY = STICK_MAX;				
+					break;
+
+				case DOWN_A:
+					ReportData->LY = STICK_MAX;	
+					ReportData->Button |= SWITCH_A;
+					break;
+
+				case DOWN_RIGHT:
+					ReportData->LY = STICK_MAX;		
+					ReportData->LX = STICK_MAX;	
+					break;
+				
+				case DOWN_LEFT:
+					ReportData->LY = STICK_MAX;		
+					ReportData->LX = STICK_MIN;	
 					break;
 
 				case LEFT:
 					ReportData->LX = STICK_MIN;				
 					break;
 
-				case DOWN:
-					ReportData->LY = STICK_MAX;				
+				case RIGHT:
+					ReportData->LX = STICK_MAX;				
+					break;
+					
+				case RIGHT_A:
+					ReportData->LX = STICK_MAX;	
+					ReportData->Button |= SWITCH_A;					
+					break;
+					
+				case RUP:
+					ReportData->RY = STICK_MIN;				
+					break;
+
+				case RDOWN:
+					ReportData->RY = STICK_MAX;				
+					break;
+					
+				case RLEFT:
+					ReportData->RX = STICK_MIN;				
+					break;
+
+				case RRIGHT:
+					ReportData->RX = STICK_MAX;				
+					break;
+					
+				case DPAD_UP:
+					ReportData->HAT = HAT_TOP;
 					break;
 					
 				case DPAD_DOWN:
 					ReportData->HAT = HAT_BOTTOM;
 					break;
-
-				case RIGHT:
-					ReportData->LX = STICK_MAX;				
+					
+				case DPAD_LEFT:
+					ReportData->HAT = HAT_LEFT;
 					break;
-
+					
+				case DPAD_RIGHT:
+					ReportData->HAT = HAT_RIGHT;
+					break;
+					
 				case X:
 					ReportData->Button |= SWITCH_X;
 					break;
 
-				/*case Y:
+				case Y:
 					ReportData->Button |= SWITCH_Y;
-					break;*/
+					break;
 
 				case A:
 					ReportData->Button |= SWITCH_A;
 					break;
-
+					
+				case A_SPAM:
+				{
+					// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+					if ((durationCount / SPAM_DURATION) % 2 == 0)
+					{
+						ReportData->Button |= SWITCH_A;
+					}
+					break;
+				}
+				
 				case B:
 					ReportData->Button |= SWITCH_B;
 					break;
+					
+				case B_SPAM:
+				{
+					// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+					if ((durationCount / SPAM_DURATION) % 2 == 0)
+					{
+						ReportData->Button |= SWITCH_B;
+					}
+					break;
+				}
 
-				/*case L:
+				case L:
 					ReportData->Button |= SWITCH_L;
 					break;
 
@@ -261,7 +390,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
 				case RCLICK:
 					ReportData->Button |= SWITCH_RCLICK;
-					break;*/
+					break;
 
 				case TRIGGERS:
 					ReportData->Button |= SWITCH_L | SWITCH_R;
@@ -271,9 +400,9 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->Button |= SWITCH_HOME;
 					break;
 
-				/*case CAPTURE:
+				case CAPTURE:
 					ReportData->Button |= SWITCH_CAPTURE;
-					break;*/
+					break;
 
 				default:
 					// really nothing lol
