@@ -185,14 +185,14 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				else if (m_sequence == 17)
 				{
 					// Done skipping 3 days
-					commandIndex = 78;
-					m_endIndex = 82;
+					commandIndex = 79;
+					m_endIndex = 83;
 				}
 				else if (m_sequence > 17)
 				{
 					// Spam down button for 10secs, user should check the pokemon
-					commandIndex = 83;
-					m_endIndex = 84;
+					commandIndex = 84;
+					m_endIndex = 85;
 					
 					if (m_sequence >= 120)
 					{
@@ -204,12 +204,12 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					if (m_sequence == 2)
 					{
 						// First time, just invite others
-						commandIndex = 70;
+						commandIndex = 71;
 					}
 					else
 					{
 						// Collect watts and invite others
-						commandIndex = 66;
+						commandIndex = 67;
 					}
 					m_endIndex = 77;
 				}
@@ -223,32 +223,32 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					// Goto date and time 2
 					commandIndex = 46;
-					m_endIndex = 48;
+					m_endIndex = 49;
 				}
 				else if (m_sequence % 5 == 0)	// 5,10,15
 				{
 					// Plus 1 year
 					if (m_JP_EU_US == 0)
 					{
-						commandIndex = 51;
-						m_endIndex = 55;
+						commandIndex = 52;
+						m_endIndex = 56;
 					}
 					else if (m_JP_EU_US == 1)
 					{
-						commandIndex = 49;
-						m_endIndex = 53;
+						commandIndex = 50;
+						m_endIndex = 54;
 					}
 					else // if (m_JP_EU_US == 2)
 					{
-						commandIndex = 49;
-						m_endIndex = 54;
+						commandIndex = 50;
+						m_endIndex = 55;
 					}
 				}
 				else if (m_sequence % 5 == 1)	// 6,11,16
 				{
 					// Back to game and quit raid
-					commandIndex = 56;
-					m_endIndex = 65;
+					commandIndex = 57;
+					m_endIndex = 66;
 				}
 			}
 		

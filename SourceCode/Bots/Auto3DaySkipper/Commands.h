@@ -70,12 +70,13 @@ static const Command m_command[] PROGMEM = {
 	{A, 1},			// Enter game
 	{NOTHING, 460},
 	
-	//----------To actually Date and Time [46,48]----------
+	//----------To actually Date and Time [46,49]----------
 	{DOWN, 1},
 	{RDOWN, 1},
 	{A, 8},
+	{NOTHING, 1},
 	
-	//----------Plus 1 year [49,55]----------
+	//----------Plus 1 year [50,56]----------
 	{RIGHT, 1},		// EU/US start
 	{RRIGHT, 1},
 	{UP_A, 1},		// JP start
@@ -84,7 +85,7 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 1},		// US end
 	{RRIGHT, 1},	// JP end
 	
-	//----------Back to game after plus 1 year [56,61]----------
+	//----------Back to game after plus 1 year [57,62]----------
 	{A, 1},
 	{NOTHING, 4},
 	{HOME, 1},
@@ -92,13 +93,13 @@ static const Command m_command[] PROGMEM = {
 	{HOME, 1},
 	{NOTHING, 30},
 	
-	//----------Quit the raid [62,65]----------
+	//----------Quit the raid [63,66]----------
 	{B, 32},
 	{NOTHING, 1},
 	{A, 200},		// WAITING on local communication
 	{NOTHING, 1},
 	
-	//----------Collect Watts [66,77]----------
+	//----------Collect Watts [67,78]----------
 	{A, 12},		// Talk
 	{NOTHING, 1},
 	{A, 6},			// There's energy pouring out from the den!
@@ -113,7 +114,7 @@ static const Command m_command[] PROGMEM = {
 	{HOME, 1},		// Goto home for day skip
 	{NOTHING, 30},
 	
-	//----------Collect watts then scroll to make sound [78,84]----------
+	//----------Collect watts then scroll to make sound [79,85]----------
 	{A, 12},		// Talk
 	{NOTHING, 1},
 	{A, 6},			// There's energy pouring out from the den!
