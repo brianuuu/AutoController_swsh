@@ -211,7 +211,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 						// Collect watts and invite others
 						commandIndex = 67;
 					}
-					m_endIndex = 77;
+					m_endIndex = 78;
 				}
 				else if (m_sequence % 5 == 3)	// 3,8,13
 				{
