@@ -119,7 +119,7 @@ static const Command m_command[] PROGMEM = {
 	
 	// Back to game
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{HOME, 1},
 	{NOTHING, 60},
 	{A, 1},				// Error message
@@ -129,7 +129,7 @@ static const Command m_command[] PROGMEM = {
 	//----------Sync and unsync time, goto change date [93,124]----------
 	// To System Settings
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{RIGHT, 1},
 	{NOTHING, 1},
 	{RIGHT, 1},
@@ -144,17 +144,17 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 1},
 	
 	// To Date and Time
-	{DOWN, 80},
+	{DOWN, 86},
 	{NOTHING, 1},
 	{A, 1},
 	{NOTHING, 1},
 	{DOWN, 1},
-	{NOTHING, 1},
+	{RDOWN, 1},
 	{DOWN, 1},
-	{NOTHING, 1},
+	{RDOWN, 10},
 	{DOWN, 1},
+	{RDOWN, 1},
 	{NOTHING, 1},
-	{DOWN, 1},
 	{NOTHING, 1},
 	{A, 1},
 	{NOTHING, 8},
@@ -197,9 +197,9 @@ static const Command m_command[] PROGMEM = {
 	
 	//----------Back to game [149,152]----------
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	
 	//----------Quit the raid [153,156]----------
 	{B, 32},
@@ -264,7 +264,7 @@ static const Command m_command[] PROGMEM = {
 	
 	//----------Back to game [202,205]----------
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{HOME, 1},
 	{NOTHING, 450},	// wait 10 more seconds before start raid
 };

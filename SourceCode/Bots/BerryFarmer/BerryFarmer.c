@@ -181,14 +181,14 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				if (m_farmTotal > 0 && m_farmCount >= m_farmTotal)
 				{
 					// Goto home and stop the program
-					if (m_endIndex == 50)
+					if (m_endIndex == 53)
 					{
 						state = DONE;
 					}
 					else
 					{
-						commandIndex = 49;
-						m_endIndex = 50;
+						commandIndex = 52;
+						m_endIndex = 53;
 					}
 					break;
 				}
@@ -198,38 +198,38 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					// sync and unsync time
 					commandIndex = 3;
-					m_endIndex = 39;
+					m_endIndex = 42;
 				}
 				else if (m_sequence == 2)
 				{
 					// Plus 1 year
 					if (m_JP_EU_US == 0)
 					{
-						commandIndex = 42;
-						m_endIndex = 46;
+						commandIndex = 45;
+						m_endIndex = 49;
 					}
 					else if (m_JP_EU_US == 1)
 					{
-						commandIndex = 40;
-						m_endIndex = 44;
+						commandIndex = 43;
+						m_endIndex = 47;
 					}
 					else // if (m_JP_EU_US == 2)
 					{
-						commandIndex = 40;
-						m_endIndex = 45;
+						commandIndex = 43;
+						m_endIndex = 48;
 					}
 				}
 				else if (m_sequence == 3)
 				{
 					// go back to game
-					commandIndex = 47;
-					m_endIndex = 52;
+					commandIndex = 50;
+					m_endIndex = 55;
 				}
 				else if (m_sequence == 4)
 				{
 					// shake berry tree once
-					commandIndex = 57;
-					m_endIndex = 58;
+					commandIndex = 60;
+					m_endIndex = 61;
 					
 					m_farmCount++;					
 					m_saveCount++;
@@ -241,8 +241,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				else if (m_sequence == 5)
 				{
 					// save game
-					commandIndex = 53;
-					m_endIndex = 56;
+					commandIndex = 56;
+					m_endIndex = 59;
 					
 					m_saveCount = 0;
 					m_sequence = 0;

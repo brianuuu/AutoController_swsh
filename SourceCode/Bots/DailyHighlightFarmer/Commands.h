@@ -19,7 +19,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 10},
 	{NOTHING, 20},
 	
-	//----------Sync and unsync time, goto change date [3,39]----------
+	//----------Sync and unsync time, goto change date [3,42]----------
 	// To System Settings
 	{HOME, 5},
 	{NOTHING, 100},
@@ -44,10 +44,13 @@ static const Command m_command[] PROGMEM = {
 	{RDOWN, 4},
 	{DOWN, 4},
 	{RDOWN, 4},
+	{DOWN, 4},
 	{NOTHING, 50},
 	{A, 4},
 	{DOWN, 4},
 	{RDOWN, 4},
+	{DOWN, 4},
+	{RDOWN, 30},
 	{DOWN, 4},
 	{RDOWN, 4},
 	{A, 4},
@@ -65,7 +68,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 5},
 	{NOTHING, 16},
 	
-	//----------Plus 1 year [40,46]----------
+	//----------Plus 1 year [43,49]----------
 	{RIGHT, 4},		// EU/US start
 	{RRIGHT, 4},
 	{UP_A, 4},		// JP start
@@ -74,7 +77,7 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 4},		// US end
 	{RRIGHT, 4},	// JP end
 	
-	//----------Back to game [47,52]----------
+	//----------Back to game [50,55]----------
 	{A, 5},
 	{NOTHING, 30},
 	{HOME, 5},
@@ -82,13 +85,13 @@ static const Command m_command[] PROGMEM = {
 	{HOME, 5},
 	{NOTHING, 120},
 	
-	//----------Save Game [53,56]----------
+	//----------Save Game [56,59]----------
 	{X, 70},
 	{R, 150},
 	{A, 4},
 	{NOTHING, 420},
 	
-	//----------Get today's highlight [57,66]----------
+	//----------Get today's highlight [60,69]----------
 	{A, 68},		// Talk
 	{B, 34},
 	{DPAD_DOWN, 4},

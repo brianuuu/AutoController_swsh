@@ -25,9 +25,9 @@ static const Command m_command[] PROGMEM = {
 	{X, 1},			// Close game
 	{NOTHING, 8},
 	{A, 1},			// Comfirm close game
-	{NOTHING, 120},
+	{NOTHING, 180}, // Wait for Wi-Fi connection too...
 	
-	//----------To System Settings [9,33]----------
+	//----------To System Settings [9,36]----------
 	{RIGHT, 1},
 	{RRIGHT, 1},
 	{DOWN, 1},
@@ -47,22 +47,25 @@ static const Command m_command[] PROGMEM = {
 	{RDOWN, 1},
 	{DOWN, 1},
 	{RDOWN, 1},
-	{A, 10},
+	{DOWN, 1},
+	{A, 12},
 	{DOWN, 1},
 	{RDOWN, 1},
+	{DOWN, 1},
+	{RDOWN, 10},
 	{DOWN, 1},
 	{RDOWN, 1},
 	{A, 10},
 	
-	//----------Sync and unsync time [34,39]----------
+	//----------Sync and unsync time [37,40]----------
 	{NOTHING, 1},
 	{A, 4},
 	{NOTHING, 1},
 	{A, 10},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	
-	//----------Start game [40,45]----------
+	//----------Start game [43,48]----------
 	{A, 1},			// Choose game
 	{NOTHING, 50},
 	{A, 1},			// Pick User
@@ -70,13 +73,13 @@ static const Command m_command[] PROGMEM = {
 	{A, 1},			// Enter game
 	{NOTHING, 460},
 	
-	//----------To actually Date and Time [46,49]----------
+	//----------To actually Date and Time [49,52]----------
 	{DOWN, 1},
 	{RDOWN, 1},
 	{A, 8},
 	{NOTHING, 1},
 	
-	//----------Plus 1 year [50,56]----------
+	//----------Plus 1 year [53,59]----------
 	{RIGHT, 1},		// EU/US start
 	{RRIGHT, 1},
 	{UP_A, 1},		// JP start
@@ -85,21 +88,21 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 1},		// US end
 	{RRIGHT, 1},	// JP end
 	
-	//----------Back to game after plus 1 year [57,62]----------
+	//----------Back to game after plus 1 year [60,65]----------
 	{A, 1},
-	{NOTHING, 4},
+	{NOTHING, 8},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	
-	//----------Quit the raid [63,66]----------
+	//----------Quit the raid [66,69]----------
 	{B, 32},
 	{NOTHING, 1},
 	{A, 200},		// WAITING on local communication
 	{NOTHING, 1},
 	
-	//----------Collect Watts [67,78]----------
+	//----------Collect Watts [70,81]----------
 	{A, 12},		// Talk
 	{NOTHING, 1},
 	{A, 6},			// There's energy pouring out from the den!
@@ -112,9 +115,9 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 1},
 	
 	{HOME, 1},		// Goto home for day skip
-	{NOTHING, 30},
+	{NOTHING, 40},
 	
-	//----------Collect watts then scroll to make sound [79,85]----------
+	//----------Collect watts then scroll to make sound [82,88]----------
 	{A, 12},		// Talk
 	{NOTHING, 1},
 	{A, 6},			// There's energy pouring out from the den!

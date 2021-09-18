@@ -63,10 +63,10 @@ static const Command m_command[] PROGMEM = {
 	{DPAD_DOWN, 1},
 	{A, 10}, 		// Enter Pokemon summary (ignore if not shiny)
 	
-	//----------Hourly Rollback [34,63]----------
+	//----------Hourly Rollback [34,66]----------
 	// To System Settings
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{RIGHT, 1},
 	{RRIGHT, 1},
 	{DOWN, 1},
@@ -86,9 +86,12 @@ static const Command m_command[] PROGMEM = {
 	{RDOWN, 1},
 	{DOWN, 1},
 	{RDOWN, 1},
-	{A, 10},
+	{DOWN, 1},
+	{A, 12},
 	{DOWN, 1},
 	{RDOWN, 1},
+	{DOWN, 1},
+	{RDOWN, 10},
 	{DOWN, 1},
 	{RDOWN, 1},
 	{A, 10},
@@ -98,7 +101,7 @@ static const Command m_command[] PROGMEM = {
 	{RDOWN, 1},
 	{A, 8},
 	
-	// ----------Plus 1 year [64,69]----------
+	// ----------Plus 1 year [67,72]----------
 	{RIGHT, 1},		// All start
 	{RRIGHT, 1},
 	{RIGHT, 1},
@@ -106,10 +109,10 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 1},		// JP/EU end
 	{RRIGHT, 1},	// US end
 	
-	// ----------Back to game [70,74]----------
-	{A, 5},
+	// ----------Back to game [73,77]----------
+	{A, 8},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 	{HOME, 1},
-	{NOTHING, 30},
+	{NOTHING, 40},
 };

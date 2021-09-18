@@ -11,3 +11,6 @@ SourceCode/makefile
 SourceCode/Bots/Testing/Commands.h
 SourceCode/Bots/Testing/Config.h
 SourceCode/Bots/Testing/Testing.c
+Screenshots/
+Logs/
+Hex/
