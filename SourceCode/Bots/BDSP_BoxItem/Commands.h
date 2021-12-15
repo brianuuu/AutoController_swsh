@@ -8,7 +8,7 @@ static const Command m_command[] PROGMEM = {
 	{B, 1},
 	{NOTHING, 1},
 	
-	//----------Release Pokemon [3,16]----------
+	//----------Get items from box [3,16]----------
 	{A, 10},
 	{NOTHING, 1},
 	{DOWN, 1},

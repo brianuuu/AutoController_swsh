@@ -199,9 +199,9 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 						}
 						else
 						{
-							// Next box
-							commandIndex = 17;
-							m_endIndex = 36;
+							// Enter 2nd menu
+							commandIndex = 13;
+							m_endIndex = 34;
 							
 							m_row = 1;
 						}
@@ -209,8 +209,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					else
 					{
 						// Next row
-						commandIndex = 39;
-						m_endIndex = 50;
+						commandIndex = 37;
+						m_endIndex = 48;
 						
 						m_row++;
 					}
@@ -222,9 +222,9 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					if (!m_released)
 					{
-						// Release pokemon
+						// Get items from box
 						commandIndex = 3;
-						m_endIndex = 16;
+						m_endIndex = 12;
 						
 						m_column++;
 						m_released = true;
@@ -232,8 +232,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					else
 					{
 						// Next pokemon
-						commandIndex = 37;
-						m_endIndex = 38;
+						commandIndex = 35;
+						m_endIndex = 36;
 						
 						m_released = false;
 					}
@@ -259,13 +259,13 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LX = STICK_MAX;				
 					break;
 
-				/*case X:
+				case X:
 					ReportData->Button |= SWITCH_X;
 					break;
 
 				case Y:
 					ReportData->Button |= SWITCH_Y;
-					break;*/
+					break;
 
 				case A:
 					ReportData->Button |= SWITCH_A;

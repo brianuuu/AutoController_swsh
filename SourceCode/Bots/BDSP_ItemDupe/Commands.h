@@ -8,9 +8,7 @@ static const Command m_command[] PROGMEM = {
 	{B, 1},	// Line 1
 	{NOTHING, 1},	// Line 2
 	
-	//----------Release Pokemon [3,12]----------
-	
-	//get items
+	//----------Get items from box [3,12]----------
 	{A, 10},	// Line 3
 	{NOTHING, 1},	// Line 4
 	{DOWN, 1},	// Line 5
@@ -23,7 +21,7 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 20},	// Line 12
 	
 	//----------Movement [13,48]----------
-	// Next box [13-34]
+	// Enter 2nd menu [13-34]
 	{B, 1},	// Line 13
 	{NOTHING, 95},	// Line 14
 	{B, 1},	// Line 15
