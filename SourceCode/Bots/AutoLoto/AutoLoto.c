@@ -224,7 +224,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					// back to game and loto
 					commandIndex = 50;
-					m_endIndex = 62;
+					m_endIndex = 64;
 					
 					m_sequence = 0;
 					m_skip++;
