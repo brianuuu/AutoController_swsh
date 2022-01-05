@@ -6,15 +6,5 @@ Since System Update v3.0.0, the Nintendo Switch recognizes the Pokken Tournament
 
 This project implements a modified version of HORI's Pokken Tournament Pro Pad USB descriptors to allow for the creation of custom controllers for the Nintendo Switch.
 
-# Before You Start
-Please watch the following video before you start anything!!!
-
-https://www.youtube.com/watch?v=y2xFf7e_KSU&list=PLrAfKLfOSiGFv6wjohlEXQqYjEIoBOkfX
-
-You should watch the following timestamp of the video, you can skip the others:
-* 0:00 - 3:07 Hardwares you will need to buy (Arduino/Teensy/Knockoffs)
-* 3:07 - 3:47 Software required for the hardware you are using (WindAVR/Flip/TeensyLoader)
-* 5:58 - 8:02 How to load .hex into your microcontroller
-
 # How to use
 Please read the manual **AutoController_Manual.pdf** for more in-depth details for each program and how to use AutoControllerHelper

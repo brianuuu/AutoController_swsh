@@ -181,4 +181,12 @@
 	<text>SHINY AWARE MODE: Navigate to beg and hover to Leppa Berry then leave</text>
 	<text>SHINY AWARE MODE: Win the raid manually at least once before starting</text>
   </ShinyRegigigas>
+  <BDSP_ResetDialgaPalkia>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Save in front of Dialga/Palkia</text>
+  </BDSP_ResetDialgaPalkia>
+  <BDSP_ResetStarter>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Save just before entering Lake Verity</text>
+  </BDSP_ResetStarter>
 </Instructions>

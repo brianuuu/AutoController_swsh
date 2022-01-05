@@ -8,9 +8,8 @@ SourceCode/output.log
 Make a shortcut of AutoControllerHelper.exe here!.txt
 AutoController_Manual.doc
 SourceCode/makefile
-SourceCode/Bots/Testing/Commands.h
-SourceCode/Bots/Testing/Config.h
-SourceCode/Bots/Testing/Testing.c
+SourceCode/Bots/RemoteControl_AutoMaxLair/
+SourceCode/Bots/Others_Testing/
 Screenshots/
 Logs/
 Hex/
