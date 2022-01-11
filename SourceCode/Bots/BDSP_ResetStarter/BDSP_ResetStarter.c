@@ -175,13 +175,13 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			if (commandIndex == -1)
 			{
 				commandIndex = 3;
-				m_endIndex = 14;
+				m_endIndex = 19;
 			}
 		
 			memcpy_P(&tempCommand, &(m_command[commandIndex]), sizeof(Command));
 			
 			// OVERRIDE: command to goto the starter player want
-			if (commandIndex == 9)
+			if (commandIndex == 14)
 			{
 				if (m_starter == 1)
 				{

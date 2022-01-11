@@ -91,12 +91,16 @@
 	<C_Loop>A,1,BSpam,26</C_Loop>
   </SmartWattFarmer>
   <SmartBDSPDialgaPalkia>
-	<C_Restart>Home,1,Nothing,21,X,1,ASpam,850,LUp,6,BSpam,120,Nothing,200</C_Restart>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,120</C_Restart>
+	<C_RestartNoUpdate>Home,1,Nothing,21,X,10,A,20,LDown,1,LUp,1,A,20,LUp,1,ASpam,120</C_RestartNoUpdate>
+	<C_Talk>LUp,40,BSpam,120,Nothing,200</C_Talk>
 	<C_Capture>Capture,22</C_Capture>
   </SmartBDSPDialgaPalkia>
   <SmartBDSPStarter>
-	<C_Restart>Home,1,Nothing,21,X,1,ASpam,850,LUp,6,BSpam,900</C_Restart>
-	<C_Choose>Nothing,1,A,22,LUp,1,A,1,Nothing,200</C_Choose>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,120</C_Restart>
+	<C_RestartNoUpdate>Home,1,Nothing,21,X,10,A,20,LDown,1,LUp,1,A,20,LUp,1,ASpam,120</C_RestartNoUpdate>
+	<C_Talk>LUp,40,BSpam,900</C_Talk>
+	<C_Choose>Nothing,1,A,22,LUp,1,A,1,Nothing,150</C_Choose>
 	<C_Capture>Capture,22</C_Capture>
   </SmartBDSPStarter>
 </SmartProgramCommands>

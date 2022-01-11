@@ -19,11 +19,16 @@ static const Command m_command[] PROGMEM = {
 	{B, 1},
 	{NOTHING, 1},
 	
-	//----------Loop [3,9]----------
+	//----------Loop [3,14]----------
 	{HOME, 1},
 	{NOTHING, 40},
-	{X, 1},			// Close game
-	{A_SPAM, 1700},
+	{X, 20},		// Close game
+	{A, 40},
+	{DOWN, 1},		
+	{UP, 1},		// Cancel DOWN if no game, otherwise goto Start Software
+	{A, 40},
+	{UP, 1},		// Goto Start Software
+	{A_SPAM, 1800},
 	
 	{UP, 10},		// Walk up to Dialga/Palkia
 	{A_SPAM, 100},
