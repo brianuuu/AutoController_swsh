@@ -36,10 +36,10 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip day EU/US [22,34]----------
@@ -52,11 +52,11 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY}
 };

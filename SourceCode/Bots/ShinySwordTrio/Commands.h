@@ -105,7 +105,7 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 1},		// All start
 	{RRIGHT, 1},
 	{RIGHT, 1},
-	{DOWN_A, 1},
+	{DOWN | A, 1},
 	{RIGHT, 1},		// JP/EU end
 	{RRIGHT, 1},	// US end
 	

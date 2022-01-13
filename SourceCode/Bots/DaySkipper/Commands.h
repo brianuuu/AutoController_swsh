@@ -36,10 +36,10 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip month JP [22,33]----------
@@ -52,11 +52,11 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{UP, 4},
 	{RLEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip year JP [34,48]----------
@@ -71,12 +71,12 @@ static const Command m_command[] PROGMEM = {
 	{RLEFT, 4},
 	{UP, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 	
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip day EU/US [49,61]----------
@@ -89,12 +89,12 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip month EU [62,75]----------
@@ -107,13 +107,13 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{NOTHING, 2},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip year EU [76,90]----------
@@ -126,14 +126,14 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{RLEFT, 4},
 	{LEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{NOTHING, 2},
-	{UP_A, 4},
+	{UP | A, 4},
 	{NOTHING, 2},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip month US [91,106]----------
@@ -148,13 +148,13 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{UP, 4},
 	{RLEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY},
 	
 	//----------Skip year US [107,122]----------
@@ -169,12 +169,12 @@ static const Command m_command[] PROGMEM = {
 	{LEFT, 4},
 	{UP, 4},
 	{RLEFT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RRIGHT, 4},
-	{UP_A, 4},
+	{UP | A, 4},
 	{RIGHT, 4},
 	{RRIGHT, 4},
 
-	{RIGHT_A, 5},
+	{RIGHT | A, 5},
 	{NOTHING, FIXED_DELAY}
 };

@@ -294,7 +294,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LY = STICK_MIN;				
 					break;
 					
-				case UP_A:
+				case UP | A:
 					ReportData->LY = STICK_MIN;	
 					ReportData->Button |= SWITCH_A;
 					break;
@@ -311,7 +311,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LX = STICK_MAX;				
 					break;
 					
-				case RIGHT_A:
+				case RIGHT | A:
 					ReportData->LX = STICK_MAX;	
 					ReportData->Button |= SWITCH_A;					
 					break;

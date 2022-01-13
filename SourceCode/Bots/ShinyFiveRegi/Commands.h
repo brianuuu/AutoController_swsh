@@ -31,17 +31,17 @@ static const Command m_command[] PROGMEM = {
 	{A, 170},		// Something changed in the air...
 	{NOTHING, 1},
 	{A, 5},
-	{UP_LEFT, 60},
+	{UP | LEFT, 60},
 	{UP, 30},
 	
 	//----------Regice [24,34]----------
 	{LEFT, 120},	// Goto the left up corner
 	{DOWN, 54},
 	{RIGHT, 100},
-	{DOWN_LEFT, 23},
+	{DOWN | LEFT, 23},
 	{LEFT, 34},
 	{UP, 28},
-	{UP_RIGHT, 10},
+	{UP | RIGHT, 10},
 	
 	{A, 170},		// Something changed in the air...
 	{NOTHING, 1},
@@ -60,7 +60,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 170},		// Something changed in the air...
 	{NOTHING, 1},
 	{A, 5},
-	{UP_LEFT, 60},
+	{UP | LEFT, 60},
 	{UP, 30},
 	
 	//----------Regieleki [47,58]----------
@@ -75,7 +75,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 170},		// Something changed in the air...
 	{NOTHING, 1},
 	{A, 5},
-	{UP_LEFT, 75},
+	{UP | LEFT, 75},
 	{UP, 15},
 	
 	//----------Regidrago [59,70]----------

@@ -248,12 +248,12 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LY = STICK_MIN;	
 					break;
 					
-				case UP_RIGHT:
+				case UP | RIGHT:
 					ReportData->LY = STICK_MIN;		
 					ReportData->LX = STICK_MAX;	
 					break;
 				
-				case UP_LEFT:
+				case UP | LEFT:
 					ReportData->LY = STICK_MIN;		
 					ReportData->LX = STICK_MIN;	
 					break;
@@ -266,12 +266,12 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->LY = STICK_MAX;				
 					break;
 				
-				case DOWN_RIGHT:
+				case DOWN | RIGHT:
 					ReportData->LY = STICK_MAX;		
 					ReportData->LX = STICK_MAX;	
 					break;
 				
-				case DOWN_LEFT:
+				case DOWN | LEFT:
 					ReportData->LY = STICK_MAX;		
 					ReportData->LX = STICK_MIN;	
 					break;
@@ -327,10 +327,6 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				case RCLICK:
 					ReportData->Button |= SWITCH_RCLICK;
 					break;*/
-
-				case TRIGGERS:
-					ReportData->Button |= SWITCH_L | SWITCH_R;
-					break;
 
 				case HOME:
 					ReportData->Button |= SWITCH_HOME;

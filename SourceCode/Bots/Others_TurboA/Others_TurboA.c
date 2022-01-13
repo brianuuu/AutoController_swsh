@@ -138,7 +138,8 @@ typedef enum {
 } State_t;
 State_t state = PROCESS;
 
-#define ECHOES 2
+#define ECHOES 5
+#define SPAM_DURATION 1
 int echoes = 0;
 USB_JoystickReport_Input_t last_report;
 
@@ -180,92 +181,142 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			}
 		
 			memcpy_P(&tempCommand, &(m_command[commandIndex]), sizeof(Command));
-			switch (tempCommand.button)
+			// Buttons
+			if (tempCommand.button & A)
+				ReportData->Button |= SWITCH_A;
+			if (tempCommand.button & B)
+				ReportData->Button |= SWITCH_B;
+			if (tempCommand.button & X)
+				ReportData->Button |= SWITCH_X;
+			if (tempCommand.button & Y)
+				ReportData->Button |= SWITCH_Y;
+			if (tempCommand.button & L)
+				ReportData->Button |= SWITCH_L;
+			if (tempCommand.button & R)     
+				ReportData->Button |= SWITCH_R;				
+			if (tempCommand.button & ZL)
+				ReportData->Button |= SWITCH_ZL;
+			if (tempCommand.button & ZR)
+				ReportData->Button |= SWITCH_ZR;
+			if (tempCommand.button & PLUS)
+				ReportData->Button |= SWITCH_PLUS;
+			if (tempCommand.button & MINUS)
+				ReportData->Button |= SWITCH_MINUS;
+			if (tempCommand.button & HOME)
+				ReportData->Button |= SWITCH_HOME;
+			if (tempCommand.button & CAPTURE)
+				ReportData->Button |= SWITCH_CAPTURE;
+			if (tempCommand.button & LCLICK)
+				ReportData->Button |= SWITCH_LCLICK;
+			if (tempCommand.button & RCLICK)
+				ReportData->Button |= SWITCH_RCLICK;
+			
+			// ASpam
+			if (tempCommand.button & A_SPAM)
 			{
-				/*case UP:
-					ReportData->LY = STICK_MIN;				
-					break;
-
-				case LEFT:
-					ReportData->LX = STICK_MIN;				
-					break;
-
-				case DOWN:
-					ReportData->LY = STICK_MAX;				
-					break;
-
-				case RIGHT:
-					ReportData->LX = STICK_MAX;				
-					break;
-
-				case X:
-					ReportData->Button |= SWITCH_X;
-					break;
-
-				case Y:
-					ReportData->Button |= SWITCH_Y;
-					break;*/
-
-				case A:
+				// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+				if ((durationCount / SPAM_DURATION) % 2 == 0)
+				{
 					ReportData->Button |= SWITCH_A;
-					break;
-
-				case B:
+				}
+			}
+				
+			// BSpam
+			if (tempCommand.button & B_SPAM)
+			{
+				// Hold button for SPAM_DURATION, nothing for SPAM_DURATION
+				if ((durationCount / SPAM_DURATION) % 2 == 0)
+				{
 					ReportData->Button |= SWITCH_B;
-					break;
-
-				/*case L:
-					ReportData->Button |= SWITCH_L;
-					break;
-
-				case R:
-					ReportData->Button |= SWITCH_R;
-					break;
-
-				case ZL:
-					ReportData->Button |= SWITCH_ZL;
-					break;
-
-				case ZR:
-					ReportData->Button |= SWITCH_ZR;
-					break;
-
-				case MINUS:
-					ReportData->Button |= SWITCH_MINUS;
-					break;
-
-				case PLUS:
-					ReportData->Button |= SWITCH_PLUS;
-					break;
-
-				case LCLICK:
-					ReportData->Button |= SWITCH_LCLICK;
-					break;
-
-				case RCLICK:
-					ReportData->Button |= SWITCH_RCLICK;
-					break;*/
-
-				case TRIGGERS:
-					ReportData->Button |= SWITCH_L | SWITCH_R;
-					break;
-
-				case HOME:
-					ReportData->Button |= SWITCH_HOME;
-					break;
-
-				/*case CAPTURE:
-					ReportData->Button |= SWITCH_CAPTURE;
-					break;*/
-
-				default:
-					// really nothing lol
-					break;
+				}
+				break;
+			}
+				
+			// DPad
+			bool up, down, left, right;
+			up = (tempCommand.button & DPAD_UP);
+			down = (tempCommand.button & DPAD_DOWN);
+			left = (tempCommand.button & DPAD_LEFT);
+			right = (tempCommand.button & DPAD_RIGHT);
+			if (up)
+			{
+				ReportData->HAT = HAT_TOP;
+				if (left)
+				{
+					ReportData->HAT = HAT_TOP_LEFT;
+				}
+				else if (right)
+				{
+					ReportData->HAT = HAT_TOP_RIGHT;
+				}
+			}
+			else if (down)
+			{
+				ReportData->HAT = HAT_BOTTOM;
+				if (left)
+				{
+					ReportData->HAT = HAT_BOTTOM_LEFT;
+				}
+				else if (right)
+				{
+					ReportData->HAT = HAT_BOTTOM_RIGHT;
+				}
+			}
+			else if (left)
+			{
+				ReportData->HAT = HAT_LEFT;
+			}
+			else if (right)
+			{
+				ReportData->HAT = HAT_RIGHT;
+			}
+			
+			// L-Stick
+			up = (tempCommand.button & UP);
+			down = (tempCommand.button & DOWN);
+			left = (tempCommand.button & LEFT);
+			right = (tempCommand.button & RIGHT);
+			if (up)
+			{
+				ReportData->LY = STICK_MIN;
+			}
+			else if (down)
+			{
+				ReportData->LY = STICK_MAX;
+			}
+			if (left)
+			{
+				ReportData->LX = STICK_MIN;		
+			}
+			else if (right)
+			{
+				ReportData->LX = STICK_MAX;
+			}
+			
+			// R-Stick
+			up = (tempCommand.button & RUP);
+			down = (tempCommand.button & RDOWN);
+			left = (tempCommand.button & RLEFT);
+			right = (tempCommand.button & RRIGHT);
+			if (up)
+			{
+				ReportData->RY = STICK_MIN;
+			}
+			else if (down)
+			{
+				ReportData->RY = STICK_MAX;
+			}
+			if (left)
+			{
+				ReportData->RX = STICK_MIN;		
+			}
+			else if (right)
+			{
+				ReportData->RX = STICK_MAX;
 			}
 
 			durationCount++;
-
-			if (durationCount > tempCommand.duration)
+			if (durationCount >= tempCommand.duration)
 			{
 				commandIndex++;
 				durationCount = 0;		

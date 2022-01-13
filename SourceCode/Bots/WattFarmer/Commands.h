@@ -71,7 +71,7 @@ static const Command m_command[] PROGMEM = {
 	//----------Plus 1 year [43,49]----------
 	{RIGHT, 4},		// EU/US start
 	{RRIGHT, 4},
-	{UP_A, 4},		// JP start
+	{UP | A, 4},	// JP start
 	{RIGHT, 4},
 	{RRIGHT, 4},	// EU end
 	{RIGHT, 4},		// US end
