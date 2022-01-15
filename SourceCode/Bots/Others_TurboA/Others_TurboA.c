@@ -229,7 +229,6 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					ReportData->Button |= SWITCH_B;
 				}
-				break;
 			}
 				
 			// DPad
