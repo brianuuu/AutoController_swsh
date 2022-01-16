@@ -241,6 +241,7 @@ void HID_Task(void) {
 #define ECHOES 5
 int echoes = ECHOES;
 USB_JoystickReport_Input_t last_report;
+#define SMART_HEX_VERSION 2
 
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
@@ -548,7 +549,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				case 'n': // LOOP
 				{
 					// loop command finishes immadiately
-					uart_putchar('x');
+					uart_putchar((char)SMART_HEX_VERSION);
 					durationCount = 0;
 					
 					int loopDuration = duration_list[commandIndex];
@@ -592,6 +593,11 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->Button |= SWITCH_A;	
 					break;
 					
+				case '/': //DPAD_RIGHT_R:
+					ReportData->HAT = HAT_RIGHT;
+					ReportData->Button |= SWITCH_R;
+					break;
+					
 				default:
 					// Invalid button
 					state = DONE;
@@ -603,7 +609,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			{
 				commandIndex++;
 				durationCount = 0;
-				uart_putchar('x'); // this feedback a command has finished
+				uart_putchar((char)SMART_HEX_VERSION); // this feedback a command has finished
 
 				// We reached the end of a command sequence
 				if (commandIndex >= COMMAND_MAX)

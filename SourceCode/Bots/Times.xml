@@ -67,4 +67,8 @@
   <ShinyRegigigas2>563063<!--Shiny aware * 10 + Berry time--></ShinyRegigigas2>
   <BDSP_ResetDialgaPalkia>63814</BDSP_ResetDialgaPalkia>
   <BDSP_ResetStarter>106323</BDSP_ResetStarter>
+  <BDSP_BoxDuplication>22823</BDSP_BoxDuplication>
+  <BDSP_BoxOperation0>83917<!--Release--></BDSP_BoxOperation0>
+  <BDSP_BoxOperation1>88121<!--Bag Item--></BDSP_BoxOperation1>
+  <BDSP_BoxOperation2>98749<!--Dup Item--></BDSP_BoxOperation2>
 </Times>

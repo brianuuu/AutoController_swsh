@@ -189,4 +189,23 @@
     <text>Set text speed to Fast and Battle Effects to Off</text>
     <text>Save just before entering Lake Verity</text>
   </BDSP_ResetStarter>
+  <BDSP_MenuGlitch113>
+    <text>Set text speed to Fast</text>
+    <text>Go to HM list in Poketch, move cursor to Fly and minimize</text>
+    <text>Go to Route 211 to the left of Celestic Town</text>
+    <text>Stand to the left of the pushable boulder</text>
+  </BDSP_MenuGlitch113>
+  <BDSP_BoxDuplication>
+    <text>Set text speed to Fast</text>
+    <text>Activate Menu Glitch</text>
+    <text>Go to the box you want to duplicate</text>
+    <text>Make sure there's a Pokemon or Egg at the top left</text>
+    <text>Make sure boxes to the right are empty</text>
+  </BDSP_BoxDuplication>
+  <BDSP_BoxOperation>
+    <text>Set text speed to Fast</text>
+    <text>(Duplicate Item only) Activate Menu Glitch</text>
+    <text>Make sure all boxes are full of Pokemon (30)</text>
+    <text>Go to the first (leftmost) box</text>
+  </BDSP_BoxOperation>
 </Instructions>
