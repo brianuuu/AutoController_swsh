@@ -7,9 +7,12 @@ SourceCode/output.log
 *.map
 Make a shortcut of AutoControllerHelper.exe here!.txt
 AutoController_Manual.doc
+AutoController_Manual.docx
 SourceCode/makefile
 SourceCode/Bots/RemoteControl_AutoMaxLair/
 SourceCode/Bots/Others_Testing/
 Screenshots/
 Logs/
 Hex/
+StreamCounters/
+SourceCode/Bots/Others_SmartProgram/SmartStats.ini

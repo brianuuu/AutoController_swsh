@@ -208,4 +208,8 @@
     <text>Make sure all boxes are full of Pokemon (30)</text>
     <text>Go to the first (leftmost) box</text>
   </BDSP_BoxOperation>
+  <BDSP_ResetLegendary>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Save in front of the Legendary</text>
+  </BDSP_ResetLegendary>
 </Instructions>
