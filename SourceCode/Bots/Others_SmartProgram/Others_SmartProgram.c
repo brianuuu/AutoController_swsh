@@ -32,6 +32,7 @@ This project is based on auto-controller code written by brianuuuuSonic
 #define CPU_PRESCALE(n) (CLKPR = 0x80, CLKPR = (n))
 #define CHECK_BIT(var,pos) (var & (1UL << pos))
 #define COMMAND_MAX 30
+#define SMART_HEX_VERSION 3
 
 // Main entry point.
 int main(void) {
@@ -241,7 +242,6 @@ void HID_Task(void) {
 #define ECHOES 5
 int echoes = ECHOES;
 USB_JoystickReport_Input_t last_report;
-#define SMART_HEX_VERSION 2
 
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
@@ -598,6 +598,12 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					ReportData->Button |= SWITCH_R;
 					break;
 					
+				case '@': //LUP_LCLICK:
+					ReportData->LY = STICK_MIN;	
+					ReportData->Button |= SWITCH_LCLICK;
+					break;
+					
+				case '!':
 				default:
 					// Invalid button
 					state = DONE;

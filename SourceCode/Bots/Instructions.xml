@@ -212,4 +212,17 @@
     <text>Set text speed to Fast and Battle Effects to Off</text>
     <text>Save in front of the Legendary</text>
   </BDSP_ResetLegendary>
+  <PLA_ResetAlphaGallade>
+    <text>Turn off Autosave</text>
+    <text>Head back to Jubilife Village to reset RNG seeds</text>
+    <text>Go to the roof of the bottom entrance of Snowpoint Temple</text>
+    <text>Get on Braviary, use Y,Plus,A to gain height to get to top entrance</text>
+    <text>Save in front of the top entrance</text>
+  </PLA_ResetAlphaGallade>
+  <PLA_ResetAlphaCrobat>
+    <text>Turn off Autosave</text>
+    <text>Head back to Jubilife Village to reset RNG seeds</text>
+    <text>Go to the north entrance of Wayward Cave</text>
+    <text>Save in front of the entrance</text>
+  </PLA_ResetAlphaCrobat>
 </Instructions>
