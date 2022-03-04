@@ -212,6 +212,13 @@
     <text>Set text speed to Fast and Battle Effects to Off</text>
     <text>Save in front of the Legendary</text>
   </BDSP_ResetLegendary>
+  <BDSP_ResetShaymin>
+    <text>Set text speed to Fast and Battle Effects to Off</text>
+    <text>Use D-Pad to move in front of Shaymin</text>
+    <text>Have only Bike registered, have it set on fast mode</text>
+    <text>First Pokemon MUST have max happiness and no popup ability</text>
+    <text>Save the game</text>
+  </BDSP_ResetShaymin>
   <PLA_ResetAlphaGallade>
     <text>Turn off Autosave</text>
     <text>Head back to Jubilife Village to reset RNG seeds</text>

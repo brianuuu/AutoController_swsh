@@ -32,7 +32,7 @@ This project is based on auto-controller code written by brianuuuuSonic
 #define CPU_PRESCALE(n) (CLKPR = 0x80, CLKPR = (n))
 #define CHECK_BIT(var,pos) (var & (1UL << pos))
 #define COMMAND_MAX 30
-#define SMART_HEX_VERSION 3
+#define SMART_HEX_VERSION 4
 
 // Main entry point.
 int main(void) {
@@ -124,6 +124,7 @@ uint16_t duration_list[COMMAND_MAX];
 
 uint8_t loopStart = 0;
 uint16_t loopCount = 0;
+bool loopInProgress = false;
 
 // Process and deliver data from IN and OUT endpoints.
 void HID_Task(void) {
@@ -216,6 +217,7 @@ void HID_Task(void) {
 			durationCount = 0;
 			loopStart = 0;
 			loopCount = 0;
+			loopInProgress = false;
 			for (int i = 0; i < COMMAND_MAX; i++)
 			{
 				command_list[i] = 0;
@@ -549,7 +551,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				case 'n': // LOOP
 				{
 					// loop command finishes immadiately
-					uart_putchar((char)SMART_HEX_VERSION);
+					uart_putchar(0xFF);
 					durationCount = 0;
 					
 					int loopDuration = duration_list[commandIndex];
@@ -562,6 +564,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 							commandIndex++;
 							loopStart = commandIndex;
 							loopCount = 0;
+							loopInProgress = false;
 							
 							// We reached the end of a command sequence
 							if (commandIndex >= COMMAND_MAX)
@@ -575,6 +578,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					
 					// Go back to beginning of the loop
 					commandIndex = loopStart;
+					loopInProgress = true;
 					return;
 				}
 				
@@ -613,9 +617,9 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			durationCount++;
 			if (durationCount >= duration_list[commandIndex])
 			{
+				uart_putchar((commandIndex == 0 && !loopInProgress) ? (char)SMART_HEX_VERSION : 0xFF); // this feedback a command has finished
 				commandIndex++;
 				durationCount = 0;
-				uart_putchar((char)SMART_HEX_VERSION); // this feedback a command has finished
 
 				// We reached the end of a command sequence
 				if (commandIndex >= COMMAND_MAX)
