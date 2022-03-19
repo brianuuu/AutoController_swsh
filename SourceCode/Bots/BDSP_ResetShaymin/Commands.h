@@ -14,7 +14,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 420},
 	
 	{DPAD_UP, 1},		// Not shiny: Run from battle
-	{A, 64},
+	{A, 70},
 	
 	{DPAD_DOWN, 1},		// Shiny: Goto pokemon summary
 	{A, 1},
