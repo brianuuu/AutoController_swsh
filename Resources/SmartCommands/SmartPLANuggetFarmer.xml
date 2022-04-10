@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartPLANuggetFarmer>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,240</C_Restart>
+	<C_FlyToHeightCamp>Nothing,21,Minus,1,Nothing,20,X,16,DDown,1,A,1</C_FlyToHeightCamp>
+	<C_WaitTillMorning>LUp,30,LUpLeft,14,A,10,Nothing,1,B,6,DDown,1,ASpam,210</C_WaitTillMorning>
+	<C_Save>Nothing,40,DUp,1,Nothing,10,ZR,1,Nothing,16,A,60,B,10,ZL,10,B,30</C_Save>
+	<C_GetOnWyrdeer>LRight,2,LDown,1,Nothing,20,Plus,30,ZL,1,Nothing,20</C_GetOnWyrdeer>
+	<C_GetOnWyrdeerNoMove>Plus,30,Nothing,20</C_GetOnWyrdeerNoMove>
+	<C_FindCoin>LUp,100,LUpLeft,30,LUp,30,LUpLeft,30,LUp,40,LUpRight,80,LUp,60,LLeft,50,LUpLeft,30,DRight,1,Nothing,50,B,70,Nothing,60</C_FindCoin>
+	<C_FindCharm>LLeft,20,LUp,90,LLeft,92,LUp,150,LRight,40,LUp,30,LUpRight,35,LUp,50,DRight,1,Nothing,50,B,130</C_FindCharm>
+	<C_AfterBattle>Nothing,200,ASpam,270,DRight,1,Plus,30,LUpRight,80,Nothing,80</C_AfterBattle>
+	<C_AfterBattleCharm>Nothing,200,ASpam,270,DRight,1,Plus,30,B,50,Nothing,80</C_AfterBattleCharm>
+	<C_TalkToLaventon>Nothing,40,LUpRight,34,A,20</C_TalkToLaventon>
+	<C_TalkToLaventonFinish>DDown,1,ASpam,80</C_TalkToLaventonFinish>
+</SmartPLANuggetFarmer>

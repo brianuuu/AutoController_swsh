@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartSurpriseTrade>
+	<C_GotoYComm>Y,1,Nothing,25</C_GotoYComm>
+	<C_PlusPress>Plus,1,Nothing,21</C_PlusPress>
+	<C_BPress>B,1,Nothing,21</C_BPress>
+	<C_ConfirmTrade>ASpam,100,BSpam,60</C_ConfirmTrade>
+	<C_FinishTrade>Y,1,Nothing,400</C_FinishTrade>
+	<C_ASpam>A,1,Nothing,21</C_ASpam>
+</SmartSurpriseTrade>

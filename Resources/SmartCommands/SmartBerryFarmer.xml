@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartBerryFarmer>
+	<C_SyncTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1,A,2,Nothing,1,A,6,Nothing,1,LDown,1,RDown,1,A,4</C_SyncTime>
+	<C_SkipYearJP>LUpA,1,LRight,1,RRight,1,LRight,1,RRight,1</C_SkipYearJP>
+	<C_SkipYearEU>LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1</C_SkipYearEU>
+	<C_SkipYearUS>LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1,LRight,1</C_SkipYearUS>
+	<C_BackToGame>A,1,Nothing,2,Home,1,Nothing,16,Home,1,Nothing,16</C_BackToGame>
+<C_Loop>ASpam,30,BSpam,170</C_Loop>
+</SmartBerryFarmer>

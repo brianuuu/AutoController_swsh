@@ -32,7 +32,7 @@ This project is based on auto-controller code written by brianuuuuSonic
 #define CPU_PRESCALE(n) (CLKPR = 0x80, CLKPR = (n))
 #define CHECK_BIT(var,pos) (var & (1UL << pos))
 #define COMMAND_MAX 30
-#define SMART_HEX_VERSION 4
+#define SMART_HEX_VERSION 5
 
 // Main entry point.
 int main(void) {
@@ -605,6 +605,16 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				case '@': //LUP_LCLICK:
 					ReportData->LY = STICK_MIN;	
 					ReportData->Button |= SWITCH_LCLICK;
+					break;
+					
+				case '#': //LLEFT_B:
+					ReportData->LX = STICK_MIN;	
+					ReportData->Button |= SWITCH_B;						
+					break;
+					
+				case '$': //LRIGHT_B:
+					ReportData->LX = STICK_MAX;	
+					ReportData->Button |= SWITCH_B;						
 					break;
 					
 				case '!':

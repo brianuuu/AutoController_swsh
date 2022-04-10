@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartBDSPBoxOperation>
+	<C_Start>B,40,R,40</C_Start>
+	<C_StartItem>B,40,R,40,X,2</C_StartItem>
+	<C_Release>A,8,DUp,1,Nothing,1,DUp,1,A,8,DUp,1,A,20,B,5</C_Release>
+	<C_BagItem>A,8,DDown,1,A,8,Nothing,1,A,20,B,10</C_BagItem>
+	<C_DupItemStart>A,1,X,22,A,40,R,50,X,2</C_DupItemStart>
+	<C_DupItemEnd>Nothing,5,B,1,Nothing,25,Loop,3,DDown,1,A,40,B,40</C_DupItemEnd>
+</SmartBDSPBoxOperation>

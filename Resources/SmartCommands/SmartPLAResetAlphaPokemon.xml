@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartPLAResetAlphaPokemon>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,240</C_Restart>
+	<C_WalkGallade>LUpClick,1,LUp,430,LUpClick,1,LRight,120,LDown,40,ZL,1,Nothing,10,RDown,6,LUpLeft,100,LUpClick,1,LUp,60</C_WalkGallade>
+	<C_WalkCrobat>LUpClick,1,LUp,80,LUpLeft,30,LLeft,10,A,1,LUp,40,DRight,1,Nothing,1,DRight,1,LUpLeft,50,Nothing,10,RRight,7,LUpRight,10,B,60</C_WalkCrobat>
+</SmartPLAResetAlphaPokemon>

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartBDSPStarter>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,120</C_Restart>
+	<C_RestartNoUpdate>Home,1,Nothing,21,X,10,A,20,LDown,1,LUp,1,A,20,LUp,1,ASpam,120</C_RestartNoUpdate>
+	<C_Talk>LUp,40,BSpam,900</C_Talk>
+	<C_Choose>Nothing,1,A,26,LUp,1,A,1,Nothing,150</C_Choose>
+	<C_Capture>Capture,22</C_Capture>
+</SmartBDSPStarter>

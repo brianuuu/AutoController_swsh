@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartYCommGlitch>
+	<C_GotoYComm>Y,1,Nothing,25</C_GotoYComm>
+	<C_Connect>Plus,1,Nothing,21</C_Connect>
+	<C_BPress>B,1,Nothing,21</C_BPress>
+	<C_LinkBattle>LDown,1,DDown,1,LDown,1,ASpam,20,BSpam,50</C_LinkBattle>
+	<C_Disconnect>Home,1,Nothing,21,LUp,1,A,34,Loop,1,LDown,1,RDown,1,Loop,3,LUp,1,Nothing,6,A,1,Nothing,1,LDown,1,A,1,Nothing,12,A,1,Nothing,46,Home,1,Nothing,16,Home,1,Nothing,34,A,1</C_Disconnect>
+</SmartYCommGlitch>

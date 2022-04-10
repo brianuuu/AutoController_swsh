@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartDaySkipper>
+	<C_StartOK>A,4,RRight,1,LRight,1,RRight,1,LRight,1,RRight,1,LRight,1,A,1,Nothing,2</C_StartOK>
+	<C_SyncTime>RUp,1,LUpA,1,Nothing,1,A,6,LDown,1,RDown,1</C_SyncTime>
+	<C_SyncTimeWait>Nothing,1300,RUp,1,LUpA,1,Nothing,1,A,6,LDown,1,RDown,1</C_SyncTimeWait>
+	<C_Back2000JP>A,4,LLeft,1,RLeft,1,LLeft,1,RLeft,1,LLeft,1,Loop,1,LDown,1,RDown,1,Loop,30,LRightA,1,RRight,1,DRight,1,LRightA,1,Nothing,2</C_Back2000JP>
+	<C_Back2000EU>A,4,LLeft,1,RLeft,1,LLeft,1,Loop,1,LDown,1,RDown,1,Loop,30,LRight,1,RRight,1,LRightA,1,Nothing,2</C_Back2000EU>
+	<C_Back2000US>A,4,LLeft,1,RLeft,1,LLeft,1,RLeft,1,Loop,1,LDown,1,RDown,1,Loop,30,LRightA,1,RRight,1,LRightA,1,Nothing,2</C_Back2000US>
+	<C_SkipEU_JPDay>A,4,LLeft,1,RLeft,1,LLeft,1,LUpA,1,RRight,1,LRightA,1,Nothing,2</C_SkipEU_JPDay>
+	<C_SkipUS>A,4,LLeft,1,RLeft,1,LLeft,1,RLeft,1,LUpA,1,LRight,1,RRight,1,LRightA,1,Nothing,2</C_SkipUS>
+	<C_BackToGame>Home,1,Nothing,16,Home,1,Nothing,16</C_BackToGame>
+	<C_SkipJPMonth>A,4,LLeft,1,RLeft,1,LLeft,1,LUp,1,LLeft,1,LUpA,1,LRight,1,RRight,1,LRightA,1,Nothing,2</C_SkipJPMonth>
+	<C_SkipJPYear>A,4,LLeft,1,RLeft,1,LLeft,1,LUp,1,LLeft,1,LUp,1,LLeft,1,LUpA,1,RRight,1,LRight,1,RRight,1,LRightA,1,Nothing,2</C_SkipJPYear>
+</SmartDaySkipper>

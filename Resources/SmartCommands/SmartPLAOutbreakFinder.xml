@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartPLAOutbreakFinder>
+	<C_TalkToLaventon>A,16,Nothing,1,Loop,3,DDown,1,ASpam,80</C_TalkToLaventon>
+</SmartPLAOutbreakFinder>

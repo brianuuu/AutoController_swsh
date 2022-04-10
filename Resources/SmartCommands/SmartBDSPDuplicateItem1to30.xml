@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartBDSPDuplicateItem1to30>
+	<C_Start>B,40,R,40</C_Start>
+	<C_GiveItem>A,8,DDown,1,Nothing,2,DDown,2,A,36,Nothing,1,Loop,1,A,14,Nothing,1,Loop,3,B,36</C_GiveItem>
+	<C_BagItem>A,8,DDown,1,A,8,Nothing,1,A,20,B,10</C_BagItem>
+	<C_2ndMenuEnter>A,1,X,22,A,40,R,50,X,2</C_2ndMenuEnter>
+	<C_2ndMenuExit>Nothing,5,B,1,Nothing,25,Loop,3,DDown,1,A,40,B,40</C_2ndMenuExit>
+</SmartBDSPDuplicateItem1to30>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartBDSPBoxDuplication>
+	<C_Loop>B,40,R,40,A,1,X,22,A,40,R,50,Y,2,Nothing,1,Y,2,A,2,Loop,1,DRight,1,Nothing,4,Loop,5,DDown,1,Nothing,4,Loop,4,A,10,R,20,A,5,Loop,1,B,1,Nothing,30,Loop,3,DDown,1,A,40,B,40,R,22</C_Loop>
+</SmartBDSPBoxDuplication>

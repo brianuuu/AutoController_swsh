@@ -28,6 +28,6 @@ static const Command m_command[] PROGMEM = {
 	{UP, 1},		// Cancel DOWN if no game, otherwise goto Start Software
 	{A, 40},
 	{UP, 1},		// Goto Start Software
-	{A_SPAM, 1500},	// Enter game and talk to legendary
-	{NOTHING, 900},	// Delay
+	{A_SPAM, 1700},	// Enter game and talk to legendary
+	{NOTHING, 700},	// Delay
 };

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartPurpleBeamFilder>
+	<C_CollectWatt>A,1,BSpam,60</C_CollectWatt>
+	<C_GotoMenu>X,1,Nothing,40</C_GotoMenu>
+	<C_SetTextSpeedSlow>A,26,DLeft,1,LLeft,1,ASpam,30,BSpam,18,Nothing,20,R,26,A,1,BSpam,50</C_SetTextSpeedSlow>
+	<C_SetTextSpeedFast>A,26,DRight,1,LRight,1,ASpam,14,BSpam,12,Nothing,16,R,26,A,1,BSpam,50</C_SetTextSpeedFast>
+	<C_TalkToDen>Nothing,21,A,36,Nothing,1,A,30,Nothing,1</C_TalkToDen>
+	<C_BeamCheck>A,1,Nothing,32,Home,1,Nothing,24</C_BeamCheck>
+	<C_BeamFound>Home,1,BSpam,90</C_BeamFound>
+	<C_RestartGame>X,4,ASpam,200</C_RestartGame>
+	<C_StartGameA>Nothing,21,A,1</C_StartGameA>
+</SmartPurpleBeamFilder>

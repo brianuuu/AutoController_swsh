@@ -5,7 +5,6 @@ SourceCode/output.log
 *.elf
 *.hex
 *.map
-Make a shortcut of AutoControllerHelper.exe here!.txt
 AutoController_Manual.doc
 AutoController_Manual.docx
 SourceCode/makefile
@@ -15,6 +14,6 @@ Screenshots/
 Logs/
 Hex/
 StreamCounters/
-SourceCode/Bots/Others_SmartProgram/SmartStats.ini
+Resources/SmartStats.ini
 Resources/Tesseract/capture.png
 Resources/Tesseract/output.txt

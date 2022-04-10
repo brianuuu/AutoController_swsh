@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartMaxRaidBattler>
+	<C_ASpam>ASpam,10</C_ASpam>
+	<C_APress>A,1,Nothing,60</C_APress>
+	<C_StartRaid>LUp,1,ASpam,800</C_StartRaid>
+	<C_QuitRaid>B,20,A,1,Nothing,40</C_QuitRaid>
+</SmartMaxRaidBattler>

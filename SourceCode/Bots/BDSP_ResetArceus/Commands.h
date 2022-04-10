@@ -28,7 +28,7 @@ static const Command m_command[] PROGMEM = {
 	{UP, 1},		// Cancel DOWN if no game, otherwise goto Start Software
 	{A, 40},
 	{UP, 1},		// Goto Start Software
-	{A_SPAM, 1500},
+	{A_SPAM, 1600},
 	
 	{UP, 10},		// Walk up to Arceus
 	{B_SPAM, 600},
