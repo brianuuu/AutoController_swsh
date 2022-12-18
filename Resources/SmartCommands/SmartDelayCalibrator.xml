@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SmartDelayCalibrator>
 	<C_HomePress>Home,1,Nothing,40</C_HomePress>
-	<C_ToTestButton>LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,6,A,1,LDown,40,LUp,1,A,1,Nothing,6,A,1,Nothing,20</C_ToTestButton>
+	<C_ToTestButton>LRight,1,RRight,1,LDown,1,LRight,1,A,18,RDown,1,Loop,1,LDown,1,RDown,1,Loop,6,A,1,LDown,40,LUp,1,A,1,Nothing,6,A,1,Nothing,20</C_ToTestButton>
 	<C_APress>A,1,Nothing,200</C_APress>
 	<C_BackToGame>Home,1,Nothing,16,Home,1,Nothing,16</C_BackToGame>
 </SmartDelayCalibrator>
