@@ -232,4 +232,11 @@
     <text>Go to the north entrance of Wayward Cave</text>
     <text>Save in front of the entrance</text>
   </PLA_ResetAlphaCrobat>
+  <SV_ItemDuplication>
+    <text>Turn off Autosave</text>
+    <text>Go to somewhere indoors (your house)</text>
+    <text>Put cloned Koraidon/Miraidon to 2nd slot of the team</text>
+    <text>Add item to clone to Koraidon/Miraidon</text>
+    <text>Save game, move cursor to 2nd slot pokemon</text>
+  </SV_ItemDuplication>
 </Instructions>
