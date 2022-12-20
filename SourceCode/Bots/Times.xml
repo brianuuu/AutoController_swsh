@@ -77,4 +77,14 @@
   <PLA_ResetAlphaCrobat>76476</PLA_ResetAlphaCrobat>
   <PLA_ResetAlphaGallade>93777</PLA_ResetAlphaGallade>
   <SV_ItemDuplication>16001</SV_ItemDuplication>
+  <SV_EggCollector>1862361</SV_EggCollector>
+  <SV_EggHatcher0>188638</SV_EggHatcher0>
+  <SV_EggHatcher1>201468</SV_EggHatcher1>
+  <SV_EggHatcher2>219069</SV_EggHatcher2>
+  <SV_EggHatcher3>232699</SV_EggHatcher3>
+  <SV_EggHatcher4>252269</SV_EggHatcher4>
+  <SV_EggHatcher5>263713</SV_EggHatcher5>
+  <SV_EggHatcher6>279963</SV_EggHatcher6>
+  <SV_EggHatcher7>292342</SV_EggHatcher7>
+  <SV_BoxRelease>3270</SV_BoxRelease>
 </Times>

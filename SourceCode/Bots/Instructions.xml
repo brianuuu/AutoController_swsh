@@ -239,4 +239,27 @@
     <text>Add item to clone to Koraidon/Miraidon</text>
     <text>Save game, move cursor to 2nd slot pokemon</text>
   </SV_ItemDuplication>
+  <SV_EggCollector>
+    <text>Turn off Autosave, Text Speed to Fast</text>
+    <text>Have only 2 pokemon to breed in your team</text>
+    <text>Save game and start a picnic on a flat surface</text>
+    <text>Move to on top of egg basket, facing picnic table and reset camera</text>
+    <text>Find the location of Great PenutButter Sandwich (top left is 0,0)</text>
+    <text>Exit sandwich menu</text>
+  </SV_EggCollector>
+  <SV_EggHatcher>
+    <text>Turn off Autosave, Text Speed to Fast, Turn off Give Nicknames</text>
+    <text>Have only a Flame Body pokemon in your party with an attack move</text>
+    <text>Have the hatching pokemon already registered in the Pokedex</text>
+    <text>Go to the top of Poco Path lighthouse</text>
+    <text>Get on ride pokemon, hold right to move along the edge for one loop</text>
+    <text>Save game, go to Boxes, sort eggs column by column from left to right</text>
+    <text>All eggs must be in the same egg cycle group</text>
+    <text>Move the cursor to the top left of the leftmost box (first column)</text>
+  </SV_EggHatcher>
+  <SV_BoxRelease>
+    <text>Turn off Autosave, Text Speed to Fast</text>
+    <text>Go to Boxes, sort pokemon from left to right, top to bottom</text>
+    <text>Move cursor to the top left pokemon, save game</text>
+  </SV_EggHatcher>
 </Instructions>
