@@ -249,7 +249,7 @@
   </SV_EggCollector>
   <SV_EggHatcher>
     <text>Turn off Autosave, Text Speed to Fast, Turn off Give Nicknames</text>
-    <text>Have only a Flame Body pokemon in your party with an attack move</text>
+    <text>Have only a Flame Body pokemon in your party with an attacking move</text>
     <text>Have the hatching pokemon already registered in the Pokedex</text>
     <text>Go to the top of Poco Path lighthouse</text>
     <text>Get on ride pokemon, hold right to move along the edge for one loop</text>
@@ -261,5 +261,11 @@
     <text>Turn off Autosave, Text Speed to Fast</text>
     <text>Go to Boxes, sort pokemon from left to right, top to bottom</text>
     <text>Move cursor to the top left pokemon, save game</text>
-  </SV_EggHatcher>
+  </SV_BoxRelease>
+  <SV_GimmighoulFarmer>
+    <text>System time unsynced</text>
+    <text>Turn off Autosave, Text Speed to Fast</text>
+    <text>Stand in front of a Gimmighoul in a Pokemon Center</text>
+    <text>Talk to it to get its coin and save game</text>
+  </SV_GimmighoulFarmer>
 </Instructions>
