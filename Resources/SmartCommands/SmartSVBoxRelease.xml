@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartSVBoxRelease>
+	<C_Release>ASpam,4,Nothing,4,LUp,3,DUp,3,ASpam,8,Nothing,4,DUp,3,ASpam,36</C_Release>
+	<C_Next>DRight,3</C_Next>
+	<C_NextRow>DRight,3,LRight,3,DDown,3</C_NextRow>
+	<C_NextBox>DRight,3,LRight,3,DDown,3,LDown,3,DRight,3,LDown,3</C_NextBox>
+</SmartSVBoxRelease>
