@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SmartSVBoxReleaseSafe>
-	<C_Release1>ASpam,4,Nothing,5,LUp,3,DUp,3,Nothing,20</C_Release1>
-	<C_Release2>ASpam,8,Nothing,5,DUp,3,Nothing,20</C_Release2>
+	<C_Release1>ASpam,4,Nothing,5,LUp,3,DUp,3</C_Release1>
+	<C_Release2>ASpam,8,Nothing,5,DUp,3</C_Release2>
 	<C_Release3>ASpam,36,LRight,3,Nothing,20</C_Release3>
 </SmartSVBoxReleaseSafe>

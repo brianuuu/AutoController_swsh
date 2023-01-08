@@ -6,8 +6,8 @@
 	<C_Fly>Y,1,Nothing,1,Loop,3,Nothing,50,LLeft,1,LRight,1,ASpam,140</C_Fly>
 	<C_Fly2>Y,1,Nothing,1,Loop,3,Nothing,50,LUp,1,LDown,1,ASpam,140</C_Fly2>
 	<C_Sandwich>ASpam,40,Nothing,150,Loop,1,LUp,30,LDown,4,LDownA,12,Loop,3,LUp,30,ASpam,320,Nothing,400,A,4,Nothing,20,LDown,1,Nothing,20</C_Sandwich>
-	<C_PackUp>Y,2,ASpam,200,LUp,45</C_PackUp>
-	<C_PackUp2>Y,2,ASpam,200,LDown,30</C_PackUp2>
+	<C_PackUp>Y,2,ASpam,200,LUp,55</C_PackUp>
+	<C_PackUp2>Y,2,ASpam,200,LDown,40</C_PackUp2>
 	<C_HatchInit>Nothing,80,Plus,2,LUp,20,Nothing,20,LRight,2,Nothing,20</C_HatchInit>
 	<C_MultiSelect>Minus,3,Nothing,3,Loop,1,LDown,3,DDown,3,Loop,4,A,3,Nothing,3</C_MultiSelect>
 	<C_SwapToHatch>LUp,3,DLeft,3,LDown,3,Y,3,Nothing,3,LLeft,3,Y,3,Nothing,3,LDown,3,Y,3,Nothing,3,LRight,3,DRight,3,LUp,3,Y,3,Nothing,3,LUp,3,DRight,3,B,5,Nothing,5</C_SwapToHatch>
