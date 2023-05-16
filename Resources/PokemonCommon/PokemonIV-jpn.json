@@ -1,0 +1,23 @@
+﻿{
+	"No Good": [
+		"ダメかも"
+	],
+	"Decent": [
+		"まあまあ"
+	],
+	"Pretty Good": [
+		"かなりいい"
+	],
+	"Very Good": [
+		"すごぐいい"
+	],
+	"Fantastic": [
+		"すばらしい"
+	],
+    "Best": [
+		"さいこう"
+	],
+	"Hyper trained!": [
+		"きたえた!"
+	]
+}

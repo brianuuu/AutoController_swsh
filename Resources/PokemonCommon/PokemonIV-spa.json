@@ -1,0 +1,23 @@
+﻿{
+	"No Good": [
+		"Cojea un poco"
+	],
+	"Decent": [
+		"No está mal"
+	],
+	"Pretty Good": [
+		"Notable"
+	],
+	"Very Good": [
+		"Genial"
+	],
+	"Fantastic": [
+		"Espectacular"
+	],
+    "Best": [
+		"Inmejorable"
+	],
+	"Hyper trained!": [
+		"¡Al máximo!"
+	]
+}

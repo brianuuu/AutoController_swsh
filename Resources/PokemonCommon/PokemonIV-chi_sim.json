@@ -1,0 +1,23 @@
+﻿{
+	"No Good": [
+		"也许不行"
+	],
+	"Decent": [
+		"一般般"
+	],
+	"Pretty Good": [
+		"相当好"
+	],
+	"Very Good": [
+		"非常好"
+	],
+	"Fantastic": [
+		"了不起"
+	],
+    "Best": [
+		"最棒"
+	],
+	"Hyper trained!": [
+		"锻炼了!"
+	]
+}

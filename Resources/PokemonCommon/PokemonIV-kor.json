@@ -1,0 +1,23 @@
+﻿{
+	"No Good": [
+		"별로인 듯"
+	],
+	"Decent": [
+		"적당하다"
+	],
+	"Pretty Good": [
+		"상당이 좋다"
+	],
+	"Very Good": [
+		"굉장이 좋다"
+	],
+	"Fantastic": [
+		"훌륭하다"
+	],
+    "Best": [
+		"최고"
+	],
+	"Hyper trained!": [
+		"단련되었다!"
+	]
+}

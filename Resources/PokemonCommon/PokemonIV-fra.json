@@ -1,0 +1,23 @@
+﻿{
+	"No Good": [
+		"Pas top ..."
+	],
+	"Decent": [
+		"Passable ..."
+	],
+	"Pretty Good": [
+		"Bon !"
+	],
+	"Very Good": [
+		"Très bon !"
+	],
+	"Fantastic": [
+		"Fantastique !"
+	],
+    "Best": [
+		"Exceptionnel !"
+	],
+	"Hyper trained!": [
+		"Au max !"
+	]
+}
