@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartTOTKItemDuplication>
+	<C_Attach>ZR,1,ZRDUp,4,ZR,15,Plus,3</C_Attach>
+	<C_DropFirst>DLeft,1,A,1,DDown,1,ASpam,10,DRight,1,ASpam,6,Nothing,10</C_DropFirst>
+	<C_DropSecond>DLeft,1,A,1,DDown,1,ASpam,10,B,10,LDown,1,ASpam,10,LUp,1</C_DropSecond>
+</SmartTOTKItemDuplication>

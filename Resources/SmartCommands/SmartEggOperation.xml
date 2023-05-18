@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartEggOperation>
+	<C_CollectFirst>LDownLeft,1,Nothing,6,LDownLeft,25,Loop,1,LUpLeft,10,LUpRight,10,LDownRight,10,LDownLeft,10,Loop,4,LUp,1,Nothing,6,LUpRight,60</C_CollectFirst>
+	<C_CollectCycle>LRight,5,B,1,LRight,55,LDown,1,LLeft,110,LUpRight,40</C_CollectCycle>
+	<C_CollectEgg>A,1,BSpam,130</C_CollectEgg>
+	<C_ToParty>X,1,ASpam,20,Nothing,40</C_ToParty>
+	<C_ToBox>X,1,ASpam,20,Nothing,18,Loop,1,R,1,Nothing,1,Loop,5</C_ToBox>
+	<C_PartyToBox>R,1,Nothing,1,Loop,5</C_PartyToBox>
+	<C_HatchCycle>LDownLeft,1,Nothing,6,LDownLeft,25,Loop,1,LUpLeft,10,LUpRight,10,LDownRight,10,LDownLeft,10,Loop,0</C_HatchCycle>
+	<C_HatchReturn>LUp,1,Nothing,6,LUpRight,70,X,1</C_HatchReturn>
+	<C_FirstColumn>Y,1,Nothing,1,Loop,2,A,1,DUp,1,A,3,DLeft,1,DDown,1,A,1,BSpam,10,Nothing,50</C_FirstColumn>
+	<C_BoxFiller>Y,1,Nothing,1,Loop,2,DLeft,1,DDown,1,A,1,DUp,1,LUp,1,A,3,DUp,1,DRight,1,L,1,Nothing,5,A,3,R,1,Nothing,5,Y,1</C_BoxFiller>
+	<C_TakeFiller>L,1,Nothing,5,A,1,DUp,1,A,3,R,1,Nothing,5,DLeft,1,DDown,1,A,3</C_TakeFiller>
+	<C_TakeParent>A,26,Nothing,1,A,8,Nothing,1,DDown,1,A,1,BSpam,100</C_TakeParent>
+	<C_LeaveParent>A,26,Nothing,1,A,1,Nothing,40,Y,1,ASpam,50,BSpam,90</C_LeaveParent>
+	<C_SetParent>Y,1,A,3,DUp,1,LRight,1,A,6,Y,1,DLeft,1,LDown,1,Y,1</C_SetParent>
+	<C_MoveItem>X,1,Y,1,DLeft,1,A,3,DRight,1,A,3</C_MoveItem>
+	<C_MoveItemParent>X,1,Y,1,DLeft,1,LDown,1,A,3,LUp,1,DRight,1,A,3,Y,1,X,1,DLeft,1,X,1,DDown,1</C_MoveItemParent>
+</SmartEggOperation>

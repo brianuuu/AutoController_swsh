@@ -268,4 +268,10 @@
     <text>Stand in front of a Gimmighoul in a Pokemon Center</text>
     <text>Talk to it to get its coin and save game</text>
   </SV_GimmighoulFarmer>
+  <TOTK_ItemDuplication>
+    <text>Save game and enter a shrine</text>
+    <text>Drop all bows except for 2, move cursor to first bow and equip it</text>
+    <text>Move away from the dropped bows and face against a wall</text>
+    <text>Press D-Pad up for the item to duplicate, must have at least 2</text>
+  </TOTK_ItemDuplication>
 </Instructions>
