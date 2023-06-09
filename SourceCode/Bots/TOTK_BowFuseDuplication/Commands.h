@@ -3,7 +3,7 @@
 
 static const Command m_command[] PROGMEM = {
 	//----------Setup [0,6]----------
-	// Press A once to connect
+	// Press trigger to connect
 	{NOTHING, 30},
 	{A, 1},
 	{NOTHING, 60},
