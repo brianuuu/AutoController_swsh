@@ -16,7 +16,7 @@ static const Command m_command[] PROGMEM = {
 	{HOME,1},
 	{NOTHING, 4},
 	
-	//----------Loop [9,21]----------
+	//----------Loop [9,20]----------
 	// Shield surf
 	{ZL|B|X, 3},
 	{ZL|A, 1},

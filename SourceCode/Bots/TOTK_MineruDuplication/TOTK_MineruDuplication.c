@@ -145,10 +145,9 @@ USB_JoystickReport_Input_t last_report;
 
 Command tempCommand;
 int durationCount = 0;
-
 // start and end index of "Setup"
 int commandIndex = 0;
-int m_endIndex = 5;
+int m_endIndex = 6;
 
 // Prepare the next report for the host.
 void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
@@ -176,8 +175,22 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			// Get the next command sequence (new start and end)
 			if (commandIndex == -1)
 			{
-				commandIndex = 6;
-				m_endIndex = 33;
+				m_maxCycle--;
+				if (m_endIndex == 8)
+				{
+					state = DONE;
+					return;
+				}
+				else if (m_maxCycle < 0)
+				{
+					commandIndex = 7;
+					m_endIndex = 8;
+				}
+				else
+				{
+					commandIndex = 9;
+					m_endIndex = 16;
+				}
 			}
 		
 			memcpy_P(&tempCommand, &(m_command[commandIndex]), sizeof(Command));

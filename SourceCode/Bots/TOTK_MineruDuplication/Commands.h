@@ -2,47 +2,27 @@
 #include <avr/pgmspace.h>
 
 static const Command m_command[] PROGMEM = {
-	//----------Setup [0,2]----------
-		
-	// Press A once to connect
-	{NOTHING, 100},
-	{A, 10},
+	//----------Setup [0,6]----------
+	// Press trigger to connect
 	{NOTHING, 30},
-	{A, 10},
+	{A, 1},
+	{NOTHING, 60},
+	{L|R, 1},
 	{NOTHING, 30},
-	{A, 30},
+	{A, 1},
+	{NOTHING, 60},
 	
-	//----------Loop [3,4]----------
+	//----------Complete [7,8]----------
+	{HOME,1},
+	{NOTHING, 4},
 	
-	{NOTHING, 10},
-	{PLUS, 1},
-	{NOTHING, 10},
+	//----------Loop [9,16]----------
+	{PLUS, 10},
+	{NOTHING, 1},
 	{X, 1},
 	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
-	{A, 1},
-	{NOTHING, 1},
+	{A_SPAM, 10},
 	{Y|B, 1},	
 	{NOTHING, 5},
-	{A, 1},
-	{NOTHING, 3},
-	{A, 1},
-	{NOTHING, 3},
-	{A, 1},
-	{NOTHING, 3},
-	{A, 1},
-	{NOTHING, 3},
-	{A, 1},
-	{NOTHING, 3},
-	{A, 1}
-	
-	
-	
+	{A_SPAM, 20}
 };
