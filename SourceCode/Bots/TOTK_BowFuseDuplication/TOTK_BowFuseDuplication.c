@@ -1,5 +1,5 @@
 /*
-The Legend of Zelda: Tears of the Kingdom Item Duplication
+The Legend of Zelda: Tears of the Kingdom Item Duplication using Bow Fuse
 
 Based on the LUFA library's Low-Level Joystick Demo
 	(C) Dean Camera
