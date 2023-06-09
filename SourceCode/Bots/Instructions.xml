@@ -274,4 +274,19 @@
     <text>Move away from the dropped bows and face against a wall</text>
     <text>Press D-Pad up for the item to duplicate, must have at least 2</text>
   </TOTK_BowFuseDuplication>
+  <TOTK_MineruDuplication>
+    <text>Make sure inventory cursor is on the item to duplicate</text>
+    <text>Ride on Mineru Construct</text>
+  </TOTK_MineruDuplication>
+  <TOTK_ShieldSurfDuplication>
+    <text>Make sure inventory cursor is on the item to duplicate</text>
+    <text>Make sure a shield is equipped</text>
+    <text>Recommended: Attach a high durability item to your shield (a cart etc.)</text>
+    <text>Attached item on your shield should NOT make you tumble</text>
+    <text>Head to somewhere with flat surface</text>
+  </TOTK_ShieldSurfDuplication>
+  <TOTK_ZonaiDeviceDuplication>
+    <text>Make sure inventory cursor is on a Zonai Device</text>
+    <text>Face against a wall</text>
+  </TOTK_ZonaiDeviceDuplication>
 </Instructions>
