@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartTradePartnerFinder>
+	<C_GotoYComm>Y,1,Nothing,25</C_GotoYComm>
+	<C_SetLinkCode>A,15,DDown,1,A,25,B,1,Nothing,20</C_SetLinkCode>
+	<C_FindPartner>Plus,1,ASpam,80</C_FindPartner>
+</SmartTradePartnerFinder>

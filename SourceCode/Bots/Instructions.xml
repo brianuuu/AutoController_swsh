@@ -143,6 +143,17 @@
     <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
     <text>(Optional) Pokemon in Nursery have different trainer ID</text>
   </GodEggDuplication>
+  <GodEggDuplication_JP>
+    <text>Set text speed to Fast</text>
+    <text>Set Send to Box to Manual in Options</text>
+    <text>Have a full party without any eggs, put target Pokemon on top slot</text>
+    <text>Have a fully upgraded Rotom Bike (use WattFarmer)</text>
+	<text>Put god egg and a Ditto in Route 5 Nursery</text>
+    <text>Charge up Rotom Bike turbo boost</text>
+    <text>Cycle to the left side of the Nursery worker, facing North-East</text>
+    <text>(Optional) Defeat GAME FREAK's Morimoto to get Oval Charm</text>
+    <text>(Optional) Pokemon in Nursery have different trainer ID</text>
+  </GodEggDuplication_JP>
   <PurpleBeamFinder>
     <text>Set text speed to Fast</text>
     <text>Have at least one wishing piece</text>
@@ -287,6 +298,9 @@
   </TOTK_ShieldSurfDuplication>
   <TOTK_ZonaiDeviceDuplication>
     <text>Make sure inventory cursor is on a Zonai Device</text>
-    <text>Face against a wall</text>
+    <text>Face against a wall but move slightly away form it</text>
   </TOTK_ZonaiDeviceDuplication>
+  <S3_TableturfSkip>
+    <text>Start a battle with any NPC</text>
+  </S3_TableturfSkip>
 </Instructions>
