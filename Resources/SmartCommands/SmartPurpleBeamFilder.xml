@@ -8,5 +8,5 @@
 	<C_BeamCheck>A,1,Nothing,32,Home,1,Nothing,24</C_BeamCheck>
 	<C_BeamFound>Home,1,BSpam,90</C_BeamFound>
 	<C_RestartGame>X,4,ASpam,200</C_RestartGame>
-	<C_StartGameA>Nothing,21,A,1</C_StartGameA>
+	<C_StartGameA>Nothing,21,A,1,Nothing,40</C_StartGameA>
 </SmartPurpleBeamFilder>
