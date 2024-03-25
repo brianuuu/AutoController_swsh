@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"てきおうりょく"
+	],
+	"aftermath": [
+		"ゆうばく"
+	],
+	"air-lock": [
+		"エアロック"
+	],
+	"analytic": [
+		"アナライズ"
+	],
+	"anger-point": [
+		"いかりのつぼ"
+	],
+	"anticipation": [
+		"きけんよち"
+	],
+	"aroma-veil": [
+		"アロマベール"
+	],
+	"battery": [
+		"バッテリー"
+	],
+	"battle-armor": [
+		"カブトアーマー"
+	],
+	"beast-boost": [
+		"ビーストブースト"
+	],
+	"big-pecks": [
+		"はとむね"
+	],
+	"blaze": [
+		"もうか"
+	],
+	"cheek-pouch": [
+		"ほおぶくろ"
+	],
+	"chlorophyll": [
+		"ようりょくそ"
+	],
+	"clear-body": [
+		"クリアボディ"
+	],
+	"cloud-nine": [
+		"ノーてんき"
+	],
+	"competitive": [
+		"かちき"
+	],
+	"compound-eyes": [
+		"ふくがん"
+	],
+	"contrary": [
+		"あまのじゃく"
+	],
+	"corrosion": [
+		"ふしょく"
+	],
+	"cute-charm": [
+		"メロメロボディ"
+	],
+	"damp": [
+		"しめりけ"
+	],
+	"dark-aura": [
+		"ダークオーラ"
+	],
+	"disguise": [
+		"ばけのかわ"
+	],
+	"download": [
+		"ダウンロード"
+	],
+	"drizzle": [
+		"あめふらし"
+	],
+	"drought": [
+		"ひでり"
+	],
+	"dry-skin": [
+		"かんそうはだ"
+	],
+	"early-bird": [
+		"はやおき"
+	],
+	"effect-spore": [
+		"ほうし"
+	],
+	"electric-surge": [
+		"エレキメイカー"
+	],
+	"fairy-aura": [
+		"フェアリーオーラ"
+	],
+	"filter": [
+		"フィルター"
+	],
+	"flash-fire": [
+		"もらいび"
+	],
+	"flower-gift": [
+		"フラワーギフト"
+	],
+	"fluffy": [
+		"もふもふ"
+	],
+	"forewarn": [
+		"よちむ"
+	],
+	"friend-guard": [
+		"フレンドガード"
+	],
+	"full-metal-body": [
+		"メタルプロテクト"
+	],
+	"fur-coat": [
+		"ファーコート"
+	],
+	"gale-wings": [
+		"はやてのつばさ"
+	],
+	"grassy-surge": [
+		"グラスメイカー"
+	],
+	"gulp-missile": [
+		"?????"
+	],
+	"guts": [
+		"こんじょう"
+	],
+	"harvest": [
+		"しゅうかく"
+	],
+	"healer": [
+		"いやしのこころ"
+	],
+	"huge-power": [
+		"ちからもち"
+	],
+	"hunger-switch": [
+		"?????"
+	],
+	"hydration": [
+		"うるおいボディ"
+	],
+	"hyper-cutter": [
+		"かいりきバサミ"
+	],
+	"ice-body": [
+		"アイスボディ"
+	],
+	"ice-scales": [
+		"?????"
+	],
+	"imposter": [
+		"かわりもの"
+	],
+	"innards-out": [
+		"とびだすなかみ"
+	],
+	"inner-focus": [
+		"せいしんりょく"
+	],
+	"intimidate": [
+		"いかく"
+	],
+	"iron-fist": [
+		"てつのこぶし"
+	],
+	"keen-eye": [
+		"するどいめ"
+	],
+	"klutz": [
+		"ぶきよう"
+	],
+	"leaf-guard": [
+		"リーフガード"
+	],
+	"levitate": [
+		"ふゆう"
+	],
+	"light-metal": [
+		"ライトメタル"
+	],
+	"lightning-rod": [
+		"ひらいしん"
+	],
+	"limber": [
+		"じゅうなん"
+	],
+	"magic-bounce": [
+		"マジックミラー"
+	],
+	"magic-guard": [
+		"マジックガード"
+	],
+	"mimicry": [
+		"?????"
+	],
+	"minus": [
+		"マイナス"
+	],
+	"misty-surge": [
+		"ミストメイカー"
+	],
+	"mummy": [
+		"ミイラ"
+	],
+	"neutralizing-gas": [
+		"?????"
+	],
+	"no-guard": [
+		"ノーガード"
+	],
+	"oblivious": [
+		"どんかん"
+	],
+	"overgrow": [
+		"しんりょく"
+	],
+	"own-tempo": [
+		"マイペース"
+	],
+	"pickup": [
+		"ものひろい"
+	],
+	"plus": [
+		"プラス"
+	],
+	"poison-point": [
+		"どくのトゲ"
+	],
+	"power-construct": [
+		"スワームチェンジ"
+	],
+	"prankster": [
+		"いたずらごころ"
+	],
+	"pressure": [
+		"プレッシャー"
+	],
+	"prism-armor": [
+		"プリズムアーマー"
+	],
+	"psychic-surge": [
+		"サイコメイカー"
+	],
+	"queenly-majesty": [
+		"じょおうのいげん"
+	],
+	"rain-dish": [
+		"あめうけざら"
+	],
+	"receiver": [
+		"レシーバー"
+	],
+	"reckless": [
+		"すてみ"
+	],
+	"refrigerate": [
+		"フリーズスキン"
+	],
+	"rivalry": [
+		"とうそうしん"
+	],
+	"rock-head": [
+		"いしあたま"
+	],
+	"sand-force": [
+		"すなのちから"
+	],
+	"sand-rush": [
+		"すなかき"
+	],
+	"sand-spit": [
+		"?????"
+	],
+	"sand-veil": [
+		"すながくれ"
+	],
+	"sap-sipper": [
+		"そうしょく"
+	],
+	"scrappy": [
+		"きもったま"
+	],
+	"serene-grace": [
+		"てんのめぐみ"
+	],
+	"shadow-shield": [
+		"ファントムガード"
+	],
+	"shed-skin": [
+		"だっぴ"
+	],
+	"sheer-force": [
+		"ちからずく"
+	],
+	"shell-armor": [
+		"シェルアーマー"
+	],
+	"simple": [
+		"たんじゅん"
+	],
+	"slush-rush": [
+		"ゆきかき"
+	],
+	"sniper": [
+		"スナイパー"
+	],
+	"snow-cloak": [
+		"ゆきがくれ"
+	],
+	"solar-power": [
+		"サンパワー"
+	],
+	"soundproof": [
+		"ぼうおん"
+	],
+	"speed-boost": [
+		"かそく"
+	],
+	"static": [
+		"せいでんき"
+	],
+	"steam-engine": [
+		"?????"
+	],
+	"steely-spirit": [
+		"?????"
+	],
+	"storm-drain": [
+		"よびみず"
+	],
+	"strong-jaw": [
+		"がんじょうあご"
+	],
+	"sturdy": [
+		"がんじょう"
+	],
+	"suction-cups": [
+		"きゅうばん"
+	],
+	"surge-surfer": [
+		"サーフテール"
+	],
+	"swarm": [
+		"むしのしらせ"
+	],
+	"sweet-veil": [
+		"スイートベール"
+	],
+	"swift-swim": [
+		"すいすい"
+	],
+	"symbiosis": [
+		"きょうせい"
+	],
+	"synchronize": [
+		"シンクロ"
+	],
+	"technician": [
+		"テクニシャン"
+	],
+	"teravolt": [
+		"テラボルテージ"
+	],
+	"thick-fat": [
+		"あついしぼう"
+	],
+	"tinted-lens": [
+		"いろめがね"
+	],
+	"torrent": [
+		"げきりゅう"
+	],
+	"tough-claws": [
+		"かたいツメ"
+	],
+	"triage": [
+		"ヒーリングシフト"
+	],
+	"turboblaze": [
+		"ターボブレイズ"
+	],
+	"unaware": [
+		"てんねん"
+	],
+	"unburden": [
+		"かるわざ"
+	],
+	"vital-spirit": [
+		"やるき"
+	],
+	"volt-absorb": [
+		"ちくでん"
+	],
+	"water-absorb": [
+		"ちょすい"
+	],
+	"water-veil": [
+		"みずのベール"
+	],
+	"weak-armor": [
+		"くだけるよろい"
+	],
+	"white-smoke": [
+		"しろいけむり"
+	],
+	"wonder-skin": [
+		"ミラクルスキン"
+	]
+}

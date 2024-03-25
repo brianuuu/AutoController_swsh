@@ -1,0 +1,378 @@
+{
+    "articuno": {
+        "ability_id": "pressure",
+        "base_stats": [ 90, 85, 100, 95, 125, 85 ],
+        "id": "Articuno",
+        "moves": [ 58, 573, 542, 54, 59 ],
+        "max_moves": [ 763130, 763120, 766140, 7430, 763140 ],
+        "types": [ "ice", "flying" ]
+    },
+    "azelf": {
+        "ability_id": "levitate",
+        "base_stats": [ 75, 125, 70, 125, 70, 115 ],
+        "id": "Azelf",
+        "moves": [ 94, 605, 417, 263, 129 ],
+        "max_moves": [ 769130, 767130, 7430, 760120, 760110 ],
+        "types": [ "psychic" ]
+    },
+    "blacephalon": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 53, 127, 53, 151, 79, 107 ],
+        "id": "Blacephalon",
+        "moves": [ 421, 269, 126, 428, 595 ],
+        "max_moves": [ 762120, 7430, 757140, 769130, 757130 ],
+        "types": [ "fire", "ghost" ]
+    },
+    "buzzwole": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 107, 139, 139, 53, 53, 79 ],
+        "id": "Buzzwole",
+        "moves": [ 612, 269, 141, 223, 679 ],
+        "max_moves": [ 76170, 7430, 758130, 76190, 758130 ],
+        "types": [ "bug", "fighting" ]
+    },
+    "celesteela": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 97, 101, 103, 107, 101, 61 ],
+        "id": "Celesteela",
+        "moves": [ 73, 479, 360, 89, 430 ],
+        "max_moves": [ 7430, 770100, 774120, 771130, 774130 ],
+        "types": [ "steel", "flying" ]
+    },
+    "cresselia": {
+        "ability_id": "levitate",
+        "base_stats": [ 120, 70, 120, 75, 130, 85 ],
+        "id": "Cresselia",
+        "moves": [ 196, 585, 427, 473, 94 ],
+        "max_moves": [ 763110, 767130, 769120, 769130, 769130 ],
+        "types": [ "psychic" ]
+    },
+    "dialga": {
+        "ability_id": "pressure",
+        "base_stats": [ 100, 120, 120, 150, 100, 90 ],
+        "id": "Dialga",
+        "moves": [ 163, 246, 430, 337, 231 ],
+        "max_moves": [ 760120, 770110, 774130, 768130, 774130 ],
+        "types": [ "steel", "dragon" ]
+    },
+    "entei": {
+        "ability_id": "pressure",
+        "base_stats": [ 115, 115, 85, 90, 75, 100 ],
+        "id": "Entei",
+        "moves": [ 53, 184, 245, 242, 172 ],
+        "max_moves": [ 757130, 7430, 760130, 772130, 757110 ],
+        "types": [ "fire" ]
+    },
+    "giratina-altered": {
+        "ability_id": "pressure",
+        "base_stats": [ 150, 100, 120, 100, 120, 90 ],
+        "id": "Giratina",
+        "moves": [ 337, 184, 247, 246, 421 ],
+        "max_moves": [ 768130, 7430, 762130, 770110, 762120 ],
+        "types": [ "ghost", "dragon" ]
+    },
+    "groudon": {
+        "ability_id": "drought",
+        "base_stats": [ 100, 150, 140, 100, 90, 90 ],
+        "id": "Groudon",
+        "moves": [ 89, 184, 436, 359, 619 ],
+        "max_moves": [ 771130, 7430, 757130, 76190, 771140 ],
+        "types": [ "ground" ]
+    },
+    "guzzlord": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 223, 101, 53, 97, 53, 43 ],
+        "id": "Guzzlord",
+        "moves": [ 407, 707, 693, 5, 242 ],
+        "max_moves": [ 768130, 771130, 772110, 760130, 772130 ],
+        "types": [ "dark", "dragon" ]
+    },
+    "heatran": {
+        "ability_id": "flash-fire",
+        "base_stats": [ 91, 90, 106, 130, 106, 77 ],
+        "id": "Heatran",
+        "moves": [ 319, 436, 242, 442, 257 ],
+        "max_moves": [ 7430, 757130, 772130, 774130, 757130 ],
+        "types": [ "fire", "steel" ]
+    },
+    "ho-oh": {
+        "ability_id": "pressure",
+        "base_stats": [ 106, 130, 90, 110, 154, 90 ],
+        "id": "Ho-Oh",
+        "moves": [ 394, 326, 241, 246, 221 ],
+        "max_moves": [ 757140, 769130, 7430, 770110, 757130 ],
+        "types": [ "fire", "flying" ]
+    },
+    "kartana": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 59, 181, 131, 59, 31, 109 ],
+        "id": "Kartana",
+        "moves": [ 410, 314, 348, 14, 348 ],
+        "max_moves": [ 76170, 766110, 773130, 7430, 773130 ],
+        "types": [ "grass", "steel" ]
+    },
+    "kyogre": {
+        "ability_id": "drizzle",
+        "base_stats": [ 100, 100, 90, 150, 140, 90 ],
+        "id": "Kyogre",
+        "moves": [ 57, 34, 392, 87, 618 ],
+        "max_moves": [ 765130, 760130, 7430, 759140, 765140 ],
+        "types": [ "water" ]
+    },
+    "kyurem": {
+        "ability_id": "pressure",
+        "base_stats": [ 125, 130, 90, 130, 90, 95 ],
+        "id": "Kyurem",
+        "moves": [ 58, 304, 247, 184, 549 ],
+        "max_moves": [ 763130, 760130, 762130, 7430, 763120 ],
+        "types": [ "dragon", "ice" ]
+    },
+    "landorus-incarnate": {
+        "ability_id": "sand-force",
+        "base_stats": [ 89, 125, 90, 115, 80, 101 ],
+        "id": "Landorus",
+        "moves": [ 328, 157, 523, 411, 89 ],
+        "max_moves": [ 77190, 770130, 771110, 76195, 771130 ],
+        "types": [ "ground", "flying" ]
+    },
+    "latias": {
+        "ability_id": "levitate",
+        "base_stats": [ 80, 80, 90, 110, 130, 110 ],
+        "id": "Latias",
+        "moves": [ 513, 225, 428, 57, 296 ],
+        "max_moves": [ 7430, 768110, 769130, 765130, 769120 ],
+        "types": [ "dragon", "psychic" ]
+    },
+    "latios": {
+        "ability_id": "levitate",
+        "base_stats": [ 80, 90, 80, 130, 110, 110 ],
+        "id": "Latios",
+        "moves": [ 349, 406, 428, 396, 295 ],
+        "max_moves": [ 7430, 768130, 769130, 76190, 769120 ],
+        "types": [ "dragon", "psychic" ]
+    },
+    "lugia": {
+        "ability_id": "pressure",
+        "base_stats": [ 106, 90, 130, 90, 154, 110 ],
+        "id": "Lugia",
+        "moves": [ 406, 326, 250, 246, 177 ],
+        "max_moves": [ 768130, 769130, 76590, 770110, 766130 ],
+        "types": [ "psychic", "flying" ]
+    },
+    "lunala": {
+        "ability_id": "shadow-shield",
+        "base_stats": [ 137, 113, 89, 137, 107, 97 ],
+        "id": "Lunala",
+        "moves": [ 247, 585, 277, 129, 714 ],
+        "max_moves": [ 762130, 767130, 7430, 760110, 762130 ],
+        "types": [ "psychic", "ghost" ]
+    },
+    "mesprit": {
+        "ability_id": "levitate",
+        "base_stats": [ 80, 105, 105, 105, 105, 80 ],
+        "id": "Mesprit",
+        "moves": [ 94, 204, 577, 161, 129 ],
+        "max_moves": [ 769130, 7430, 767100, 760130, 760110 ],
+        "types": [ "psychic" ]
+    },
+    "mewtwo": {
+        "ability_id": "pressure",
+        "base_stats": [ 106, 110, 90, 154, 90, 130 ],
+        "id": "Mewtwo",
+        "moves": [ 94, 50, 105, 59, 540 ],
+        "max_moves": [ 769130, 7430, 7430, 763140, 769130 ],
+        "types": [ "psychic" ]
+    },
+    "moltres": {
+        "ability_id": "pressure",
+        "base_stats": [ 90, 100, 90, 125, 85, 90 ],
+        "id": "Moltres",
+        "moves": [ 257, 17, 43, 83, 257 ],
+        "max_moves": [ 757130, 766110, 7430, 75790, 757130 ],
+        "types": [ "fire", "flying" ]
+    },
+    "necrozma": {
+        "ability_id": "prism-armor",
+        "base_stats": [ 97, 107, 101, 127, 89, 79 ],
+        "id": "Necrozma",
+        "moves": [ 427, 451, 408, 475, 722 ],
+        "max_moves": [ 769120, 759100, 770130, 7430, 769130 ],
+        "types": [ "psychic" ]
+    },
+    "nihilego": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 109, 53, 47, 127, 131, 103 ],
+        "id": "Nihilego",
+        "moves": [ 472, 482, 693, 491, 408 ],
+        "max_moves": [ 7430, 76490, 772110, 76470, 770130 ],
+        "types": [ "rock", "poison" ]
+    },
+    "palkia": {
+        "ability_id": "pressure",
+        "base_stats": [ 90, 120, 100, 150, 120, 100 ],
+        "id": "Palkia",
+        "moves": [ 163, 57, 246, 337, 401 ],
+        "max_moves": [ 760120, 765130, 770110, 768130, 765130 ],
+        "types": [ "water", "dragon" ]
+    },
+    "pheromosa": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 71, 137, 37, 137, 37, 151 ],
+        "id": "Pheromosa",
+        "moves": [ 136, 129, 675, 679, 405 ],
+        "max_moves": [ 76195, 760110, 772130, 758130, 758130 ],
+        "types": [ "bug", "fighting" ]
+    },
+    "raikou": {
+        "ability_id": "pressure",
+        "base_stats": [ 90, 85, 75, 115, 100, 115 ],
+        "id": "Raikou",
+        "moves": [ 85, 336, 245, 311, 209 ],
+        "max_moves": [ 759130, 7430, 760130, 760100, 759120 ],
+        "types": [ "electric" ]
+    },
+    "rayquaza": {
+        "ability_id": "air-lock",
+        "base_stats": [ 105, 150, 90, 150, 90, 95 ],
+        "id": "Rayquaza",
+        "moves": [ 620, 693, 245, 239, 406 ],
+        "max_moves": [ 766140, 772110, 760130, 76890, 768130 ],
+        "types": [ "dragon", "flying" ]
+    },
+    "reshiram": {
+        "ability_id": "turboblaze",
+        "base_stats": [ 100, 120, 100, 150, 120, 90 ],
+        "id": "Reshiram",
+        "moves": [ 568, 326, 558, 406, 551 ],
+        "max_moves": [ 7430, 769130, 757130, 768130, 757140 ],
+        "types": [ "dragon", "fire" ]
+    },
+    "solgaleo": {
+        "ability_id": "full-metal-body",
+        "base_stats": [ 137, 137, 107, 113, 89, 97 ],
+        "id": "Solgaleo",
+        "moves": [ 428, 83, 231, 568, 713 ],
+        "max_moves": [ 769130, 75790, 774130, 7430, 774130 ],
+        "types": [ "psychic", "steel" ]
+    },
+    "stakataka": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 61, 131, 211, 53, 101, 13 ],
+        "id": "Stakataka",
+        "moves": [ 157, 38, 693, 475, 442 ],
+        "max_moves": [ 770130, 760140, 772110, 7430, 774130 ],
+        "types": [ "rock", "steel" ]
+    },
+    "suicune": {
+        "ability_id": "pressure",
+        "base_stats": [ 100, 75, 115, 90, 115, 85 ],
+        "id": "Suicune",
+        "moves": [ 710, 326, 245, 347, 352 ],
+        "max_moves": [ 765130, 769130, 760130, 7430, 765110 ],
+        "types": [ "water" ]
+    },
+    "tapu-bulu": {
+        "ability_id": "grassy-surge",
+        "base_stats": [ 70, 130, 115, 85, 95, 75 ],
+        "id": "Tapu Bulu",
+        "moves": [ 276, 224, 452, 184, 532 ],
+        "max_moves": [ 76195, 758140, 773140, 7430, 773130 ],
+        "types": [ "grass", "fairy" ]
+    },
+    "tapu-fini": {
+        "ability_id": "misty-surge",
+        "base_stats": [ 70, 75, 115, 95, 130, 85 ],
+        "id": "Tapu Fini",
+        "moves": [ 250, 352, 362, 585, 57 ],
+        "max_moves": [ 76590, 765110, 765120, 767130, 765130 ],
+        "types": [ "water", "fairy" ]
+    },
+    "tapu-koko": {
+        "ability_id": "electric-surge",
+        "base_stats": [ 70, 115, 85, 95, 75, 130 ],
+        "id": "Tapu Koko",
+        "moves": [ 85, 98, 413, 269, 435 ],
+        "max_moves": [ 759130, 76090, 766140, 7430, 759130 ],
+        "types": [ "electric", "fairy" ]
+    },
+    "tapu-lele": {
+        "ability_id": "psychic-surge",
+        "base_stats": [ 70, 85, 75, 130, 115, 95 ],
+        "id": "Tapu Lele",
+        "moves": [ 94, 583, 478, 204, 473 ],
+        "max_moves": [ 769130, 767130, 7430, 7430, 769130 ],
+        "types": [ "psychic", "fairy" ]
+    },
+    "thundurus-incarnate": {
+        "ability_id": "prankster",
+        "base_stats": [ 79, 115, 70, 125, 80, 111 ],
+        "id": "Thundurus",
+        "moves": [ 87, 240, 311, 482, 435 ],
+        "max_moves": [ 759140, 7430, 760100, 76490, 759130 ],
+        "types": [ "electric", "flying" ]
+    },
+    "tornadus-incarnate": {
+        "ability_id": "prankster",
+        "base_stats": [ 79, 115, 70, 125, 80, 111 ],
+        "id": "Tornadus",
+        "moves": [ 542, 97, 196, 257, 314 ],
+        "max_moves": [ 766140, 7430, 763110, 757130, 766110 ],
+        "types": [ "flying" ]
+    },
+    "uxie": {
+        "ability_id": "levitate",
+        "base_stats": [ 75, 75, 130, 75, 130, 95 ],
+        "id": "Uxie",
+        "moves": [ 94, 248, 478, 247, 129 ],
+        "max_moves": [ 769130, 769140, 7430, 762130, 760110 ],
+        "types": [ "psychic" ]
+    },
+    "xerneas": {
+        "ability_id": "fairy-aura",
+        "base_stats": [ 126, 131, 95, 131, 98, 99 ],
+        "id": "Xerneas",
+        "moves": [ 275, 605, 585, 532, 585 ],
+        "max_moves": [ 7430, 767130, 767130, 773130, 767130 ],
+        "types": [ "fairy" ]
+    },
+    "xurkitree": {
+        "ability_id": "beast-boost",
+        "base_stats": [ 83, 89, 71, 173, 71, 83 ],
+        "id": "Xurkitree",
+        "moves": [ 438, 435, 598, 693, 85 ],
+        "max_moves": [ 773140, 759130, 7430, 772110, 759130 ],
+        "types": [ "electric" ]
+    },
+    "yveltal": {
+        "ability_id": "dark-aura",
+        "base_stats": [ 126, 131, 95, 131, 98, 99 ],
+        "id": "Yveltal",
+        "moves": [ 269, 613, 407, 389, 555 ],
+        "max_moves": [ 7430, 766130, 768130, 772120, 772110 ],
+        "types": [ "dark", "flying" ]
+    },
+    "zapdos": {
+        "ability_id": "pressure",
+        "base_stats": [ 90, 90, 85, 125, 90, 100 ],
+        "id": "Zapdos",
+        "moves": [ 87, 65, 413, 97, 435 ],
+        "max_moves": [ 759140, 766130, 766140, 7430, 759130 ],
+        "types": [ "electric", "flying" ]
+    },
+    "zekrom": {
+        "ability_id": "teravolt",
+        "base_stats": [ 100, 150, 120, 120, 100, 90 ],
+        "id": "Zekrom",
+        "moves": [ 568, 163, 559, 337, 550 ],
+        "max_moves": [ 7430, 760120, 759130, 768130, 759140 ],
+        "types": [ "dragon", "electric" ]
+    },
+    "zygarde-50": {
+        "ability_id": "power-construct",
+        "base_stats": [ 108, 100, 121, 81, 95, 95 ],
+        "id": "Zygarde",
+        "moves": [ 614, 616, 406, 20, 616 ],
+        "max_moves": [ 771130, 771130, 768130, 76090, 771130 ],
+        "types": [ "dragon", "ground" ]
+    }
+}

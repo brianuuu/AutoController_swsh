@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"Anpassung"
+	],
+	"aftermath": [
+		"Finalschlag"
+	],
+	"air-lock": [
+		"Klimaschutz"
+	],
+	"analytic": [
+		"Analyse"
+	],
+	"anger-point": [
+		"Kurzschluss"
+	],
+	"anticipation": [
+		"Vorahnung"
+	],
+	"aroma-veil": [
+		"Dufthülle"
+	],
+	"battery": [
+		"Batterie"
+	],
+	"battle-armor": [
+		"Kampfpanzer"
+	],
+	"beast-boost": [
+		"Bestien-Boost"
+	],
+	"big-pecks": [
+		"Brustbieter"
+	],
+	"blaze": [
+		"Großbrand"
+	],
+	"cheek-pouch": [
+		"Backentaschen"
+	],
+	"chlorophyll": [
+		"Chlorophyll"
+	],
+	"clear-body": [
+		"Neutraltorso"
+	],
+	"cloud-nine": [
+		"Wolke Sieben"
+	],
+	"competitive": [
+		"Unbeugsamkeit"
+	],
+	"compound-eyes": [
+		"Facettenauge"
+	],
+	"contrary": [
+		"Umkehrung"
+	],
+	"corrosion": [
+		"Korrosion"
+	],
+	"cute-charm": [
+		"Charmebolzen"
+	],
+	"damp": [
+		"Feuchtigkeit"
+	],
+	"dark-aura": [
+		"Dunkelaura"
+	],
+	"disguise": [
+		"Kostümspuk"
+	],
+	"download": [
+		"Download"
+	],
+	"drizzle": [
+		"Niesel"
+	],
+	"drought": [
+		"Dürre"
+	],
+	"dry-skin": [
+		"Trockenheit"
+	],
+	"early-bird": [
+		"Frühwecker"
+	],
+	"effect-spore": [
+		"Sporenwirt"
+	],
+	"electric-surge": [
+		"Elektro-Erzeuger"
+	],
+	"fairy-aura": [
+		"Feenaura"
+	],
+	"filter": [
+		"Filter"
+	],
+	"flash-fire": [
+		"Feuerfänger"
+	],
+	"flower-gift": [
+		"Pflanzengabe"
+	],
+	"fluffy": [
+		"Flauschigkeit"
+	],
+	"forewarn": [
+		"Vorwarnung"
+	],
+	"friend-guard": [
+		"Freundeshut"
+	],
+	"full-metal-body": [
+		"Metallprotektor"
+	],
+	"fur-coat": [
+		"Fellkleid"
+	],
+	"gale-wings": [
+		"Orkanschwingen"
+	],
+	"grassy-surge": [
+		"Gras-Erzeuger"
+	],
+	"gulp-missile": [
+		"Würggeschoss"
+	],
+	"guts": [
+		"Adrenalin"
+	],
+	"harvest": [
+		"Reiche Ernte"
+	],
+	"healer": [
+		"Heilherz"
+	],
+	"huge-power": [
+		"Kraftkoloss"
+	],
+	"hunger-switch": [
+		"Heißhunger"
+	],
+	"hydration": [
+		"Hydration"
+	],
+	"hyper-cutter": [
+		"Scherenmacht"
+	],
+	"ice-body": [
+		"Eishaut"
+	],
+	"ice-scales": [
+		"Eisflügelstaub"
+	],
+	"imposter": [
+		"Doppelgänger"
+	],
+	"innards-out": [
+		"Magenkrempler"
+	],
+	"inner-focus": [
+		"Konzentrator"
+	],
+	"intimidate": [
+		"Bedroher"
+	],
+	"iron-fist": [
+		"Eisenfaust"
+	],
+	"keen-eye": [
+		"Adlerauge"
+	],
+	"klutz": [
+		"Tollpatsch"
+	],
+	"leaf-guard": [
+		"Floraschild"
+	],
+	"levitate": [
+		"Schwebe"
+	],
+	"light-metal": [
+		"Leichtmetall"
+	],
+	"lightning-rod": [
+		"Blitzfänger"
+	],
+	"limber": [
+		"Flexibilität"
+	],
+	"magic-bounce": [
+		"Magiespiegel"
+	],
+	"magic-guard": [
+		"Magieschild"
+	],
+	"mimicry": [
+		"Mimese"
+	],
+	"minus": [
+		"Minus"
+	],
+	"misty-surge": [
+		"Nebel-Erzeuger"
+	],
+	"mummy": [
+		"Mumie"
+	],
+	"neutralizing-gas": [
+		"Reaktionsgas"
+	],
+	"no-guard": [
+		"Schildlos"
+	],
+	"oblivious": [
+		"Dösigkeit"
+	],
+	"overgrow": [
+		"Notdünger"
+	],
+	"own-tempo": [
+		"Tempomacher"
+	],
+	"pickup": [
+		"Mitnahme"
+	],
+	"plus": [
+		"Plus"
+	],
+	"poison-point": [
+		"Giftdorn"
+	],
+	"power-construct": [
+		"Scharwandel"
+	],
+	"prankster": [
+		"Strolch"
+	],
+	"pressure": [
+		"Erzwinger"
+	],
+	"prism-armor": [
+		"Prismarüstung"
+	],
+	"psychic-surge": [
+		"Psycho-Erzeuger"
+	],
+	"queenly-majesty": [
+		"Majestät"
+	],
+	"rain-dish": [
+		"Regengenuss"
+	],
+	"receiver": [
+		"Receiver"
+	],
+	"reckless": [
+		"Achtlos"
+	],
+	"refrigerate": [
+		"Frostschicht"
+	],
+	"rivalry": [
+		"Rivalität"
+	],
+	"rock-head": [
+		"Steinhaupt"
+	],
+	"sand-force": [
+		"Sandgewalt"
+	],
+	"sand-rush": [
+		"Sandscharrer"
+	],
+	"sand-spit": [
+		"Sandspeier"
+	],
+	"sand-veil": [
+		"Sandschleier"
+	],
+	"sap-sipper": [
+		"Vegetarier"
+	],
+	"scrappy": [
+		"Rauflust"
+	],
+	"serene-grace": [
+		"Edelmut"
+	],
+	"shadow-shield": [
+		"Phantomschutz"
+	],
+	"shed-skin": [
+		"Expidermis"
+	],
+	"sheer-force": [
+		"Rohe Gewalt"
+	],
+	"shell-armor": [
+		"Panzerhaut"
+	],
+	"simple": [
+		"Wankelmut"
+	],
+	"slush-rush": [
+		"Schneescharrer"
+	],
+	"sniper": [
+		"Superschütze"
+	],
+	"snow-cloak": [
+		"Schneemantel"
+	],
+	"solar-power": [
+		"Solarkraft"
+	],
+	"soundproof": [
+		"Lärmschutz"
+	],
+	"speed-boost": [
+		"Temposchub"
+	],
+	"static": [
+		"Statik"
+	],
+	"steam-engine": [
+		"Dampfantrieb"
+	],
+	"steely-spirit": [
+		"Stählerner Wille"
+	],
+	"storm-drain": [
+		"Sturmsog"
+	],
+	"strong-jaw": [
+		"Titankiefer"
+	],
+	"sturdy": [
+		"Robustheit"
+	],
+	"suction-cups": [
+		"Saugnapf"
+	],
+	"surge-surfer": [
+		"Surf-Schweif"
+	],
+	"swarm": [
+		"Hexaplaga"
+	],
+	"sweet-veil": [
+		"Zuckerhülle"
+	],
+	"swift-swim": [
+		"Wassertempo"
+	],
+	"symbiosis": [
+		"Nutznießer"
+	],
+	"synchronize": [
+		"Synchro"
+	],
+	"technician": [
+		"Techniker"
+	],
+	"teravolt": [
+		"Teravolt"
+	],
+	"thick-fat": [
+		"Speckschicht"
+	],
+	"tinted-lens": [
+		"Aufwertung"
+	],
+	"torrent": [
+		"Sturzbach"
+	],
+	"tough-claws": [
+		"Krallenwucht"
+	],
+	"triage": [
+		"Heilwandel"
+	],
+	"turboblaze": [
+		"Turbobrand"
+	],
+	"unaware": [
+		"Unkenntnis"
+	],
+	"unburden": [
+		"Entlastung"
+	],
+	"vital-spirit": [
+		"Munterkeit"
+	],
+	"volt-absorb": [
+		"Voltabsorber"
+	],
+	"water-absorb": [
+		"H2O-Absorber"
+	],
+	"water-veil": [
+		"Aquahülle"
+	],
+	"weak-armor": [
+		"Bruchrüstung"
+	],
+	"white-smoke": [
+		"Pulverrauch"
+	],
+	"wonder-skin": [
+		"Wunderhaut"
+	]
+}

@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"Adattabilità"
+	],
+	"aftermath": [
+		"Scoppio"
+	],
+	"air-lock": [
+		"Riparo"
+	],
+	"analytic": [
+		"Ponderazione"
+	],
+	"anger-point": [
+		"Grancollera"
+	],
+	"anticipation": [
+		"Presagio"
+	],
+	"aroma-veil": [
+		"Aromavelo"
+	],
+	"battery": [
+		"Batteria"
+	],
+	"battle-armor": [
+		"Lottascudo"
+	],
+	"beast-boost": [
+		"Ultraboost"
+	],
+	"big-pecks": [
+		"Pettinfuori"
+	],
+	"blaze": [
+		"Aiutofuoco"
+	],
+	"cheek-pouch": [
+		"Guancegonfie"
+	],
+	"chlorophyll": [
+		"Clorofilla"
+	],
+	"clear-body": [
+		"Corpochiaro"
+	],
+	"cloud-nine": [
+		"Antimeteo"
+	],
+	"competitive": [
+		"Tenacia"
+	],
+	"compound-eyes": [
+		"Insettocchi"
+	],
+	"contrary": [
+		"Inversione"
+	],
+	"corrosion": [
+		"Corrosione"
+	],
+	"cute-charm": [
+		"Incantevole"
+	],
+	"damp": [
+		"Umidità"
+	],
+	"dark-aura": [
+		"Auratetra"
+	],
+	"disguise": [
+		"Fantasmanto"
+	],
+	"download": [
+		"Download"
+	],
+	"drizzle": [
+		"Piovischio"
+	],
+	"drought": [
+		"Siccità"
+	],
+	"dry-skin": [
+		"Pellearsa"
+	],
+	"early-bird": [
+		"Sveglialampo"
+	],
+	"effect-spore": [
+		"Spargispora"
+	],
+	"electric-surge": [
+		"Elettrogenesi"
+	],
+	"fairy-aura": [
+		"Aurafolletto"
+	],
+	"filter": [
+		"Filtro"
+	],
+	"flash-fire": [
+		"Fuocardore"
+	],
+	"flower-gift": [
+		"Regalfiore"
+	],
+	"fluffy": [
+		"Morbidone"
+	],
+	"forewarn": [
+		"Premonizione"
+	],
+	"friend-guard": [
+		"Amicoscudo"
+	],
+	"full-metal-body": [
+		"Metalprotezione"
+	],
+	"fur-coat": [
+		"Foltopelo"
+	],
+	"gale-wings": [
+		"Aliraffica"
+	],
+	"grassy-surge": [
+		"Erbogenesi"
+	],
+	"gulp-missile": [
+		"Inghiottimissile"
+	],
+	"guts": [
+		"Dentistretti"
+	],
+	"harvest": [
+		"Coglibacche"
+	],
+	"healer": [
+		"Curacuore"
+	],
+	"huge-power": [
+		"Macroforza"
+	],
+	"hunger-switch": [
+		"Pancialterna"
+	],
+	"hydration": [
+		"Idratazione"
+	],
+	"hyper-cutter": [
+		"Ipertaglio"
+	],
+	"ice-body": [
+		"Corpogelo"
+	],
+	"ice-scales": [
+		"Geloscaglie"
+	],
+	"imposter": [
+		"Sosia"
+	],
+	"innards-out": [
+		"Espellinterno"
+	],
+	"inner-focus": [
+		"Forza Interiore"
+	],
+	"intimidate": [
+		"Prepotenza"
+	],
+	"iron-fist": [
+		"Ferropugno"
+	],
+	"keen-eye": [
+		"Sguardofermo"
+	],
+	"klutz": [
+		"Impaccio"
+	],
+	"leaf-guard": [
+		"Fogliamanto"
+	],
+	"levitate": [
+		"Levitazione"
+	],
+	"light-metal": [
+		"Metalleggero"
+	],
+	"lightning-rod": [
+		"Parafulmine"
+	],
+	"limber": [
+		"Scioltezza"
+	],
+	"magic-bounce": [
+		"Magispecchio"
+	],
+	"magic-guard": [
+		"Magicscudo"
+	],
+	"mimicry": [
+		"Mimetismo"
+	],
+	"minus": [
+		"Meno"
+	],
+	"misty-surge": [
+		"Nebbiogenesi"
+	],
+	"mummy": [
+		"Mummia"
+	],
+	"neutralizing-gas": [
+		"Gas Reagente"
+	],
+	"no-guard": [
+		"Nullodifesa"
+	],
+	"oblivious": [
+		"Indifferenza"
+	],
+	"overgrow": [
+		"Erbaiuto"
+	],
+	"own-tempo": [
+		"Mente Locale"
+	],
+	"pickup": [
+		"Raccolta"
+	],
+	"plus": [
+		"Più"
+	],
+	"poison-point": [
+		"Velenopunto"
+	],
+	"power-construct": [
+		"Sciamefusione"
+	],
+	"prankster": [
+		"Burla"
+	],
+	"pressure": [
+		"Pressione"
+	],
+	"prism-armor": [
+		"Scudoprisma"
+	],
+	"psychic-surge": [
+		"Psicogenesi"
+	],
+	"queenly-majesty": [
+		"Regalità"
+	],
+	"rain-dish": [
+		"Copripioggia"
+	],
+	"receiver": [
+		"Ricezione"
+	],
+	"reckless": [
+		"Temerarietà"
+	],
+	"refrigerate": [
+		"Pellegelo"
+	],
+	"rivalry": [
+		"Antagonismo"
+	],
+	"rock-head": [
+		"Testadura"
+	],
+	"sand-force": [
+		"Silicoforza"
+	],
+	"sand-rush": [
+		"Remasabbia"
+	],
+	"sand-spit": [
+		"Sputasabbia"
+	],
+	"sand-veil": [
+		"Sabbiavelo"
+	],
+	"sap-sipper": [
+		"Mangiaerba"
+	],
+	"scrappy": [
+		"Nervisaldi"
+	],
+	"serene-grace": [
+		"Leggiadro"
+	],
+	"shadow-shield": [
+		"Spettroguardia"
+	],
+	"shed-skin": [
+		"Muta"
+	],
+	"sheer-force": [
+		"Forzabruta"
+	],
+	"shell-armor": [
+		"Guscioscudo"
+	],
+	"simple": [
+		"Disinvoltura"
+	],
+	"slush-rush": [
+		"Spalaneve"
+	],
+	"sniper": [
+		"Cecchino"
+	],
+	"snow-cloak": [
+		"Mantelneve"
+	],
+	"solar-power": [
+		"Solarpotere"
+	],
+	"soundproof": [
+		"Antisuono"
+	],
+	"speed-boost": [
+		"Acceleratore"
+	],
+	"static": [
+		"Statico"
+	],
+	"steam-engine": [
+		"Vapormacchina"
+	],
+	"steely-spirit": [
+		"Spiritoferreo"
+	],
+	"storm-drain": [
+		"Acquascolo"
+	],
+	"strong-jaw": [
+		"Ferromascella"
+	],
+	"sturdy": [
+		"Vigore"
+	],
+	"suction-cups": [
+		"Ventose"
+	],
+	"surge-surfer": [
+		"Codasurf"
+	],
+	"swarm": [
+		"Aiutinsetto"
+	],
+	"sweet-veil": [
+		"Dolcevelo"
+	],
+	"swift-swim": [
+		"Nuotovelox"
+	],
+	"symbiosis": [
+		"Simbiosi"
+	],
+	"synchronize": [
+		"Sincronismo"
+	],
+	"technician": [
+		"Tecnico"
+	],
+	"teravolt": [
+		"Teravolt"
+	],
+	"thick-fat": [
+		"Grassospesso"
+	],
+	"tinted-lens": [
+		"Lentifumé"
+	],
+	"torrent": [
+		"Acquaiuto"
+	],
+	"tough-claws": [
+		"Unghiedure"
+	],
+	"triage": [
+		"Primacura"
+	],
+	"turboblaze": [
+		"Piroturbina"
+	],
+	"unaware": [
+		"Imprudenza"
+	],
+	"unburden": [
+		"Agiltecnica"
+	],
+	"vital-spirit": [
+		"Spiritovivo"
+	],
+	"volt-absorb": [
+		"Assorbivolt"
+	],
+	"water-absorb": [
+		"Assorbacqua"
+	],
+	"water-veil": [
+		"Idrovelo"
+	],
+	"weak-armor": [
+		"Sottilguscio"
+	],
+	"white-smoke": [
+		"Fumochiaro"
+	],
+	"wonder-skin": [
+		"Splendicute"
+	]
+}

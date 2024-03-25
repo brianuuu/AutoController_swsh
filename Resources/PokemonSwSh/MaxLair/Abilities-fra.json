@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"Adaptabilité"
+	],
+	"aftermath": [
+		"Boom Final"
+	],
+	"air-lock": [
+		"Air Lock"
+	],
+	"analytic": [
+		"Analyste"
+	],
+	"anger-point": [
+		"Colérique"
+	],
+	"anticipation": [
+		"Anticipation"
+	],
+	"aroma-veil": [
+		"Aroma-Voile"
+	],
+	"battery": [
+		"Batterie"
+	],
+	"battle-armor": [
+		"Armurbaston"
+	],
+	"beast-boost": [
+		"Boost Chimère"
+	],
+	"big-pecks": [
+		"Cœur de Coq"
+	],
+	"blaze": [
+		"Brasier"
+	],
+	"cheek-pouch": [
+		"Bajoues"
+	],
+	"chlorophyll": [
+		"Chlorophylle"
+	],
+	"clear-body": [
+		"Corps Sain"
+	],
+	"cloud-nine": [
+		"Ciel Gris"
+	],
+	"competitive": [
+		"Battant"
+	],
+	"compound-eyes": [
+		"Œil Composé"
+	],
+	"contrary": [
+		"Contestation"
+	],
+	"corrosion": [
+		"Corrosion"
+	],
+	"cute-charm": [
+		"Joli Sourire"
+	],
+	"damp": [
+		"Moiteur"
+	],
+	"dark-aura": [
+		"Aura Ténébreuse"
+	],
+	"disguise": [
+		"Fantômasque"
+	],
+	"download": [
+		"Télécharge"
+	],
+	"drizzle": [
+		"Crachin"
+	],
+	"drought": [
+		"Sécheresse"
+	],
+	"dry-skin": [
+		"Peau Sèche"
+	],
+	"early-bird": [
+		"Matinal"
+	],
+	"effect-spore": [
+		"Pose Spore"
+	],
+	"electric-surge": [
+		"Créa-Élec"
+	],
+	"fairy-aura": [
+		"Aura Féérique"
+	],
+	"filter": [
+		"Filtre"
+	],
+	"flash-fire": [
+		"Torche"
+	],
+	"flower-gift": [
+		"Don Floral"
+	],
+	"fluffy": [
+		"Boule de Poils"
+	],
+	"forewarn": [
+		"Prédiction"
+	],
+	"friend-guard": [
+		"Garde-Ami"
+	],
+	"full-metal-body": [
+		"Métallo-Garde"
+	],
+	"fur-coat": [
+		"Toison Épaisse"
+	],
+	"gale-wings": [
+		"Ailes Bourrasque"
+	],
+	"grassy-surge": [
+		"Créa-Herbe"
+	],
+	"gulp-missile": [
+		"Dégobage"
+	],
+	"guts": [
+		"Cran"
+	],
+	"harvest": [
+		"Récolte"
+	],
+	"healer": [
+		"Cœur Soin"
+	],
+	"huge-power": [
+		"Coloforce"
+	],
+	"hunger-switch": [
+		"Déclic Fringale"
+	],
+	"hydration": [
+		"Hydratation"
+	],
+	"hyper-cutter": [
+		"Hyper Cutter"
+	],
+	"ice-body": [
+		"Corps Gel"
+	],
+	"ice-scales": [
+		"Écailles Glacées"
+	],
+	"imposter": [
+		"Imposteur"
+	],
+	"innards-out": [
+		"Expuls’Organes"
+	],
+	"inner-focus": [
+		"Attention"
+	],
+	"intimidate": [
+		"Intimidation"
+	],
+	"iron-fist": [
+		"Poing de Fer"
+	],
+	"keen-eye": [
+		"Regard Vif"
+	],
+	"klutz": [
+		"Maladresse"
+	],
+	"leaf-guard": [
+		"Feuille Garde"
+	],
+	"levitate": [
+		"Lévitation"
+	],
+	"light-metal": [
+		"Light Metal"
+	],
+	"lightning-rod": [
+		"Paratonnerre"
+	],
+	"limber": [
+		"Échauffement"
+	],
+	"magic-bounce": [
+		"Miroir Magik"
+	],
+	"magic-guard": [
+		"Garde Magik"
+	],
+	"mimicry": [
+		"Mimétisme"
+	],
+	"minus": [
+		"Moins"
+	],
+	"misty-surge": [
+		"Créa-Brume"
+	],
+	"mummy": [
+		"Momie"
+	],
+	"neutralizing-gas": [
+		"Gaz Inhibiteur"
+	],
+	"no-guard": [
+		"Annule Garde"
+	],
+	"oblivious": [
+		"Benêt"
+	],
+	"overgrow": [
+		"Engrais"
+	],
+	"own-tempo": [
+		"Tempo Perso"
+	],
+	"pickup": [
+		"Ramassage"
+	],
+	"plus": [
+		"Plus"
+	],
+	"poison-point": [
+		"Point Poison"
+	],
+	"power-construct": [
+		"Rassemblement"
+	],
+	"prankster": [
+		"Farceur"
+	],
+	"pressure": [
+		"Pression"
+	],
+	"prism-armor": [
+		"Prisme-Armure"
+	],
+	"psychic-surge": [
+		"Créa-Psy"
+	],
+	"queenly-majesty": [
+		"Prestance Royale"
+	],
+	"rain-dish": [
+		"Cuvette"
+	],
+	"receiver": [
+		"Receveur"
+	],
+	"reckless": [
+		"Téméraire"
+	],
+	"refrigerate": [
+		"Peau Gelée"
+	],
+	"rivalry": [
+		"Rivalité"
+	],
+	"rock-head": [
+		"Tête de Roc"
+	],
+	"sand-force": [
+		"Force Sable"
+	],
+	"sand-rush": [
+		"Baigne Sable"
+	],
+	"sand-spit": [
+		"Expul’Sable"
+	],
+	"sand-veil": [
+		"Voile Sable"
+	],
+	"sap-sipper": [
+		"Herbivore"
+	],
+	"scrappy": [
+		"Querelleur"
+	],
+	"serene-grace": [
+		"Sérénité"
+	],
+	"shadow-shield": [
+		"Spectro-Bouclier"
+	],
+	"shed-skin": [
+		"Mue"
+	],
+	"sheer-force": [
+		"Sans Limite"
+	],
+	"shell-armor": [
+		"Coque Armure"
+	],
+	"simple": [
+		"Simple"
+	],
+	"slush-rush": [
+		"Chasse-Neige"
+	],
+	"sniper": [
+		"Sniper"
+	],
+	"snow-cloak": [
+		"Rideau Neige"
+	],
+	"solar-power": [
+		"Force Soleil"
+	],
+	"soundproof": [
+		"Anti-Bruit"
+	],
+	"speed-boost": [
+		"Turbo"
+	],
+	"static": [
+		"Statik"
+	],
+	"steam-engine": [
+		"Turbine"
+	],
+	"steely-spirit": [
+		"Boost Acier"
+	],
+	"storm-drain": [
+		"Lavabo"
+	],
+	"strong-jaw": [
+		"Prognathe"
+	],
+	"sturdy": [
+		"Fermeté"
+	],
+	"suction-cups": [
+		"Ventouse"
+	],
+	"surge-surfer": [
+		"Surf Caudal"
+	],
+	"swarm": [
+		"Essaim"
+	],
+	"sweet-veil": [
+		"Gluco-Voile"
+	],
+	"swift-swim": [
+		"Glissade"
+	],
+	"symbiosis": [
+		"Symbiose"
+	],
+	"synchronize": [
+		"Synchro"
+	],
+	"technician": [
+		"Technicien"
+	],
+	"teravolt": [
+		"Téra-Voltage"
+	],
+	"thick-fat": [
+		"Isograisse"
+	],
+	"tinted-lens": [
+		"Lentiteintée"
+	],
+	"torrent": [
+		"Torrent"
+	],
+	"tough-claws": [
+		"Griffe Dure"
+	],
+	"triage": [
+		"Prioguérison"
+	],
+	"turboblaze": [
+		"Turbo Brasier"
+	],
+	"unaware": [
+		"Inconscient"
+	],
+	"unburden": [
+		"Délestage"
+	],
+	"vital-spirit": [
+		"Esprit Vital"
+	],
+	"volt-absorb": [
+		"Absorbe-Volt"
+	],
+	"water-absorb": [
+		"Absorbe-Eau"
+	],
+	"water-veil": [
+		"Ignifu-Voile"
+	],
+	"weak-armor": [
+		"Armurouillée"
+	],
+	"white-smoke": [
+		"Écran Fumée"
+	],
+	"wonder-skin": [
+		"Peau Miracle"
+	]
+}

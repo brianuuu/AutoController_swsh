@@ -1,0 +1,1001 @@
+{
+	"5": [
+		"Megapuño"
+	],
+	"7": [
+		"Puño Fuego"
+	],
+	"8": [
+		"Puño Hielo"
+	],
+	"9": [
+		"Puño Trueno"
+	],
+	"14": [
+		"Danza Espada"
+	],
+	"17": [
+		"Ataque Ala"
+	],
+	"19": [
+		"Vuelo"
+	],
+	"20": [
+		"Atadura"
+	],
+	"21": [
+		"Atizar"
+	],
+	"25": [
+		"Megapatada"
+	],
+	"34": [
+		"Golpe Cuerpo"
+	],
+	"38": [
+		"Doble Filo"
+	],
+	"42": [
+		"Pin Misil"
+	],
+	"43": [
+		"Malicioso"
+	],
+	"48": [
+		"Supersónico"
+	],
+	"50": [
+		"Anulación"
+	],
+	"53": [
+		"Lanzallamas"
+	],
+	"54": [
+		"Neblina"
+	],
+	"56": [
+		"Hidrobomba"
+	],
+	"57": [
+		"Surf"
+	],
+	"58": [
+		"Rayo Hielo"
+	],
+	"59": [
+		"Ventisca"
+	],
+	"60": [
+		"Psicorrayo"
+	],
+	"63": [
+		"Hiperrayo"
+	],
+	"65": [
+		"Pico Taladro"
+	],
+	"68": [
+		"Contraataque"
+	],
+	"73": [
+		"Drenadoras"
+	],
+	"76": [
+		"Rayo Solar"
+	],
+	"78": [
+		"Paralizador"
+	],
+	"80": [
+		"Danza Pétalo"
+	],
+	"81": [
+		"Disparo Demora"
+	],
+	"83": [
+		"Giro Fuego"
+	],
+	"85": [
+		"Rayo"
+	],
+	"86": [
+		"Onda Trueno"
+	],
+	"87": [
+		"Trueno"
+	],
+	"89": [
+		"Terremoto"
+	],
+	"91": [
+		"Excavar"
+	],
+	"92": [
+		"Tóxico"
+	],
+	"94": [
+		"Psíquico"
+	],
+	"95": [
+		"Hipnosis"
+	],
+	"97": [
+		"Agilidad"
+	],
+	"98": [
+		"Ataque Rápido"
+	],
+	"103": [
+		"Chirrido"
+	],
+	"105": [
+		"Recuperación"
+	],
+	"108": [
+		"Pantalla de Humo"
+	],
+	"109": [
+		"Rayo Confuso"
+	],
+	"113": [
+		"Pantalla de Luz"
+	],
+	"114": [
+		"Niebla"
+	],
+	"115": [
+		"Reflejo"
+	],
+	"126": [
+		"Llamarada"
+	],
+	"127": [
+		"Cascada"
+	],
+	"129": [
+		"Rapidez"
+	],
+	"130": [
+		"Cabezazo"
+	],
+	"133": [
+		"Amnesia"
+	],
+	"136": [
+		"Pat. Salto Alta"
+	],
+	"137": [
+		"Deslumbrar"
+	],
+	"138": [
+		"Comesueños"
+	],
+	"141": [
+		"Chupavidas"
+	],
+	"142": [
+		"Beso Amoroso"
+	],
+	"143": [
+		"Ataque Aéreo"
+	],
+	"144": [
+		"Transformación"
+	],
+	"152": [
+		"Martillazo"
+	],
+	"155": [
+		"Huesomerang"
+	],
+	"157": [
+		"Avalancha"
+	],
+	"161": [
+		"Triataque"
+	],
+	"163": [
+		"Cuchillada"
+	],
+	"164": [
+		"Sustituto"
+	],
+	"172": [
+		"Rueda Fuego"
+	],
+	"174": [
+		"Maldición"
+	],
+	"175": [
+		"Azote"
+	],
+	"177": [
+		"Aerochorro"
+	],
+	"184": [
+		"Cara Susto"
+	],
+	"186": [
+		"Beso Dulce"
+	],
+	"188": [
+		"Bomba Lodo"
+	],
+	"189": [
+		"Bofetón Lodo"
+	],
+	"196": [
+		"Viento Hielo"
+	],
+	"200": [
+		"Enfado"
+	],
+	"201": [
+		"Tormenta Arena"
+	],
+	"202": [
+		"Gigadrenado"
+	],
+	"203": [
+		"Aguante"
+	],
+	"204": [
+		"Encanto"
+	],
+	"207": [
+		"Contoneo"
+	],
+	"208": [
+		"Batido"
+	],
+	"209": [
+		"Chispa"
+	],
+	"210": [
+		"Corte Furia"
+	],
+	"211": [
+		"Ala de Acero"
+	],
+	"219": [
+		"Velo Sagrado"
+	],
+	"221": [
+		"Fuego Sagrado"
+	],
+	"223": [
+		"Puño Dinámico"
+	],
+	"224": [
+		"Megacuerno"
+	],
+	"225": [
+		"Dragoaliento"
+	],
+	"229": [
+		"Giro Rápido"
+	],
+	"231": [
+		"Cola Férrea"
+	],
+	"232": [
+		"Garra Metal"
+	],
+	"235": [
+		"Síntesis"
+	],
+	"239": [
+		"Ciclón"
+	],
+	"240": [
+		"Danza Lluvia"
+	],
+	"241": [
+		"Día Soleado"
+	],
+	"242": [
+		"Triturar"
+	],
+	"244": [
+		"Más Psique"
+	],
+	"245": [
+		"Veloc. Extrema"
+	],
+	"246": [
+		"Poder Pasado"
+	],
+	"247": [
+		"Bola Sombra"
+	],
+	"248": [
+		"Premonición"
+	],
+	"249": [
+		"Golpe Roca"
+	],
+	"250": [
+		"Torbellino"
+	],
+	"257": [
+		"Onda Ígnea"
+	],
+	"259": [
+		"Tormento"
+	],
+	"261": [
+		"Fuego Fatuo"
+	],
+	"263": [
+		"Imagen"
+	],
+	"264": [
+		"Puño Certero"
+	],
+	"266": [
+		"Señuelo"
+	],
+	"269": [
+		"Mofa"
+	],
+	"270": [
+		"Refuerzo"
+	],
+	"275": [
+		"Arraigo"
+	],
+	"276": [
+		"Fuerza Bruta"
+	],
+	"277": [
+		"Capa Mágica"
+	],
+	"279": [
+		"Desquite"
+	],
+	"280": [
+		"Demolición"
+	],
+	"281": [
+		"Bostezo"
+	],
+	"285": [
+		"Intercambio"
+	],
+	"291": [
+		"Buceo"
+	],
+	"295": [
+		"Resplandor"
+	],
+	"296": [
+		"Bola Neblina"
+	],
+	"297": [
+		"Danza Pluma"
+	],
+	"299": [
+		"Patada Ígnea"
+	],
+	"304": [
+		"Vozarrón"
+	],
+	"306": [
+		"Garra Brutal"
+	],
+	"309": [
+		"Puño Meteoro"
+	],
+	"311": [
+		"Meteorobola"
+	],
+	"312": [
+		"Aromaterapia"
+	],
+	"313": [
+		"Llanto Falso"
+	],
+	"314": [
+		"Aire Afilado"
+	],
+	"315": [
+		"Sofoco"
+	],
+	"317": [
+		"Tumba Rocas"
+	],
+	"319": [
+		"Eco Metálico"
+	],
+	"322": [
+		"Masa Cósmica"
+	],
+	"325": [
+		"Puño Sombra"
+	],
+	"326": [
+		"Paranormal"
+	],
+	"328": [
+		"Bucle Arena"
+	],
+	"330": [
+		"Agua Lodosa"
+	],
+	"332": [
+		"Golpe Aéreo"
+	],
+	"334": [
+		"Defensa Férrea"
+	],
+	"336": [
+		"Aullido"
+	],
+	"337": [
+		"Garra Dragón"
+	],
+	"340": [
+		"Bote"
+	],
+	"345": [
+		"Hoja Mágica"
+	],
+	"347": [
+		"Paz Mental"
+	],
+	"348": [
+		"Hoja Aguda"
+	],
+	"349": [
+		"Danza Dragón"
+	],
+	"350": [
+		"Pedrada"
+	],
+	"352": [
+		"Hidropulso"
+	],
+	"356": [
+		"Gravedad"
+	],
+	"359": [
+		"Machada"
+	],
+	"360": [
+		"Giro Bola"
+	],
+	"362": [
+		"Salmuera"
+	],
+	"364": [
+		"Amago"
+	],
+	"366": [
+		"Viento Afín"
+	],
+	"367": [
+		"Acupresión"
+	],
+	"370": [
+		"A Bocajarro"
+	],
+	"371": [
+		"Vendetta"
+	],
+	"372": [
+		"Buena Baza"
+	],
+	"380": [
+		"Bilis"
+	],
+	"384": [
+		"Cambiafuerza"
+	],
+	"387": [
+		"Última Baza"
+	],
+	"388": [
+		"Abatidoras"
+	],
+	"389": [
+		"Golpe Bajo"
+	],
+	"392": [
+		"Acua Aro"
+	],
+	"393": [
+		"Levitón"
+	],
+	"394": [
+		"Envite Ígneo"
+	],
+	"396": [
+		"Esfera Aural"
+	],
+	"398": [
+		"Puya Nociva"
+	],
+	"399": [
+		"Pulso Umbrío"
+	],
+	"400": [
+		"Tajo Umbrío"
+	],
+	"401": [
+		"Acua Cola"
+	],
+	"403": [
+		"Tajo Aéreo"
+	],
+	"404": [
+		"Tijera X"
+	],
+	"405": [
+		"Zumbido"
+	],
+	"406": [
+		"Pulso Dragón"
+	],
+	"407": [
+		"Carga Dragón"
+	],
+	"408": [
+		"Joya de Luz"
+	],
+	"409": [
+		"Puño Drenaje"
+	],
+	"410": [
+		"Onda Vacío"
+	],
+	"411": [
+		"Onda Certera"
+	],
+	"412": [
+		"Energibola"
+	],
+	"413": [
+		"Pájaro Osado"
+	],
+	"414": [
+		"Tierra Viva"
+	],
+	"416": [
+		"Gigaimpacto"
+	],
+	"417": [
+		"Maquinación"
+	],
+	"418": [
+		"Puño Bala"
+	],
+	"419": [
+		"Alud"
+	],
+	"420": [
+		"Canto Helado"
+	],
+	"421": [
+		"Garra Umbría"
+	],
+	"422": [
+		"Colmillo Rayo"
+	],
+	"423": [
+		"Colmillo Hielo"
+	],
+	"425": [
+		"Sombra Vil"
+	],
+	"427": [
+		"Psicocorte"
+	],
+	"428": [
+		"Cabezazo Zen"
+	],
+	"430": [
+		"Foco Resplandor"
+	],
+	"433": [
+		"Espacio Raro"
+	],
+	"435": [
+		"Chispazo"
+	],
+	"436": [
+		"Humareda"
+	],
+	"437": [
+		"Lluevehojas"
+	],
+	"438": [
+		"Latigazo"
+	],
+	"440": [
+		"Veneno X"
+	],
+	"441": [
+		"Lanzamugre"
+	],
+	"442": [
+		"Cabeza de Hierro"
+	],
+	"444": [
+		"Roca Afilada"
+	],
+	"451": [
+		"Rayo Carga"
+	],
+	"452": [
+		"Mazazo"
+	],
+	"453": [
+		"Acua Jet"
+	],
+	"454": [
+		"Al Ataque"
+	],
+	"457": [
+		"Testarazo"
+	],
+	"469": [
+		"Vastaguardia"
+	],
+	"472": [
+		"Zona Extraña"
+	],
+	"473": [
+		"Psicocarga"
+	],
+	"474": [
+		"Carga Tóxica"
+	],
+	"475": [
+		"Aligerar"
+	],
+	"476": [
+		"Polvo Ira"
+	],
+	"478": [
+		"Zona Mágica"
+	],
+	"479": [
+		"Antiaéreo"
+	],
+	"482": [
+		"Onda Tóxica"
+	],
+	"483": [
+		"Danza Aleteo"
+	],
+	"486": [
+		"Bola Voltio"
+	],
+	"490": [
+		"Puntapié"
+	],
+	"491": [
+		"Bomba Ácida"
+	],
+	"492": [
+		"Juego Sucio"
+	],
+	"493": [
+		"Onda Simple"
+	],
+	"494": [
+		"Danza Amiga"
+	],
+	"495": [
+		"Cede Paso"
+	],
+	"496": [
+		"Canon"
+	],
+	"497": [
+		"Eco Voz"
+	],
+	"499": [
+		"Niebla Clara"
+	],
+	"503": [
+		"Escaldar"
+	],
+	"504": [
+		"Rompecoraza"
+	],
+	"505": [
+		"Pulso Cura"
+	],
+	"506": [
+		"Infortunio"
+	],
+	"508": [
+		"Cambio de Marcha"
+	],
+	"511": [
+		"Último Lugar"
+	],
+	"512": [
+		"Acróbata"
+	],
+	"513": [
+		"Clonatipo"
+	],
+	"517": [
+		"Infierno"
+	],
+	"518": [
+		"Voto Agua"
+	],
+	"519": [
+		"Voto Fuego"
+	],
+	"520": [
+		"Voto Planta"
+	],
+	"522": [
+		"Estoicismo"
+	],
+	"523": [
+		"Terratemblor"
+	],
+	"524": [
+		"Vaho Gélido"
+	],
+	"527": [
+		"Electrotela"
+	],
+	"529": [
+		"Taladradora"
+	],
+	"532": [
+		"Asta Drenaje"
+	],
+	"533": [
+		"Espada Santa"
+	],
+	"534": [
+		"Concha Filo"
+	],
+	"538": [
+		"Rizo Algodón"
+	],
+	"540": [
+		"Onda Mental"
+	],
+	"541": [
+		"Plumerazo"
+	],
+	"542": [
+		"Vendaval"
+	],
+	"544": [
+		"Rueda Doble"
+	],
+	"549": [
+		"Mundo Gélido"
+	],
+	"550": [
+		"Ataque Fulgor"
+	],
+	"551": [
+		"Llama Azul"
+	],
+	"555": [
+		"Alarido"
+	],
+	"558": [
+		"Llama Fusión"
+	],
+	"559": [
+		"Rayo Fusión"
+	],
+	"562": [
+		"Eructo"
+	],
+	"568": [
+		"Rugido de Guerra"
+	],
+	"573": [
+		"Liofilización"
+	],
+	"576": [
+		"Reversión"
+	],
+	"577": [
+		"Beso Drenaje"
+	],
+	"578": [
+		"Truco Defensa"
+	],
+	"580": [
+		"Campo de Hierba"
+	],
+	"583": [
+		"Carantoña"
+	],
+	"585": [
+		"Fuerza Lunar"
+	],
+	"590": [
+		"Confidencia"
+	],
+	"595": [
+		"Llama Embrujada"
+	],
+	"598": [
+		"Onda Anómala"
+	],
+	"599": [
+		"Trampa Venenosa"
+	],
+	"604": [
+		"Campo Eléctrico"
+	],
+	"605": [
+		"Brillo Mágico"
+	],
+	"608": [
+		"Ojitos Tiernos"
+	],
+	"609": [
+		"Moflete Estático"
+	],
+	"612": [
+		"Puño Incremento"
+	],
+	"613": [
+		"Ala Mortífera"
+	],
+	"614": [
+		"Mil Flechas"
+	],
+	"616": [
+		"Fuerza Telúrica"
+	],
+	"618": [
+		"Pulso Primigenio"
+	],
+	"619": [
+		"Filo del Abismo"
+	],
+	"620": [
+		"Ascenso Draco"
+	],
+	"659": [
+		"Recogearena"
+	],
+	"660": [
+		"Escaramuza"
+	],
+	"663": [
+		"Lariat Oscuro"
+	],
+	"666": [
+		"Cura Floral"
+	],
+	"667": [
+		"Fuerza Equina"
+	],
+	"668": [
+		"Absorbefuerza"
+	],
+	"675": [
+		"Golpe Mordaza"
+	],
+	"676": [
+		"Bola de Polen"
+	],
+	"679": [
+		"Plancha"
+	],
+	"680": [
+		"Látigo Ígneo"
+	],
+	"683": [
+		"Cambiavelocidad"
+	],
+	"684": [
+		"Cuerno Certero"
+	],
+	"688": [
+		"Patada Tropical"
+	],
+	"689": [
+		"Mandato"
+	],
+	"693": [
+		"Giro Vil"
+	],
+	"694": [
+		"Velo Aurora"
+	],
+	"706": [
+		"Psicocolmillo"
+	],
+	"707": [
+		"Pataleta"
+	],
+	"708": [
+		"Hueso Sombrío"
+	],
+	"709": [
+		"Roca Veloz"
+	],
+	"710": [
+		"Hidroariete"
+	],
+	"713": [
+		"Meteoimpacto"
+	],
+	"714": [
+		"Rayo Umbrío"
+	],
+	"715": [
+		"Ojos Llorosos"
+	],
+	"722": [
+		"Géiser Fotónico"
+	],
+	"776": [
+		"Plancha Corporal"
+	],
+	"777": [
+		"Decoración"
+	],
+	"783": [
+		"Rueda Aural"
+	],
+	"784": [
+		"Vasto Impacto"
+	],
+	"790": [
+		"Cautivapor"
+	],
+	"791": [
+		"Gota Vital"
+	],
+	"797": [
+		"Vasta Fuerza"
+	],
+	"798": [
+		"Allanador Férreo"
+	],
+	"799": [
+		"Ráfaga Escamas"
+	],
+	"800": [
+		"Rayo Meteórico"
+	],
+	"803": [
+		"Fitoimpulso"
+	],
+	"804": [
+		"Alto Voltaje"
+	],
+	"805": [
+		"Pulso de Campo"
+	],
+	"806": [
+		"Golpe Rastrero"
+	],
+	"807": [
+		"Envidia Ardiente"
+	],
+	"808": [
+		"Desahogo"
+	],
+	"811": [
+		"Motivación"
+	],
+	"813": [
+		"Triple Axel"
+	],
+	"814": [
+		"Ala Bis"
+	],
+	"815": [
+		"Arenas Ardientes"
+	]
+}

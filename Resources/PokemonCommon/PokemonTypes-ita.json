@@ -1,0 +1,56 @@
+{
+	"bug": [
+		"Coleottero"
+	],
+	"dark": [
+		"Buio"
+	],
+	"dragon": [
+		"Drago"
+	],
+	"electric": [
+		"Elettro"
+	],
+	"fairy": [
+		"Folletto"
+	],
+	"fighting": [
+		"Lotta"
+	],
+	"fire": [
+		"Fuoco"
+	],
+	"flying": [
+		"Volante"
+	],
+	"ghost": [
+		"Spettro"
+	],
+	"grass": [
+		"Erba"
+	],
+	"ground": [
+		"Terra"
+	],
+	"ice": [
+		"Ghiaccio"
+	],
+	"normal": [
+		"Normale"
+	],
+	"poison": [
+		"Veleno"
+	],
+	"psychic": [
+		"Psico"
+	],
+	"rock": [
+		"Roccia"
+	],
+	"steel": [
+		"Acciaio"
+	],
+	"water": [
+		"Acqua"
+	]
+}

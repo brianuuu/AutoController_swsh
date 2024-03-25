@@ -1,0 +1,47 @@
+Articuno
+Azelf
+Blacephalon
+Buzzwole
+Celesteela
+Cresselia
+Dialga
+Entei
+Giratina
+Groudon
+Guzzlord
+Heatran
+Ho-Oh
+Kartana
+Kyogre
+Kyurem
+Landorus
+Latias
+Latios
+Lugia
+Lunala
+Mesprit
+Mewtwo
+Moltres
+Necrozma
+Nihilego
+Palkia
+Pheromosa
+Raikou
+Rayquaza
+Reshiram
+Solgaleo
+Stakataka
+Suicune
+Tapu Bulu
+Tapu Fini
+Tapu Koko
+Tapu Lele
+Thundurus
+Tornadus
+Uxie
+Xerneas
+Xurkitree
+Yveltal
+Zapdos
+Zekrom
+Zygarde

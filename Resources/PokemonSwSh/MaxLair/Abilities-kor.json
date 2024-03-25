@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"적응력"
+	],
+	"aftermath": [
+		"유폭"
+	],
+	"air-lock": [
+		"에어록"
+	],
+	"analytic": [
+		"애널라이즈"
+	],
+	"anger-point": [
+		"분노의경혈"
+	],
+	"anticipation": [
+		"위험예지"
+	],
+	"aroma-veil": [
+		"아로마베일"
+	],
+	"battery": [
+		"배터리"
+	],
+	"battle-armor": [
+		"전투무장"
+	],
+	"beast-boost": [
+		"비스트부스트"
+	],
+	"big-pecks": [
+		"부풀린가슴"
+	],
+	"blaze": [
+		"맹화"
+	],
+	"cheek-pouch": [
+		"볼주머니"
+	],
+	"chlorophyll": [
+		"엽록소"
+	],
+	"clear-body": [
+		"클리어바디"
+	],
+	"cloud-nine": [
+		"날씨부정"
+	],
+	"competitive": [
+		"승기"
+	],
+	"compound-eyes": [
+		"복안"
+	],
+	"contrary": [
+		"심술꾸러기"
+	],
+	"corrosion": [
+		"부식"
+	],
+	"cute-charm": [
+		"헤롱헤롱바디"
+	],
+	"damp": [
+		"습기"
+	],
+	"dark-aura": [
+		"다크오라"
+	],
+	"disguise": [
+		"탈"
+	],
+	"download": [
+		"다운로드"
+	],
+	"drizzle": [
+		"잔비"
+	],
+	"drought": [
+		"가뭄"
+	],
+	"dry-skin": [
+		"건조피부"
+	],
+	"early-bird": [
+		"일찍기상"
+	],
+	"effect-spore": [
+		"포자"
+	],
+	"electric-surge": [
+		"일렉트릭메이커"
+	],
+	"fairy-aura": [
+		"페어리오라"
+	],
+	"filter": [
+		"필터"
+	],
+	"flash-fire": [
+		"타오르는불꽃"
+	],
+	"flower-gift": [
+		"플라워기프트"
+	],
+	"fluffy": [
+		"복슬복슬"
+	],
+	"forewarn": [
+		"예지몽"
+	],
+	"friend-guard": [
+		"프렌드가드"
+	],
+	"full-metal-body": [
+		"메탈프로텍트"
+	],
+	"fur-coat": [
+		"퍼코트"
+	],
+	"gale-wings": [
+		"질풍날개"
+	],
+	"grassy-surge": [
+		"그래스메이커"
+	],
+	"gulp-missile": [
+		"그대로꿀꺽미사일"
+	],
+	"guts": [
+		"근성"
+	],
+	"harvest": [
+		"수확"
+	],
+	"healer": [
+		"치유의마음"
+	],
+	"huge-power": [
+		"천하장사"
+	],
+	"hunger-switch": [
+		"꼬르륵스위치"
+	],
+	"hydration": [
+		"촉촉바디"
+	],
+	"hyper-cutter": [
+		"괴력집게"
+	],
+	"ice-body": [
+		"아이스바디"
+	],
+	"ice-scales": [
+		"얼음인분"
+	],
+	"imposter": [
+		"괴짜"
+	],
+	"innards-out": [
+		"내용물분출"
+	],
+	"inner-focus": [
+		"정신력"
+	],
+	"intimidate": [
+		"위협"
+	],
+	"iron-fist": [
+		"철주먹"
+	],
+	"keen-eye": [
+		"날카로운눈"
+	],
+	"klutz": [
+		"서투름"
+	],
+	"leaf-guard": [
+		"리프가드"
+	],
+	"levitate": [
+		"부유"
+	],
+	"light-metal": [
+		"라이트메탈"
+	],
+	"lightning-rod": [
+		"피뢰침"
+	],
+	"limber": [
+		"유연"
+	],
+	"magic-bounce": [
+		"매직미러"
+	],
+	"magic-guard": [
+		"매직가드"
+	],
+	"mimicry": [
+		"의태"
+	],
+	"minus": [
+		"마이너스"
+	],
+	"misty-surge": [
+		"미스트메이커"
+	],
+	"mummy": [
+		"미라"
+	],
+	"neutralizing-gas": [
+		"화학변화가스"
+	],
+	"no-guard": [
+		"노가드"
+	],
+	"oblivious": [
+		"둔감"
+	],
+	"overgrow": [
+		"심록"
+	],
+	"own-tempo": [
+		"마이페이스"
+	],
+	"pickup": [
+		"픽업"
+	],
+	"plus": [
+		"플러스"
+	],
+	"poison-point": [
+		"독가시"
+	],
+	"power-construct": [
+		"스웜체인지"
+	],
+	"prankster": [
+		"짓궂은마음"
+	],
+	"pressure": [
+		"프레셔"
+	],
+	"prism-armor": [
+		"프리즘아머"
+	],
+	"psychic-surge": [
+		"사이코메이커"
+	],
+	"queenly-majesty": [
+		"여왕의위엄"
+	],
+	"rain-dish": [
+		"젖은접시"
+	],
+	"receiver": [
+		"리시버"
+	],
+	"reckless": [
+		"이판사판"
+	],
+	"refrigerate": [
+		"프리즈스킨"
+	],
+	"rivalry": [
+		"투쟁심"
+	],
+	"rock-head": [
+		"돌머리"
+	],
+	"sand-force": [
+		"모래의힘"
+	],
+	"sand-rush": [
+		"모래헤치기"
+	],
+	"sand-spit": [
+		"모래뿜기"
+	],
+	"sand-veil": [
+		"모래숨기"
+	],
+	"sap-sipper": [
+		"초식"
+	],
+	"scrappy": [
+		"배짱"
+	],
+	"serene-grace": [
+		"하늘의은총"
+	],
+	"shadow-shield": [
+		"스펙터가드"
+	],
+	"shed-skin": [
+		"탈피"
+	],
+	"sheer-force": [
+		"우격다짐"
+	],
+	"shell-armor": [
+		"조가비갑옷"
+	],
+	"simple": [
+		"단순"
+	],
+	"slush-rush": [
+		"눈치우기"
+	],
+	"sniper": [
+		"스나이퍼"
+	],
+	"snow-cloak": [
+		"눈숨기"
+	],
+	"solar-power": [
+		"선파워"
+	],
+	"soundproof": [
+		"방음"
+	],
+	"speed-boost": [
+		"가속"
+	],
+	"static": [
+		"정전기"
+	],
+	"steam-engine": [
+		"증기기관"
+	],
+	"steely-spirit": [
+		"강철정신"
+	],
+	"storm-drain": [
+		"마중물"
+	],
+	"strong-jaw": [
+		"옹골찬턱"
+	],
+	"sturdy": [
+		"옹골참"
+	],
+	"suction-cups": [
+		"흡반"
+	],
+	"surge-surfer": [
+		"서핑테일"
+	],
+	"swarm": [
+		"벌레의알림"
+	],
+	"sweet-veil": [
+		"스위트베일"
+	],
+	"swift-swim": [
+		"쓱쓱"
+	],
+	"symbiosis": [
+		"공생"
+	],
+	"synchronize": [
+		"싱크로"
+	],
+	"technician": [
+		"테크니션"
+	],
+	"teravolt": [
+		"테라볼티지"
+	],
+	"thick-fat": [
+		"두꺼운지방"
+	],
+	"tinted-lens": [
+		"색안경"
+	],
+	"torrent": [
+		"급류"
+	],
+	"tough-claws": [
+		"단단한발톱"
+	],
+	"triage": [
+		"힐링시프트"
+	],
+	"turboblaze": [
+		"터보블레이즈"
+	],
+	"unaware": [
+		"천진"
+	],
+	"unburden": [
+		"곡예"
+	],
+	"vital-spirit": [
+		"의기양양"
+	],
+	"volt-absorb": [
+		"축전"
+	],
+	"water-absorb": [
+		"저수"
+	],
+	"water-veil": [
+		"수의베일"
+	],
+	"weak-armor": [
+		"깨어진갑옷"
+	],
+	"white-smoke": [
+		"하얀연기"
+	],
+	"wonder-skin": [
+		"미라클스킨"
+	]
+}

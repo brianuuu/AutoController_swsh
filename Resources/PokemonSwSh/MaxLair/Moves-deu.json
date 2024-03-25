@@ -1,0 +1,1001 @@
+{
+	"5": [
+		"Megahieb"
+	],
+	"7": [
+		"Feuerschlag"
+	],
+	"8": [
+		"Eishieb"
+	],
+	"9": [
+		"Donnerschlag"
+	],
+	"14": [
+		"Schwerttanz"
+	],
+	"17": [
+		"Flügelschlag"
+	],
+	"19": [
+		"Fliegen"
+	],
+	"20": [
+		"Klammergriff"
+	],
+	"21": [
+		"Slam"
+	],
+	"25": [
+		"Megakick"
+	],
+	"34": [
+		"Bodyslam"
+	],
+	"38": [
+		"Risikotackle"
+	],
+	"42": [
+		"Nadelrakete"
+	],
+	"43": [
+		"Silberblick"
+	],
+	"48": [
+		"Superschall"
+	],
+	"50": [
+		"Aussetzer"
+	],
+	"53": [
+		"Flammenwurf"
+	],
+	"54": [
+		"Weißnebel"
+	],
+	"56": [
+		"Hydropumpe"
+	],
+	"57": [
+		"Surfer"
+	],
+	"58": [
+		"Eisstrahl"
+	],
+	"59": [
+		"Blizzard"
+	],
+	"60": [
+		"Psystrahl"
+	],
+	"63": [
+		"Hyperstrahl"
+	],
+	"65": [
+		"Bohrschnabel"
+	],
+	"68": [
+		"Konter"
+	],
+	"73": [
+		"Egelsamen"
+	],
+	"76": [
+		"Solarstrahl"
+	],
+	"78": [
+		"Stachelspore"
+	],
+	"80": [
+		"Blättertanz"
+	],
+	"81": [
+		"Fadenschuss"
+	],
+	"83": [
+		"Feuerwirbel"
+	],
+	"85": [
+		"Donnerblitz"
+	],
+	"86": [
+		"Donnerwelle"
+	],
+	"87": [
+		"Donner"
+	],
+	"89": [
+		"Erdbeben"
+	],
+	"91": [
+		"Schaufler"
+	],
+	"92": [
+		"Toxin"
+	],
+	"94": [
+		"Psychokinese"
+	],
+	"95": [
+		"Hypnose"
+	],
+	"97": [
+		"Agilität"
+	],
+	"98": [
+		"Ruckzuckhieb"
+	],
+	"103": [
+		"Kreideschrei"
+	],
+	"105": [
+		"Genesung"
+	],
+	"108": [
+		"Rauchwolke"
+	],
+	"109": [
+		"Konfustrahl"
+	],
+	"113": [
+		"Lichtschild"
+	],
+	"114": [
+		"Dunkelnebel"
+	],
+	"115": [
+		"Reflektor"
+	],
+	"126": [
+		"Feuersturm"
+	],
+	"127": [
+		"Kaskade"
+	],
+	"129": [
+		"Sternschauer"
+	],
+	"130": [
+		"Schädelwumme"
+	],
+	"133": [
+		"Amnesie"
+	],
+	"136": [
+		"Turmkick"
+	],
+	"137": [
+		"Giftblick"
+	],
+	"138": [
+		"Traumfresser"
+	],
+	"141": [
+		"Blutsauger"
+	],
+	"142": [
+		"Todeskuss"
+	],
+	"143": [
+		"Himmelsfeger"
+	],
+	"144": [
+		"Wandler"
+	],
+	"152": [
+		"Krabbhammer"
+	],
+	"155": [
+		"Knochmerang"
+	],
+	"157": [
+		"Steinhagel"
+	],
+	"161": [
+		"Triplette"
+	],
+	"163": [
+		"Schlitzer"
+	],
+	"164": [
+		"Delegator"
+	],
+	"172": [
+		"Flammenrad"
+	],
+	"174": [
+		"Fluch"
+	],
+	"175": [
+		"Dreschflegel"
+	],
+	"177": [
+		"Luftstoß"
+	],
+	"184": [
+		"Grimasse"
+	],
+	"186": [
+		"Bitterkuss"
+	],
+	"188": [
+		"Matschbombe"
+	],
+	"189": [
+		"Lehmschelle"
+	],
+	"196": [
+		"Eissturm"
+	],
+	"200": [
+		"Wutanfall"
+	],
+	"201": [
+		"Sandsturm"
+	],
+	"202": [
+		"Gigasauger"
+	],
+	"203": [
+		"Ausdauer"
+	],
+	"204": [
+		"Charme"
+	],
+	"207": [
+		"Angeberei"
+	],
+	"208": [
+		"Milchgetränk"
+	],
+	"209": [
+		"Funkensprung"
+	],
+	"210": [
+		"Zornklinge"
+	],
+	"211": [
+		"Stahlflügel"
+	],
+	"219": [
+		"Bodyguard"
+	],
+	"221": [
+		"Läuterfeuer"
+	],
+	"223": [
+		"Wuchtschlag"
+	],
+	"224": [
+		"Vielender"
+	],
+	"225": [
+		"Feuerodem"
+	],
+	"229": [
+		"Turbodreher"
+	],
+	"231": [
+		"Eisenschweif"
+	],
+	"232": [
+		"Metallklaue"
+	],
+	"235": [
+		"Synthese"
+	],
+	"239": [
+		"Windhose"
+	],
+	"240": [
+		"Regentanz"
+	],
+	"241": [
+		"Sonnentag"
+	],
+	"242": [
+		"Knirscher"
+	],
+	"244": [
+		"Psycho-Plus"
+	],
+	"245": [
+		"Turbotempo"
+	],
+	"246": [
+		"Antik-Kraft"
+	],
+	"247": [
+		"Spukball"
+	],
+	"248": [
+		"Seher"
+	],
+	"249": [
+		"Zertrümmerer"
+	],
+	"250": [
+		"Whirlpool"
+	],
+	"257": [
+		"Hitzewelle"
+	],
+	"259": [
+		"Folterknecht"
+	],
+	"261": [
+		"Irrlicht"
+	],
+	"263": [
+		"Fassade"
+	],
+	"264": [
+		"Power-Punch"
+	],
+	"266": [
+		"Spotlight"
+	],
+	"269": [
+		"Verhöhner"
+	],
+	"270": [
+		"Rechte Hand"
+	],
+	"275": [
+		"Verwurzler"
+	],
+	"276": [
+		"Kraftkoloss"
+	],
+	"277": [
+		"Magiemantel"
+	],
+	"279": [
+		"Vergeltung"
+	],
+	"280": [
+		"Durchbruch"
+	],
+	"281": [
+		"Gähner"
+	],
+	"285": [
+		"Wertewechsel"
+	],
+	"291": [
+		"Taucher"
+	],
+	"295": [
+		"Scheinwerfer"
+	],
+	"296": [
+		"Nebelball"
+	],
+	"297": [
+		"Daunenreigen"
+	],
+	"299": [
+		"Feuerfeger"
+	],
+	"304": [
+		"Schallwelle"
+	],
+	"306": [
+		"Zermalmklaue"
+	],
+	"309": [
+		"Sternenhieb"
+	],
+	"311": [
+		"Meteorologe"
+	],
+	"312": [
+		"Aromakur"
+	],
+	"313": [
+		"Trugträne"
+	],
+	"314": [
+		"Windschnitt"
+	],
+	"315": [
+		"Hitzekoller"
+	],
+	"317": [
+		"Felsgrab"
+	],
+	"319": [
+		"Metallsound"
+	],
+	"322": [
+		"Kosmik-Kraft"
+	],
+	"325": [
+		"Finsterfaust"
+	],
+	"326": [
+		"Sondersensor"
+	],
+	"328": [
+		"Sandgrab"
+	],
+	"330": [
+		"Lehmbrühe"
+	],
+	"332": [
+		"Aero-Ass"
+	],
+	"334": [
+		"Eisenabwehr"
+	],
+	"336": [
+		"Jauler"
+	],
+	"337": [
+		"Drachenklaue"
+	],
+	"340": [
+		"Sprungfeder"
+	],
+	"345": [
+		"Zauberblatt"
+	],
+	"347": [
+		"Gedankengut"
+	],
+	"348": [
+		"Laubklinge"
+	],
+	"349": [
+		"Drachentanz"
+	],
+	"350": [
+		"Felswurf"
+	],
+	"352": [
+		"Aquawelle"
+	],
+	"356": [
+		"Erdanziehung"
+	],
+	"359": [
+		"Hammerarm"
+	],
+	"360": [
+		"Gyroball"
+	],
+	"362": [
+		"Lake"
+	],
+	"364": [
+		"Offenlegung"
+	],
+	"366": [
+		"Rückenwind"
+	],
+	"367": [
+		"Akupressur"
+	],
+	"370": [
+		"Nahkampf"
+	],
+	"371": [
+		"Gegenstoß"
+	],
+	"372": [
+		"Gewissheit"
+	],
+	"380": [
+		"Magensäfte"
+	],
+	"384": [
+		"Krafttausch"
+	],
+	"387": [
+		"Zuflucht"
+	],
+	"388": [
+		"Sorgensamen"
+	],
+	"389": [
+		"Tiefschlag"
+	],
+	"392": [
+		"Wasserring"
+	],
+	"393": [
+		"Magnetflug"
+	],
+	"394": [
+		"Flammenblitz"
+	],
+	"396": [
+		"Aurasphäre"
+	],
+	"398": [
+		"Gifthieb"
+	],
+	"399": [
+		"Finsteraura"
+	],
+	"400": [
+		"Nachthieb"
+	],
+	"401": [
+		"Nassschweif"
+	],
+	"403": [
+		"Luftschnitt"
+	],
+	"404": [
+		"Kreuzschere"
+	],
+	"405": [
+		"Käfergebrumm"
+	],
+	"406": [
+		"Drachenpuls"
+	],
+	"407": [
+		"Drachenstoß"
+	],
+	"408": [
+		"Juwelenkraft"
+	],
+	"409": [
+		"Ableithieb"
+	],
+	"410": [
+		"Vakuumwelle"
+	],
+	"411": [
+		"Fokusstoß"
+	],
+	"412": [
+		"Energieball"
+	],
+	"413": [
+		"Sturzflug"
+	],
+	"414": [
+		"Erdkräfte"
+	],
+	"416": [
+		"Gigastoß"
+	],
+	"417": [
+		"Ränkeschmied"
+	],
+	"418": [
+		"Patronenhieb"
+	],
+	"419": [
+		"Lawine"
+	],
+	"420": [
+		"Eissplitter"
+	],
+	"421": [
+		"Dunkelklaue"
+	],
+	"422": [
+		"Donnerzahn"
+	],
+	"423": [
+		"Eiszahn"
+	],
+	"425": [
+		"Schattenstoß"
+	],
+	"427": [
+		"Psychoklinge"
+	],
+	"428": [
+		"Zen-Kopfstoß"
+	],
+	"430": [
+		"Lichtkanone"
+	],
+	"433": [
+		"Bizarroraum"
+	],
+	"435": [
+		"Ladungsstoß"
+	],
+	"436": [
+		"Flammensturm"
+	],
+	"437": [
+		"Blättersturm"
+	],
+	"438": [
+		"Blattgeißel"
+	],
+	"440": [
+		"Giftstreich"
+	],
+	"441": [
+		"Mülltreffer"
+	],
+	"442": [
+		"Eisenschädel"
+	],
+	"444": [
+		"Steinkante"
+	],
+	"451": [
+		"Ladestrahl"
+	],
+	"452": [
+		"Holzhammer"
+	],
+	"453": [
+		"Wasserdüse"
+	],
+	"454": [
+		"Schlagbefehl"
+	],
+	"457": [
+		"Kopfstoß"
+	],
+	"469": [
+		"Rundumschutz"
+	],
+	"472": [
+		"Wunderraum"
+	],
+	"473": [
+		"Psychoschock"
+	],
+	"474": [
+		"Giftschock"
+	],
+	"475": [
+		"Autotomie"
+	],
+	"476": [
+		"Wutpulver"
+	],
+	"478": [
+		"Magieraum"
+	],
+	"479": [
+		"Katapult"
+	],
+	"482": [
+		"Schlammwoge"
+	],
+	"483": [
+		"Falterreigen"
+	],
+	"486": [
+		"Elektroball"
+	],
+	"490": [
+		"Fußtritt"
+	],
+	"491": [
+		"Säurespeier"
+	],
+	"492": [
+		"Schmarotzer"
+	],
+	"493": [
+		"Wankelstrahl"
+	],
+	"494": [
+		"Zwango"
+	],
+	"495": [
+		"Galanterie"
+	],
+	"496": [
+		"Kanon"
+	],
+	"497": [
+		"Widerhall"
+	],
+	"499": [
+		"Klärsmog"
+	],
+	"503": [
+		"Siedewasser"
+	],
+	"504": [
+		"Hausbruch"
+	],
+	"505": [
+		"Heilwoge"
+	],
+	"506": [
+		"Bürde"
+	],
+	"508": [
+		"Gangwechsel"
+	],
+	"511": [
+		"Verzögerung"
+	],
+	"512": [
+		"Akrobatik"
+	],
+	"513": [
+		"Typenspiegel"
+	],
+	"517": [
+		"Inferno"
+	],
+	"518": [
+		"Wassersäulen"
+	],
+	"519": [
+		"Feuersäulen"
+	],
+	"520": [
+		"Pflanzensäulen"
+	],
+	"522": [
+		"Käfertrutz"
+	],
+	"523": [
+		"Dampfwalze"
+	],
+	"524": [
+		"Eisesodem"
+	],
+	"527": [
+		"Elektronetz"
+	],
+	"529": [
+		"Schlagbohrer"
+	],
+	"532": [
+		"Holzgeweih"
+	],
+	"533": [
+		"Sanctoklinge"
+	],
+	"534": [
+		"Kalkklinge"
+	],
+	"538": [
+		"Watteschild"
+	],
+	"540": [
+		"Psychostoß"
+	],
+	"541": [
+		"Kehrschelle"
+	],
+	"542": [
+		"Orkan"
+	],
+	"544": [
+		"Klikkdiskus"
+	],
+	"549": [
+		"Eiszeit"
+	],
+	"550": [
+		"Blitzschlag"
+	],
+	"551": [
+		"Blauflammen"
+	],
+	"555": [
+		"Standpauke"
+	],
+	"558": [
+		"Kreuzflamme"
+	],
+	"559": [
+		"Kreuzdonner"
+	],
+	"562": [
+		"Rülpser"
+	],
+	"568": [
+		"Kampfgebrüll"
+	],
+	"573": [
+		"Gefriertrockner"
+	],
+	"576": [
+		"Invertigo"
+	],
+	"577": [
+		"Diebeskuss"
+	],
+	"578": [
+		"Trickschutz"
+	],
+	"580": [
+		"Grasfeld"
+	],
+	"583": [
+		"Knuddler"
+	],
+	"585": [
+		"Mondgewalt"
+	],
+	"590": [
+		"Vertrauenssache"
+	],
+	"595": [
+		"Magieflamme"
+	],
+	"598": [
+		"Mystowellen"
+	],
+	"599": [
+		"Giftfalle"
+	],
+	"604": [
+		"Elektrofeld"
+	],
+	"605": [
+		"Zauberschein"
+	],
+	"608": [
+		"Kulleraugen"
+	],
+	"609": [
+		"Wangenrubbler"
+	],
+	"612": [
+		"Steigerungshieb"
+	],
+	"613": [
+		"Unheilsschwingen"
+	],
+	"614": [
+		"Tausend Pfeile"
+	],
+	"616": [
+		"Bodengewalt"
+	],
+	"618": [
+		"Ursprungswoge"
+	],
+	"619": [
+		"Abgrundsklinge"
+	],
+	"620": [
+		"Zenitstürmer"
+	],
+	"659": [
+		"Sandsammler"
+	],
+	"660": [
+		"Überrumpler"
+	],
+	"663": [
+		"Dark Lariat"
+	],
+	"666": [
+		"Florakur"
+	],
+	"667": [
+		"Pferdestärke"
+	],
+	"668": [
+		"Kraftabsorber"
+	],
+	"675": [
+		"Neck Strike"
+	],
+	"676": [
+		"Pollenknödel"
+	],
+	"679": [
+		"Anfallen"
+	],
+	"680": [
+		"Feuerpeitsche"
+	],
+	"683": [
+		"Initiativetausch"
+	],
+	"684": [
+		"Schmalhorn"
+	],
+	"688": [
+		"Tropenkick"
+	],
+	"689": [
+		"Kommando"
+	],
+	"693": [
+		"Wirbler"
+	],
+	"694": [
+		"Auroraschleier"
+	],
+	"706": [
+		"Psychobeißer"
+	],
+	"707": [
+		"Fruststampfer"
+	],
+	"708": [
+		"Schattenknochen"
+	],
+	"709": [
+		"Turbofelsen"
+	],
+	"710": [
+		"Aquadurchstoß"
+	],
+	"713": [
+		"Stahlgestirn"
+	],
+	"714": [
+		"Schattenstrahl"
+	],
+	"715": [
+		"Tränendrüse"
+	],
+	"722": [
+		"Photonen-Geysir"
+	],
+	"776": [
+		"Body Press"
+	],
+	"777": [
+		"Verzierung"
+	],
+	"783": [
+		"Aura-Rad"
+	],
+	"784": [
+		"Breitseite"
+	],
+	"790": [
+		"Wunderdampf"
+	],
+	"791": [
+		"Lebenstropfen"
+	],
+	"797": [
+		"?????"
+	],
+	"798": [
+		"?????"
+	],
+	"799": [
+		"?????"
+	],
+	"800": [
+		"?????"
+	],
+	"803": [
+		"?????"
+	],
+	"804": [
+		"?????"
+	],
+	"805": [
+		"?????"
+	],
+	"806": [
+		"?????"
+	],
+	"807": [
+		"?????"
+	],
+	"808": [
+		"?????"
+	],
+	"811": [
+		"?????"
+	],
+	"813": [
+		"?????"
+	],
+	"814": [
+		"?????"
+	],
+	"815": [
+		"?????"
+	]
+}

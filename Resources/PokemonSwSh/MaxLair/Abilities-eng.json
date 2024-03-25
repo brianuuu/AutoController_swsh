@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"Adaptability"
+	],
+	"aftermath": [
+		"Aftermath"
+	],
+	"air-lock": [
+		"Air Lock"
+	],
+	"analytic": [
+		"Analytic"
+	],
+	"anger-point": [
+		"Anger Point"
+	],
+	"anticipation": [
+		"Anticipation"
+	],
+	"aroma-veil": [
+		"Aroma Veil"
+	],
+	"battery": [
+		"Battery"
+	],
+	"battle-armor": [
+		"Battle Armor"
+	],
+	"beast-boost": [
+		"Beast Boost"
+	],
+	"big-pecks": [
+		"Big Pecks"
+	],
+	"blaze": [
+		"Blaze"
+	],
+	"cheek-pouch": [
+		"Cheek Pouch"
+	],
+	"chlorophyll": [
+		"Chlorophyll"
+	],
+	"clear-body": [
+		"Clear Body"
+	],
+	"cloud-nine": [
+		"Cloud Nine"
+	],
+	"competitive": [
+		"Competitive"
+	],
+	"compound-eyes": [
+		"Compound Eyes"
+	],
+	"contrary": [
+		"Contrary"
+	],
+	"corrosion": [
+		"Corrosion"
+	],
+	"cute-charm": [
+		"Cute Charm"
+	],
+	"damp": [
+		"Damp"
+	],
+	"dark-aura": [
+		"Dark Aura"
+	],
+	"disguise": [
+		"Disguise"
+	],
+	"download": [
+		"Download"
+	],
+	"drizzle": [
+		"Drizzle"
+	],
+	"drought": [
+		"Drought"
+	],
+	"dry-skin": [
+		"Dry Skin"
+	],
+	"early-bird": [
+		"Early Bird"
+	],
+	"effect-spore": [
+		"Effect Spore"
+	],
+	"electric-surge": [
+		"Electric Surge"
+	],
+	"fairy-aura": [
+		"Fairy Aura"
+	],
+	"filter": [
+		"Filter"
+	],
+	"flash-fire": [
+		"Flash Fire"
+	],
+	"flower-gift": [
+		"Flower Gift"
+	],
+	"fluffy": [
+		"Fluffy"
+	],
+	"forewarn": [
+		"Forewarn"
+	],
+	"friend-guard": [
+		"Friend Guard"
+	],
+	"full-metal-body": [
+		"Full Metal Body"
+	],
+	"fur-coat": [
+		"Fur Coat"
+	],
+	"gale-wings": [
+		"Gale Wings"
+	],
+	"grassy-surge": [
+		"Grassy Surge"
+	],
+	"gulp-missile": [
+		"Gulp Missile"
+	],
+	"guts": [
+		"Guts"
+	],
+	"harvest": [
+		"Harvest"
+	],
+	"healer": [
+		"Healer"
+	],
+	"huge-power": [
+		"Huge Power"
+	],
+	"hunger-switch": [
+		"Hunger Switch"
+	],
+	"hydration": [
+		"Hydration"
+	],
+	"hyper-cutter": [
+		"Hyper Cutter"
+	],
+	"ice-body": [
+		"Ice Body"
+	],
+	"ice-scales": [
+		"Ice Scales"
+	],
+	"imposter": [
+		"Imposter"
+	],
+	"innards-out": [
+		"Innards Out"
+	],
+	"inner-focus": [
+		"Inner Focus"
+	],
+	"intimidate": [
+		"Intimidate"
+	],
+	"iron-fist": [
+		"Iron Fist"
+	],
+	"keen-eye": [
+		"Keen Eye"
+	],
+	"klutz": [
+		"Klutz"
+	],
+	"leaf-guard": [
+		"Leaf Guard"
+	],
+	"levitate": [
+		"Levitate"
+	],
+	"light-metal": [
+		"Light Metal"
+	],
+	"lightning-rod": [
+		"Lightning Rod"
+	],
+	"limber": [
+		"Limber"
+	],
+	"magic-bounce": [
+		"Magic Bounce"
+	],
+	"magic-guard": [
+		"Magic Guard"
+	],
+	"mimicry": [
+		"Mimicry"
+	],
+	"minus": [
+		"Minus"
+	],
+	"misty-surge": [
+		"Misty Surge"
+	],
+	"mummy": [
+		"Mummy"
+	],
+	"neutralizing-gas": [
+		"Neutralizing Gas"
+	],
+	"no-guard": [
+		"No Guard"
+	],
+	"oblivious": [
+		"Oblivious"
+	],
+	"overgrow": [
+		"Overgrow"
+	],
+	"own-tempo": [
+		"Own Tempo"
+	],
+	"pickup": [
+		"Pickup"
+	],
+	"plus": [
+		"Plus"
+	],
+	"poison-point": [
+		"Poison Point"
+	],
+	"power-construct": [
+		"Power Construct"
+	],
+	"prankster": [
+		"Prankster"
+	],
+	"pressure": [
+		"Pressure"
+	],
+	"prism-armor": [
+		"Prism Armor"
+	],
+	"psychic-surge": [
+		"Psychic Surge"
+	],
+	"queenly-majesty": [
+		"Queenly Majesty"
+	],
+	"rain-dish": [
+		"Rain Dish"
+	],
+	"receiver": [
+		"Receiver"
+	],
+	"reckless": [
+		"Reckless"
+	],
+	"refrigerate": [
+		"Refrigerate"
+	],
+	"rivalry": [
+		"Rivalry"
+	],
+	"rock-head": [
+		"Rock Head"
+	],
+	"sand-force": [
+		"Sand Force"
+	],
+	"sand-rush": [
+		"Sand Rush"
+	],
+	"sand-spit": [
+		"Sand Spit"
+	],
+	"sand-veil": [
+		"Sand Veil"
+	],
+	"sap-sipper": [
+		"Sap Sipper"
+	],
+	"scrappy": [
+		"Scrappy"
+	],
+	"serene-grace": [
+		"Serene Grace"
+	],
+	"shadow-shield": [
+		"Shadow Shield"
+	],
+	"shed-skin": [
+		"Shed Skin"
+	],
+	"sheer-force": [
+		"Sheer Force"
+	],
+	"shell-armor": [
+		"Shell Armor"
+	],
+	"simple": [
+		"Simple"
+	],
+	"slush-rush": [
+		"Slush Rush"
+	],
+	"sniper": [
+		"Sniper"
+	],
+	"snow-cloak": [
+		"Snow Cloak"
+	],
+	"solar-power": [
+		"Solar Power"
+	],
+	"soundproof": [
+		"Soundproof"
+	],
+	"speed-boost": [
+		"Speed Boost"
+	],
+	"static": [
+		"Static"
+	],
+	"steam-engine": [
+		"Steam Engine"
+	],
+	"steely-spirit": [
+		"Steely Spirit"
+	],
+	"storm-drain": [
+		"Storm Drain"
+	],
+	"strong-jaw": [
+		"Strong Jaw"
+	],
+	"sturdy": [
+		"Sturdy"
+	],
+	"suction-cups": [
+		"Suction Cups"
+	],
+	"surge-surfer": [
+		"Surge Surfer"
+	],
+	"swarm": [
+		"Swarm"
+	],
+	"sweet-veil": [
+		"Sweet Veil"
+	],
+	"swift-swim": [
+		"Swift Swim"
+	],
+	"symbiosis": [
+		"Symbiosis"
+	],
+	"synchronize": [
+		"Synchronize"
+	],
+	"technician": [
+		"Technician"
+	],
+	"teravolt": [
+		"Teravolt"
+	],
+	"thick-fat": [
+		"Thick Fat"
+	],
+	"tinted-lens": [
+		"Tinted Lens"
+	],
+	"torrent": [
+		"Torrent"
+	],
+	"tough-claws": [
+		"Tough Claws"
+	],
+	"triage": [
+		"Triage"
+	],
+	"turboblaze": [
+		"Turboblaze"
+	],
+	"unaware": [
+		"Unaware"
+	],
+	"unburden": [
+		"Unburden"
+	],
+	"vital-spirit": [
+		"Vital Spirit"
+	],
+	"volt-absorb": [
+		"Volt Absorb"
+	],
+	"water-absorb": [
+		"Water Absorb"
+	],
+	"water-veil": [
+		"Water Veil"
+	],
+	"weak-armor": [
+		"Weak Armor"
+	],
+	"white-smoke": [
+		"White Smoke"
+	],
+	"wonder-skin": [
+		"Wonder Skin"
+	]
+}

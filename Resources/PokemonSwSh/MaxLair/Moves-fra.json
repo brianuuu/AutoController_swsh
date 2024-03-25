@@ -1,0 +1,1001 @@
+{
+	"5": [
+		"Ultimapoing"
+	],
+	"7": [
+		"Poing Feu"
+	],
+	"8": [
+		"Poing Glace"
+	],
+	"9": [
+		"Poing Éclair"
+	],
+	"14": [
+		"Danse Lames"
+	],
+	"17": [
+		"Cru-Ailes"
+	],
+	"19": [
+		"Vol"
+	],
+	"20": [
+		"Étreinte"
+	],
+	"21": [
+		"Souplesse"
+	],
+	"25": [
+		"Ultimawashi"
+	],
+	"34": [
+		"Plaquage"
+	],
+	"38": [
+		"Damoclès"
+	],
+	"42": [
+		"Dard-Nuée"
+	],
+	"43": [
+		"Groz’Yeux"
+	],
+	"48": [
+		"Ultrason"
+	],
+	"50": [
+		"Entrave"
+	],
+	"53": [
+		"Lance-Flammes"
+	],
+	"54": [
+		"Brume"
+	],
+	"56": [
+		"Hydrocanon"
+	],
+	"57": [
+		"Surf"
+	],
+	"58": [
+		"Laser Glace"
+	],
+	"59": [
+		"Blizzard"
+	],
+	"60": [
+		"Rafale Psy"
+	],
+	"63": [
+		"Ultralaser"
+	],
+	"65": [
+		"Bec Vrille"
+	],
+	"68": [
+		"Riposte"
+	],
+	"73": [
+		"Vampigraine"
+	],
+	"76": [
+		"Lance-Soleil"
+	],
+	"78": [
+		"Para-Spore"
+	],
+	"80": [
+		"Danse Fleurs"
+	],
+	"81": [
+		"Sécrétion"
+	],
+	"83": [
+		"Danse Flammes"
+	],
+	"85": [
+		"Tonnerre"
+	],
+	"86": [
+		"Cage Éclair"
+	],
+	"87": [
+		"Fatal-Foudre"
+	],
+	"89": [
+		"Séisme"
+	],
+	"91": [
+		"Tunnel"
+	],
+	"92": [
+		"Toxik"
+	],
+	"94": [
+		"Psyko"
+	],
+	"95": [
+		"Hypnose"
+	],
+	"97": [
+		"Hâte"
+	],
+	"98": [
+		"Vive-Attaque"
+	],
+	"103": [
+		"Grincement"
+	],
+	"105": [
+		"Soin"
+	],
+	"108": [
+		"Brouillard"
+	],
+	"109": [
+		"Onde Folie"
+	],
+	"113": [
+		"Mur Lumière"
+	],
+	"114": [
+		"Buée Noire"
+	],
+	"115": [
+		"Protection"
+	],
+	"126": [
+		"Déflagration"
+	],
+	"127": [
+		"Cascade"
+	],
+	"129": [
+		"Météores"
+	],
+	"130": [
+		"Coud’Krâne"
+	],
+	"133": [
+		"Amnésie"
+	],
+	"136": [
+		"Pied Voltige"
+	],
+	"137": [
+		"Regard Médusant"
+	],
+	"138": [
+		"Dévorêve"
+	],
+	"141": [
+		"Vampirisme"
+	],
+	"142": [
+		"Grobisou"
+	],
+	"143": [
+		"Piqué"
+	],
+	"144": [
+		"Morphing"
+	],
+	"152": [
+		"Pince-Masse"
+	],
+	"155": [
+		"Osmerang"
+	],
+	"157": [
+		"Éboulement"
+	],
+	"161": [
+		"Triplattaque"
+	],
+	"163": [
+		"Tranche"
+	],
+	"164": [
+		"Clonage"
+	],
+	"172": [
+		"Roue de Feu"
+	],
+	"174": [
+		"Malédiction"
+	],
+	"175": [
+		"Gigotage"
+	],
+	"177": [
+		"Aéroblast"
+	],
+	"184": [
+		"Grimace"
+	],
+	"186": [
+		"Doux Baiser"
+	],
+	"188": [
+		"Bombe Beurk"
+	],
+	"189": [
+		"Coud’Boue"
+	],
+	"196": [
+		"Vent Glace"
+	],
+	"200": [
+		"Colère"
+	],
+	"201": [
+		"Tempête de Sable"
+	],
+	"202": [
+		"Giga-Sangsue"
+	],
+	"203": [
+		"Ténacité"
+	],
+	"204": [
+		"Charme"
+	],
+	"207": [
+		"Vantardise"
+	],
+	"208": [
+		"Lait à Boire"
+	],
+	"209": [
+		"Étincelle"
+	],
+	"210": [
+		"Taillade"
+	],
+	"211": [
+		"Ailes d’Acier"
+	],
+	"219": [
+		"Rune Protect"
+	],
+	"221": [
+		"Feu Sacré"
+	],
+	"223": [
+		"Dynamo-Poing"
+	],
+	"224": [
+		"Mégacorne"
+	],
+	"225": [
+		"Draco-Souffle"
+	],
+	"229": [
+		"Tour Rapide"
+	],
+	"231": [
+		"Queue de Fer"
+	],
+	"232": [
+		"Griffe Acier"
+	],
+	"235": [
+		"Synthèse"
+	],
+	"239": [
+		"Ouragan"
+	],
+	"240": [
+		"Danse Pluie"
+	],
+	"241": [
+		"Zénith"
+	],
+	"242": [
+		"Mâchouille"
+	],
+	"244": [
+		"Boost"
+	],
+	"245": [
+		"Vitesse Extrême"
+	],
+	"246": [
+		"Pouvoir Antique"
+	],
+	"247": [
+		"Ball’Ombre"
+	],
+	"248": [
+		"Prescience"
+	],
+	"249": [
+		"Éclate-Roc"
+	],
+	"250": [
+		"Siphon"
+	],
+	"257": [
+		"Canicule"
+	],
+	"259": [
+		"Tourmente"
+	],
+	"261": [
+		"Feu Follet"
+	],
+	"263": [
+		"Façade"
+	],
+	"264": [
+		"Mitra-Poing"
+	],
+	"266": [
+		"Par Ici"
+	],
+	"269": [
+		"Provoc"
+	],
+	"270": [
+		"Coup d’Main"
+	],
+	"275": [
+		"Racines"
+	],
+	"276": [
+		"Surpuissance"
+	],
+	"277": [
+		"Reflet Magik"
+	],
+	"279": [
+		"Vendetta"
+	],
+	"280": [
+		"Casse-Brique"
+	],
+	"281": [
+		"Bâillement"
+	],
+	"285": [
+		"Échange"
+	],
+	"291": [
+		"Plongée"
+	],
+	"295": [
+		"Lumi-Éclat"
+	],
+	"296": [
+		"Ball’Brume"
+	],
+	"297": [
+		"Danse Plumes"
+	],
+	"299": [
+		"Pied Brûleur"
+	],
+	"304": [
+		"Mégaphone"
+	],
+	"306": [
+		"Éclate Griffe"
+	],
+	"309": [
+		"Poing Météore"
+	],
+	"311": [
+		"Ball’Météo"
+	],
+	"312": [
+		"Aromathérapie"
+	],
+	"313": [
+		"Croco Larme"
+	],
+	"314": [
+		"Tranch’Air"
+	],
+	"315": [
+		"Surchauffe"
+	],
+	"317": [
+		"Tomberoche"
+	],
+	"319": [
+		"Strido-Son"
+	],
+	"322": [
+		"Force Cosmique"
+	],
+	"325": [
+		"Poing Ombre"
+	],
+	"326": [
+		"Extrasenseur"
+	],
+	"328": [
+		"Tourbi-Sable"
+	],
+	"330": [
+		"Ocroupi"
+	],
+	"332": [
+		"Aéropique"
+	],
+	"334": [
+		"Mur de Fer"
+	],
+	"336": [
+		"Grondement"
+	],
+	"337": [
+		"Draco-Griffe"
+	],
+	"340": [
+		"Rebond"
+	],
+	"345": [
+		"Feuille Magik"
+	],
+	"347": [
+		"Plénitude"
+	],
+	"348": [
+		"Lame Feuille"
+	],
+	"349": [
+		"Danse Draco"
+	],
+	"350": [
+		"Boule Roc"
+	],
+	"352": [
+		"Vibraqua"
+	],
+	"356": [
+		"Gravité"
+	],
+	"359": [
+		"Marto-Poing"
+	],
+	"360": [
+		"Gyroballe"
+	],
+	"362": [
+		"Saumure"
+	],
+	"364": [
+		"Ruse"
+	],
+	"366": [
+		"Vent Arrière"
+	],
+	"367": [
+		"Acupression"
+	],
+	"370": [
+		"Close Combat"
+	],
+	"371": [
+		"Représailles"
+	],
+	"372": [
+		"Assurance"
+	],
+	"380": [
+		"Suc Digestif"
+	],
+	"384": [
+		"Permuforce"
+	],
+	"387": [
+		"Dernier Recours"
+	],
+	"388": [
+		"Soucigraine"
+	],
+	"389": [
+		"Coup Bas"
+	],
+	"392": [
+		"Anneau Hydro"
+	],
+	"393": [
+		"Vol Magnétik"
+	],
+	"394": [
+		"Boutefeu"
+	],
+	"396": [
+		"Aurasphère"
+	],
+	"398": [
+		"Direct Toxik"
+	],
+	"399": [
+		"Vibrobscur"
+	],
+	"400": [
+		"Tranche-Nuit"
+	],
+	"401": [
+		"Hydro-Queue"
+	],
+	"403": [
+		"Lame d’Air"
+	],
+	"404": [
+		"Plaie Croix"
+	],
+	"405": [
+		"Bourdon"
+	],
+	"406": [
+		"Draco-Choc"
+	],
+	"407": [
+		"Draco-Charge"
+	],
+	"408": [
+		"Rayon Gemme"
+	],
+	"409": [
+		"Vampi-Poing"
+	],
+	"410": [
+		"Onde Vide"
+	],
+	"411": [
+		"Exploforce"
+	],
+	"412": [
+		"Éco-Sphère"
+	],
+	"413": [
+		"Rapace"
+	],
+	"414": [
+		"Telluriforce"
+	],
+	"416": [
+		"Giga Impact"
+	],
+	"417": [
+		"Machination"
+	],
+	"418": [
+		"Pisto-Poing"
+	],
+	"419": [
+		"Avalanche"
+	],
+	"420": [
+		"Éclats Glace"
+	],
+	"421": [
+		"Griffe Ombre"
+	],
+	"422": [
+		"Crocs Éclair"
+	],
+	"423": [
+		"Crocs Givre"
+	],
+	"425": [
+		"Ombre Portée"
+	],
+	"427": [
+		"Coupe Psycho"
+	],
+	"428": [
+		"Psykoud’Boul"
+	],
+	"430": [
+		"Luminocanon"
+	],
+	"433": [
+		"Distorsion"
+	],
+	"435": [
+		"Coup d’Jus"
+	],
+	"436": [
+		"Ébullilave"
+	],
+	"437": [
+		"Tempête Verte"
+	],
+	"438": [
+		"Mégafouet"
+	],
+	"440": [
+		"Poison Croix"
+	],
+	"441": [
+		"Détricanon"
+	],
+	"442": [
+		"Tête de Fer"
+	],
+	"444": [
+		"Lame de Roc"
+	],
+	"451": [
+		"Rayon Chargé"
+	],
+	"452": [
+		"Martobois"
+	],
+	"453": [
+		"Aqua-Jet"
+	],
+	"454": [
+		"Appel Attaque"
+	],
+	"457": [
+		"Fracass’Tête"
+	],
+	"469": [
+		"Garde Large"
+	],
+	"472": [
+		"Zone Étrange"
+	],
+	"473": [
+		"Choc Psy"
+	],
+	"474": [
+		"Choc Venin"
+	],
+	"475": [
+		"Allègement"
+	],
+	"476": [
+		"Poudre Fureur"
+	],
+	"478": [
+		"Zone Magique"
+	],
+	"479": [
+		"Anti-Air"
+	],
+	"482": [
+		"Cradovague"
+	],
+	"483": [
+		"Papillodanse"
+	],
+	"486": [
+		"Boule Élek"
+	],
+	"490": [
+		"Balayette"
+	],
+	"491": [
+		"Bombe Acide"
+	],
+	"492": [
+		"Tricherie"
+	],
+	"493": [
+		"Rayon Simple"
+	],
+	"494": [
+		"Ten-Danse"
+	],
+	"495": [
+		"Après Vous"
+	],
+	"496": [
+		"Chant Canon"
+	],
+	"497": [
+		"Écho"
+	],
+	"499": [
+		"Bain de Smog"
+	],
+	"503": [
+		"Ébullition"
+	],
+	"504": [
+		"Exuviation"
+	],
+	"505": [
+		"Vibra Soin"
+	],
+	"506": [
+		"Châtiment"
+	],
+	"508": [
+		"Chgt Vitesse"
+	],
+	"511": [
+		"À la Queue"
+	],
+	"512": [
+		"Acrobatie"
+	],
+	"513": [
+		"Copie-Type"
+	],
+	"517": [
+		"Feu d’Enfer"
+	],
+	"518": [
+		"Aire d’Eau"
+	],
+	"519": [
+		"Aire de Feu"
+	],
+	"520": [
+		"Aire d’Herbe"
+	],
+	"522": [
+		"Survinsecte"
+	],
+	"523": [
+		"Piétisol"
+	],
+	"524": [
+		"Souffle Glacé"
+	],
+	"527": [
+		"Toile Élek"
+	],
+	"529": [
+		"Tunnelier"
+	],
+	"532": [
+		"Encornebois"
+	],
+	"533": [
+		"Lame Sainte"
+	],
+	"534": [
+		"Coqui-Lame"
+	],
+	"538": [
+		"Cotogarde"
+	],
+	"540": [
+		"Frappe Psy"
+	],
+	"541": [
+		"Plumo-Queue"
+	],
+	"542": [
+		"Vent Violent"
+	],
+	"544": [
+		"Lancécrou"
+	],
+	"549": [
+		"Ère Glaciaire"
+	],
+	"550": [
+		"Charge Foudre"
+	],
+	"551": [
+		"Flamme Bleue"
+	],
+	"555": [
+		"Aboiement"
+	],
+	"558": [
+		"Flamme Croix"
+	],
+	"559": [
+		"Éclair Croix"
+	],
+	"562": [
+		"Éructation"
+	],
+	"568": [
+		"Râle Mâle"
+	],
+	"573": [
+		"Lyophilisation"
+	],
+	"576": [
+		"Renversement"
+	],
+	"577": [
+		"Vampibaiser"
+	],
+	"578": [
+		"Vigilance"
+	],
+	"580": [
+		"Champ Herbu"
+	],
+	"583": [
+		"Câlinerie"
+	],
+	"585": [
+		"Pouvoir Lunaire"
+	],
+	"590": [
+		"Confidence"
+	],
+	"595": [
+		"Feu Ensorcelé"
+	],
+	"598": [
+		"Ondes Étranges"
+	],
+	"599": [
+		"Piège de Venin"
+	],
+	"604": [
+		"Champ Électrifié"
+	],
+	"605": [
+		"Éclat Magique"
+	],
+	"608": [
+		"Regard Touchant"
+	],
+	"609": [
+		"Frotte-Frimousse"
+	],
+	"612": [
+		"Poing Boost"
+	],
+	"613": [
+		"Mort’Ailes"
+	],
+	"614": [
+		"Myria-Flèches"
+	],
+	"616": [
+		"Force Chtonienne"
+	],
+	"618": [
+		"Onde Originelle"
+	],
+	"619": [
+		"Lame Pangéenne"
+	],
+	"620": [
+		"Draco-Ascension"
+	],
+	"659": [
+		"Amass’Sable"
+	],
+	"660": [
+		"Escarmouche"
+	],
+	"663": [
+		"Dark Lariat"
+	],
+	"666": [
+		"Soin Floral"
+	],
+	"667": [
+		"Cavalerie Lourde"
+	],
+	"668": [
+		"Vole-Force"
+	],
+	"675": [
+		"Exécu-Son"
+	],
+	"676": [
+		"Boule Pollen"
+	],
+	"679": [
+		"Furie-Bond"
+	],
+	"680": [
+		"Fouet de Feu"
+	],
+	"683": [
+		"Permuvitesse"
+	],
+	"684": [
+		"Estocorne"
+	],
+	"688": [
+		"Botte Sucrette"
+	],
+	"689": [
+		"Sommation"
+	],
+	"693": [
+		"Centrifugifle"
+	],
+	"694": [
+		"Voile Aurore"
+	],
+	"706": [
+		"Psycho-Croc"
+	],
+	"707": [
+		"Trépignement"
+	],
+	"708": [
+		"Os Ombre"
+	],
+	"709": [
+		"Vif Roc"
+	],
+	"710": [
+		"Aqua-Brèche"
+	],
+	"713": [
+		"Choc Météore"
+	],
+	"714": [
+		"Rayon Spectral"
+	],
+	"715": [
+		"Larme à l’Œil"
+	],
+	"722": [
+		"Photo-Geyser"
+	],
+	"776": [
+		"Big Splash"
+	],
+	"777": [
+		"Nappage"
+	],
+	"783": [
+		"Roue Libre"
+	],
+	"784": [
+		"Abattage"
+	],
+	"790": [
+		"Vapeur Féérique"
+	],
+	"791": [
+		"Fontaine de Vie"
+	],
+	"797": [
+		"Vaste Pouvoir"
+	],
+	"798": [
+		"Métalliroue"
+	],
+	"799": [
+		"Rafale Écailles"
+	],
+	"800": [
+		"Laser Météore"
+	],
+	"803": [
+		"Gliss'Herbe"
+	],
+	"804": [
+		"Monte-Tension"
+	],
+	"805": [
+		"Champlification"
+	],
+	"806": [
+		"Ravage Rampant"
+	],
+	"807": [
+		"Feu Envieux"
+	],
+	"808": [
+		"Cent Rancunes"
+	],
+	"811": [
+		"Coaching"
+	],
+	"813": [
+		"Triple Axel"
+	],
+	"814": [
+		"Double Volée"
+	],
+	"815": [
+		"Sable Ardent"
+	]
+}

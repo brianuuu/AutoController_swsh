@@ -1,0 +1,1810 @@
+{
+    "abomasnow": {
+        "ability_id": "soundproof",
+        "base_stats": [ 90, 92, 75, 92, 85, 60 ],
+        "id": "Abomasnow",
+        "moves": [ 419, 694, 496, 803 ],
+        "max_moves": [ 763110, 7430, 760110, 773120 ],
+        "types": [ "grass", "ice" ]
+    },
+    "absol": {
+        "ability_id": "pressure",
+        "base_stats": [ 65, 130, 60, 75, 60, 75 ],
+        "id": "Absol",
+        "moves": [ 59, 400, 163, 126 ],
+        "max_moves": [ 763140, 772120, 760120, 757140 ],
+        "types": [ "dark" ]
+    },
+    "accelgor": {
+        "ability_id": "hydration",
+        "base_stats": [ 80, 70, 40, 100, 60, 145 ],
+        "id": "Accelgor",
+        "moves": [ 522, 491, 240, 405 ],
+        "max_moves": [ 758100, 76470, 7430, 758130 ],
+        "types": [ "bug" ]
+    },
+    "alcremie": {
+        "ability_id": "aroma-veil",
+        "base_stats": [ 65, 60, 75, 110, 121, 64 ],
+        "id": "Alcremie",
+        "moves": [ 777, 605, 595, 345 ],
+        "max_moves": [ 7430, 767130, 757130, 773110 ],
+        "types": [ "fairy" ]
+    },
+    "altaria": {
+        "ability_id": "cloud-nine",
+        "base_stats": [ 75, 70, 90, 70, 105, 80 ],
+        "id": "Altaria",
+        "moves": [ 605, 257, 538, 406 ],
+        "max_moves": [ 767130, 757130, 7430, 768130 ],
+        "types": [ "dragon", "flying" ]
+    },
+    "amoonguss": {
+        "ability_id": "effect-spore",
+        "base_stats": [ 114, 85, 70, 85, 80, 30 ],
+        "id": "Amoonguss",
+        "moves": [ 499, 476, 202, 474 ],
+        "max_moves": [ 76475, 7430, 773130, 76485 ],
+        "types": [ "grass", "poison" ]
+    },
+    "araquanid": {
+        "ability_id": "water-absorb",
+        "base_stats": [ 68, 70, 92, 50, 132, 42 ],
+        "id": "Araquanid",
+        "moves": [ 710, 494, 679, 398 ],
+        "max_moves": [ 765130, 7430, 758130, 76490 ],
+        "types": [ "water", "bug" ]
+    },
+    "armaldo": {
+        "ability_id": "battle-armor",
+        "base_stats": [ 75, 125, 100, 70, 80, 45 ],
+        "id": "Armaldo",
+        "moves": [ 404, 479, 707, 201 ],
+        "max_moves": [ 758130, 770100, 771130, 7430 ],
+        "types": [ "rock", "bug" ]
+    },
+    "audino": {
+        "ability_id": "healer",
+        "base_stats": [ 103, 60, 86, 60, 86, 50 ],
+        "id": "Audino",
+        "moves": [ 791, 577, 304, 53 ],
+        "max_moves": [ 7430, 767100, 760130, 757130 ],
+        "types": [ "normal" ]
+    },
+    "aurorus": {
+        "ability_id": "refrigerate",
+        "base_stats": [ 123, 77, 72, 99, 92, 58 ],
+        "id": "Aurorus",
+        "moves": [ 34, 87, 246, 86 ],
+        "max_moves": [ 760130, 759140, 770110, 7430 ],
+        "types": [ "rock", "ice" ]
+    },
+    "azumarill": {
+        "ability_id": "sap-sipper",
+        "base_stats": [ 100, 50, 80, 60, 80, 50 ],
+        "id": "Azumarill",
+        "moves": [ 453, 583, 401, 340 ],
+        "max_moves": [ 76590, 767130, 765130, 766130 ],
+        "types": [ "water", "fairy" ]
+    },
+    "barbaracle": {
+        "ability_id": "tough-claws",
+        "base_stats": [ 72, 105, 115, 54, 86, 68 ],
+        "id": "Barbaracle",
+        "moves": [ 534, 59, 130, 398 ],
+        "max_moves": [ 765130, 763140, 760140, 76490 ],
+        "types": [ "rock", "water" ]
+    },
+    "barraskewda": {
+        "ability_id": "swift-swim",
+        "base_stats": [ 61, 123, 60, 60, 50, 136 ],
+        "id": "Barraskewda",
+        "moves": [ 453, 799, 372, 203 ],
+        "max_moves": [ 76590, 76890, 772110, 7430 ],
+        "types": [ "water" ]
+    },
+    "basculin-blue-striped": {
+        "ability_id": "adaptability",
+        "base_stats": [ 70, 92, 65, 80, 55, 98 ],
+        "id": "Basculin",
+        "moves": [ 503, 291, 242, 164 ],
+        "max_moves": [ 765130, 765130, 772130, 7430 ],
+        "types": [ "water" ]
+    },
+    "basculin-red-striped": {
+        "ability_id": "adaptability",
+        "base_stats": [ 70, 92, 65, 80, 55, 98 ],
+        "id": "Basculin",
+        "moves": [ 710, 291, 706, 423 ],
+        "max_moves": [ 765130, 765130, 769130, 763120 ],
+        "types": [ "water" ]
+    },
+    "beartic": {
+        "ability_id": "slush-rush",
+        "base_stats": [ 95, 130, 80, 70, 80, 50 ],
+        "id": "Beartic",
+        "moves": [ 776, 59, 524, 362 ],
+        "max_moves": [ 76190, 763140, 763110, 765120 ],
+        "types": [ "ice" ]
+    },
+    "beheeyem": {
+        "ability_id": "synchronize",
+        "base_stats": [ 75, 75, 75, 125, 95, 40 ],
+        "id": "Beheeyem",
+        "moves": [ 797, 800, 399, 496 ],
+        "max_moves": [ 769130, 770140, 772130, 760110 ],
+        "types": [ "psychic" ]
+    },
+    "bellossom": {
+        "ability_id": "healer",
+        "base_stats": [ 75, 80, 95, 90, 100, 50 ],
+        "id": "Bellossom",
+        "moves": [ 580, 202, 270, 605 ],
+        "max_moves": [ 7430, 773130, 7430, 767130 ],
+        "types": [ "grass" ]
+    },
+    "bewear": {
+        "ability_id": "klutz",
+        "base_stats": [ 120, 125, 80, 55, 60, 60 ],
+        "id": "Bewear",
+        "moves": [ 38, 608, 371, 416 ],
+        "max_moves": [ 760140, 7430, 772100, 760150 ],
+        "types": [ "normal", "fighting" ]
+    },
+    "bisharp": {
+        "ability_id": "inner-focus",
+        "base_stats": [ 65, 125, 100, 60, 70, 70 ],
+        "id": "Bisharp",
+        "moves": [ 400, 398, 427, 319 ],
+        "max_moves": [ 772120, 76490, 769120, 7430 ],
+        "types": [ "dark", "steel" ]
+    },
+    "blaziken": {
+        "ability_id": "speed-boost",
+        "base_stats": [ 80, 120, 70, 110, 70, 80 ],
+        "id": "Blaziken",
+        "moves": [ 519, 299, 370, 811 ],
+        "max_moves": [ 757130, 757130, 76195, 7430 ],
+        "types": [ "fire", "fighting" ]
+    },
+    "boldore": {
+        "ability_id": "sturdy",
+        "base_stats": [ 70, 105, 105, 50, 40, 20 ],
+        "id": "Boldore",
+        "moves": [ 444, 334, 776, 707 ],
+        "max_moves": [ 770130, 7430, 76190, 771130 ],
+        "types": [ "rock" ]
+    },
+    "boltund": {
+        "ability_id": "strong-jaw",
+        "base_stats": [ 69, 90, 60, 90, 60, 121 ],
+        "id": "Boltund",
+        "moves": [ 804, 242, 204, 270 ],
+        "max_moves": [ 759120, 772130, 7430, 7430 ],
+        "types": [ "electric" ]
+    },
+    "bouffalant": {
+        "ability_id": "sap-sipper",
+        "base_stats": [ 95, 110, 95, 40, 95, 55 ],
+        "id": "Bouffalant",
+        "moves": [ 34, 808, 684, 276 ],
+        "max_moves": [ 760130, 772130, 774120, 76195 ],
+        "types": [ "normal" ]
+    },
+    "bronzong": {
+        "ability_id": "levitate",
+        "base_stats": [ 67, 89, 116, 79, 116, 33 ],
+        "id": "Bronzong",
+        "moves": [ 428, 319, 798, 285 ],
+        "max_moves": [ 769130, 7430, 774140, 7430 ],
+        "types": [ "steel", "psychic" ]
+    },
+    "butterfree": {
+        "ability_id": "tinted-lens",
+        "base_stats": [ 60, 45, 50, 90, 80, 70 ],
+        "id": "Butterfree",
+        "moves": [ 676, 474, 476, 202 ],
+        "max_moves": [ 758130, 76485, 7430, 773130 ],
+        "types": [ "bug", "flying" ]
+    },
+    "carkol": {
+        "ability_id": "flash-fire",
+        "base_stats": [ 80, 60, 90, 60, 70, 50 ],
+        "id": "Carkol",
+        "moves": [ 315, 83, 115, 157 ],
+        "max_moves": [ 757140, 75790, 7430, 770130 ],
+        "types": [ "rock", "fire" ]
+    },
+    "centiskorch": {
+        "ability_id": "white-smoke",
+        "base_stats": [ 100, 115, 65, 90, 90, 65 ],
+        "id": "Centiskorch",
+        "moves": [ 53, 815, 474, 21 ],
+        "max_moves": [ 757130, 771120, 76485, 760130 ],
+        "types": [ "fire", "bug" ]
+    },
+    "chansey": {
+        "ability_id": "healer",
+        "base_stats": [ 250, 5, 5, 35, 105, 50 ],
+        "id": "Chansey",
+        "moves": [ 496, 505, 270, 113 ],
+        "max_moves": [ 760110, 7430, 7430, 7430 ],
+        "types": [ "normal" ]
+    },
+    "charjabug": {
+        "ability_id": "battery",
+        "base_stats": [ 57, 82, 95, 55, 75, 36 ],
+        "id": "Charjabug",
+        "moves": [ 81, 598, 209, 91 ],
+        "max_moves": [ 7430, 7430, 759120, 771130 ],
+        "types": [ "bug", "electric" ]
+    },
+    "charmeleon": {
+        "ability_id": "solar-power",
+        "base_stats": [ 58, 64, 58, 80, 65, 80 ],
+        "id": "Charmeleon",
+        "moves": [ 519, 406, 203, 517 ],
+        "max_moves": [ 757130, 768130, 7430, 757130 ],
+        "types": [ "fire" ]
+    },
+    "cherrim": {
+        "ability_id": "flower-gift",
+        "base_stats": [ 70, 60, 70, 87, 78, 85 ],
+        "id": "Cherrim",
+        "moves": [ 76, 388, 241, 311 ],
+        "max_moves": [ 773140, 7430, 7430, 760100 ],
+        "types": [ "grass" ]
+    },
+    "cinccino": {
+        "ability_id": "technician",
+        "base_stats": [ 75, 95, 60, 65, 60, 115 ],
+        "id": "Cinccino",
+        "moves": [ 497, 541, 113, 813 ],
+        "max_moves": [ 76090, 76090, 7430, 76390 ],
+        "types": [ "normal" ]
+    },
+    "claydol": {
+        "ability_id": "levitate",
+        "base_stats": [ 60, 70, 105, 70, 120, 75 ],
+        "id": "Claydol",
+        "moves": [ 433, 94, 246, 63 ],
+        "max_moves": [ 7430, 769130, 770110, 760150 ],
+        "types": [ "ground", "psychic" ]
+    },
+    "clefable": {
+        "ability_id": "magic-guard",
+        "base_stats": [ 95, 70, 73, 95, 90, 60 ],
+        "id": "Clefable",
+        "moves": [ 800, 605, 266, 322 ],
+        "max_moves": [ 770140, 767130, 7430, 7430 ],
+        "types": [ "fairy" ]
+    },
+    "clefairy": {
+        "ability_id": "friend-guard",
+        "base_stats": [ 70, 45, 48, 60, 65, 35 ],
+        "id": "Clefairy",
+        "moves": [ 791, 595, 345, 115 ],
+        "max_moves": [ 7430, 757130, 773110, 7430 ],
+        "types": [ "fairy" ]
+    },
+    "coalossal": {
+        "ability_id": "steam-engine",
+        "base_stats": [ 110, 80, 120, 80, 90, 30 ],
+        "id": "Coalossal",
+        "moves": [ 108, 800, 53, 503 ],
+        "max_moves": [ 7430, 770140, 757130, 765130 ],
+        "types": [ "rock", "fire" ]
+    },
+    "cofagrigus": {
+        "ability_id": "mummy",
+        "base_stats": [ 58, 50, 145, 95, 105, 30 ],
+        "id": "Cofagrigus",
+        "moves": [ 247, 114, 94, 472 ],
+        "max_moves": [ 762130, 7430, 769130, 7430 ],
+        "types": [ "ghost" ]
+    },
+    "combusken": {
+        "ability_id": "blaze",
+        "base_stats": [ 60, 85, 60, 85, 60, 55 ],
+        "id": "Combusken",
+        "moves": [ 519, 411, 297, 490 ],
+        "max_moves": [ 757130, 76195, 7430, 76185 ],
+        "types": [ "fire", "fighting" ]
+    },
+    "comfey": {
+        "ability_id": "triage",
+        "base_stats": [ 51, 52, 90, 82, 110, 100 ],
+        "id": "Comfey",
+        "moves": [ 666, 577, 495, 412 ],
+        "max_moves": [ 7430, 767100, 7430, 773130 ],
+        "types": [ "fairy" ]
+    },
+    "copperajah": {
+        "ability_id": "sheer-force",
+        "base_stats": [ 122, 130, 69, 80, 69, 30 ],
+        "id": "Copperajah",
+        "moves": [ 334, 776, 430, 798 ],
+        "max_moves": [ 7430, 76190, 774130, 774140 ],
+        "types": [ "steel" ]
+    },
+    "cradily": {
+        "ability_id": "suction-cups",
+        "base_stats": [ 86, 81, 97, 81, 107, 43 ],
+        "id": "Cradily",
+        "moves": [ 412, 246, 380, 188 ],
+        "max_moves": [ 773130, 770110, 7430, 76490 ],
+        "types": [ "rock", "grass" ]
+    },
+    "cramorant": {
+        "ability_id": "gulp-missile",
+        "base_stats": [ 70, 85, 55, 85, 95, 85 ],
+        "id": "Cramorant",
+        "moves": [ 291, 203, 133, 675 ],
+        "max_moves": [ 765130, 7430, 7430, 772130 ],
+        "types": [ "flying", "water" ]
+    },
+    "crawdaunt": {
+        "ability_id": "adaptability",
+        "base_stats": [ 63, 120, 85, 90, 55, 55 ],
+        "id": "Crawdaunt",
+        "moves": [ 808, 263, 330, 14 ],
+        "max_moves": [ 772130, 760120, 765130, 7430 ],
+        "types": [ "water", "dark" ]
+    },
+    "crustle": {
+        "ability_id": "shell-armor",
+        "base_stats": [ 70, 105, 125, 65, 75, 45 ],
+        "id": "Crustle",
+        "moves": [ 504, 404, 317, 776 ],
+        "max_moves": [ 7430, 758130, 770110, 76190 ],
+        "types": [ "bug", "rock" ]
+    },
+    "cryogonal": {
+        "ability_id": "levitate",
+        "base_stats": [ 80, 50, 50, 95, 135, 105 ],
+        "id": "Cryogonal",
+        "moves": [ 59, 58, 115, 76 ],
+        "max_moves": [ 763140, 763130, 7430, 773140 ],
+        "types": [ "ice" ]
+    },
+    "dedenne": {
+        "ability_id": "plus",
+        "base_stats": [ 67, 58, 57, 81, 67, 101 ],
+        "id": "Dedenne",
+        "moves": [ 494, 87, 605, 164 ],
+        "max_moves": [ 7430, 759140, 767130, 7430 ],
+        "types": [ "electric", "fairy" ]
+    },
+    "diggersby": {
+        "ability_id": "huge-power",
+        "base_stats": [ 85, 56, 77, 50, 77, 78 ],
+        "id": "Diggersby",
+        "moves": [ 444, 707, 91, 98 ],
+        "max_moves": [ 770130, 771130, 771130, 76090 ],
+        "types": [ "normal", "ground" ]
+    },
+    "ditto": {
+        "ability_id": "imposter",
+        "base_stats": [ 48, 48, 48, 48, 48, 48 ],
+        "id": "Ditto",
+        "moves": [ 144 ],
+        "max_moves": [ 7430 ],
+        "types": [ "normal" ]
+    },
+    "doublade": {
+        "ability_id": "no-guard",
+        "base_stats": [ 59, 110, 150, 45, 49, 35 ],
+        "id": "Doublade",
+        "moves": [ 442, 14, 533, 332 ],
+        "max_moves": [ 774130, 7430, 76190, 766110 ],
+        "types": [ "steel", "ghost" ]
+    },
+    "dragonair": {
+        "ability_id": "shed-skin",
+        "base_stats": [ 61, 84, 65, 70, 70, 70 ],
+        "id": "Dragonair",
+        "moves": [ 59, 784, 799, 87 ],
+        "max_moves": [ 763140, 768110, 76890, 759140 ],
+        "types": [ "dragon" ]
+    },
+    "drakloak": {
+        "ability_id": "clear-body",
+        "base_stats": [ 68, 80, 50, 60, 50, 102 ],
+        "id": "Drakloak",
+        "moves": [ 407, 372, 261, 247 ],
+        "max_moves": [ 768130, 772110, 7430, 762130 ],
+        "types": [ "dragon", "ghost" ]
+    },
+    "drapion": {
+        "ability_id": "battle-armor",
+        "base_stats": [ 70, 90, 110, 60, 75, 95 ],
+        "id": "Drapion",
+        "moves": [ 808, 404, 367, 231 ],
+        "max_moves": [ 772130, 758130, 7430, 774130 ],
+        "types": [ "poison", "dark" ]
+    },
+    "drednaw": {
+        "ability_id": "strong-jaw",
+        "base_stats": [ 90, 115, 90, 48, 68, 74 ],
+        "id": "Drednaw",
+        "moves": [ 534, 806, 684, 157 ],
+        "max_moves": [ 765130, 758120, 774120, 770130 ],
+        "types": [ "water", "rock" ]
+    },
+    "drifblim": {
+        "ability_id": "aftermath",
+        "base_stats": [ 150, 80, 44, 90, 54, 80 ],
+        "id": "Drifblim",
+        "moves": [ 261, 94, 366, 85 ],
+        "max_moves": [ 7430, 769130, 7430, 759130 ],
+        "types": [ "ghost", "flying" ]
+    },
+    "druddigon": {
+        "ability_id": "sheer-force",
+        "base_stats": [ 77, 120, 90, 60, 90, 48 ],
+        "id": "Druddigon",
+        "moves": [ 808, 814, 442, 91 ],
+        "max_moves": [ 772130, 76690, 774130, 771130 ],
+        "types": [ "dragon" ]
+    },
+    "dubwool": {
+        "ability_id": "fluffy",
+        "base_stats": [ 72, 80, 100, 60, 90, 88 ],
+        "id": "Dubwool",
+        "moves": [ 803, 25, 776, 164 ],
+        "max_moves": [ 773120, 760140, 76190, 7430 ],
+        "types": [ "normal" ]
+    },
+    "dugtrio": {
+        "ability_id": "sand-force",
+        "base_stats": [ 35, 100, 50, 50, 70, 120 ],
+        "id": "Dugtrio",
+        "moves": [ 667, 164, 189, 157 ],
+        "max_moves": [ 771130, 7430, 77190, 770130 ],
+        "types": [ "ground" ]
+    },
+    "dugtrio-alola": {
+        "ability_id": "sand-veil",
+        "base_stats": [ 35, 100, 60, 50, 70, 110 ],
+        "id": "Dugtrio",
+        "moves": [ 442, 667, 389, 103 ],
+        "max_moves": [ 774130, 771130, 772120, 7430 ],
+        "types": [ "ground", "steel" ]
+    },
+    "dunsparce": {
+        "ability_id": "serene-grace",
+        "base_stats": [ 100, 70, 70, 65, 65, 45 ],
+        "id": "Dunsparce",
+        "moves": [ 806, 814, 247, 58 ],
+        "max_moves": [ 758120, 76690, 762130, 763130 ],
+        "types": [ "normal" ]
+    },
+    "duraludon": {
+        "ability_id": "light-metal",
+        "base_stats": [ 70, 95, 115, 120, 50, 85 ],
+        "id": "Duraludon",
+        "moves": [ 784, 86, 442, 85 ],
+        "max_moves": [ 768110, 7430, 774130, 759130 ],
+        "types": [ "steel", "dragon" ]
+    },
+    "durant": {
+        "ability_id": "swarm",
+        "base_stats": [ 58, 109, 112, 48, 48, 109 ],
+        "id": "Durant",
+        "moves": [ 422, 404, 319, 232 ],
+        "max_moves": [ 759120, 758130, 7430, 774100 ],
+        "types": [ "bug", "steel" ]
+    },
+    "dusclops": {
+        "ability_id": "pressure",
+        "base_stats": [ 40, 70, 130, 60, 130, 25 ],
+        "id": "Dusclops",
+        "moves": [ 425, 506, 356, 806 ],
+        "max_moves": [ 76290, 762120, 7430, 758120 ],
+        "types": [ "ghost" ]
+    },
+    "eldegoss": {
+        "ability_id": "effect-spore",
+        "base_stats": [ 60, 50, 90, 80, 120, 60 ],
+        "id": "Eldegoss",
+        "moves": [ 113, 311, 538, 437 ],
+        "max_moves": [ 7430, 760100, 7430, 773140 ],
+        "types": [ "grass" ]
+    },
+    "electabuzz": {
+        "ability_id": "vital-spirit",
+        "base_stats": [ 65, 83, 57, 95, 85, 105 ],
+        "id": "Electabuzz",
+        "moves": [ 804, 527, 270, 496 ],
+        "max_moves": [ 759120, 759110, 7430, 760110 ],
+        "types": [ "electric" ]
+    },
+    "emolga": {
+        "ability_id": "static",
+        "base_stats": [ 55, 75, 60, 75, 60, 103 ],
+        "id": "Emolga",
+        "moves": [ 512, 804, 203, 527 ],
+        "max_moves": [ 766110, 759120, 7430, 759110 ],
+        "types": [ "electric", "flying" ]
+    },
+    "escavalier": {
+        "ability_id": "shell-armor",
+        "base_stats": [ 70, 135, 105, 60, 105, 20 ],
+        "id": "Escavalier",
+        "moves": [ 529, 534, 210, 269 ],
+        "max_moves": [ 771130, 765130, 75890, 7430 ],
+        "types": [ "bug", "steel" ]
+    },
+    "exeggutor": {
+        "ability_id": "harvest",
+        "base_stats": [ 95, 95, 85, 125, 75, 55 ],
+        "id": "Exeggutor",
+        "moves": [ 427, 76, 707, 805 ],
+        "max_moves": [ 769120, 773140, 771130, 760100 ],
+        "types": [ "grass", "psychic" ]
+    },
+    "exploud": {
+        "ability_id": "scrappy",
+        "base_stats": [ 104, 91, 63, 91, 73, 68 ],
+        "id": "Exploud",
+        "moves": [ 805, 63, 411, 59 ],
+        "max_moves": [ 760100, 760150, 76195, 763140 ],
+        "types": [ "normal" ]
+    },
+    "falinks": {
+        "ability_id": "battle-armor",
+        "base_stats": [ 65, 100, 100, 70, 60, 75 ],
+        "id": "Falinks",
+        "moves": [ 660, 14, 684, 280 ],
+        "max_moves": [ 758130, 7430, 774120, 76190 ],
+        "types": [ "fighting" ]
+    },
+    "flareon": {
+        "ability_id": "flash-fire",
+        "base_stats": [ 65, 130, 60, 95, 110, 65 ],
+        "id": "Flareon",
+        "moves": [ 807, 247, 608, 387 ],
+        "max_moves": [ 757120, 762130, 7430, 760140 ],
+        "types": [ "fire" ]
+    },
+    "flygon": {
+        "ability_id": "levitate",
+        "base_stats": [ 80, 100, 80, 80, 80, 100 ],
+        "id": "Flygon",
+        "moves": [ 211, 337, 405, 189 ],
+        "max_moves": [ 774120, 768130, 758130, 77190 ],
+        "types": [ "ground", "dragon" ]
+    },
+    "fraxure": {
+        "ability_id": "rivalry",
+        "base_stats": [ 66, 117, 70, 40, 50, 67 ],
+        "id": "Fraxure",
+        "moves": [ 416, 200, 784, 404 ],
+        "max_moves": [ 760150, 768140, 768110, 758130 ],
+        "types": [ "dragon" ]
+    },
+    "froslass": {
+        "ability_id": "snow-cloak",
+        "base_stats": [ 70, 80, 70, 80, 70, 110 ],
+        "id": "Froslass",
+        "moves": [ 813, 524, 694, 247 ],
+        "max_moves": [ 76390, 763110, 7430, 762130 ],
+        "types": [ "ice", "ghost" ]
+    },
+    "frosmoth": {
+        "ability_id": "ice-scales",
+        "base_stats": [ 70, 65, 60, 125, 90, 65 ],
+        "id": "Frosmoth",
+        "moves": [ 311, 366, 522, 542 ],
+        "max_moves": [ 760100, 7430, 758100, 766140 ],
+        "types": [ "ice", "bug" ]
+    },
+    "galvantula": {
+        "ability_id": "compound-eyes",
+        "base_stats": [ 70, 77, 60, 97, 60, 108 ],
+        "id": "Galvantula",
+        "moves": [ 87, 405, 486, 527 ],
+        "max_moves": [ 759140, 758130, 759120, 759110 ],
+        "types": [ "bug", "electric" ]
+    },
+    "garbodor": {
+        "ability_id": "aftermath",
+        "base_stats": [ 80, 95, 82, 60, 82, 75 ],
+        "id": "Garbodor",
+        "moves": [ 441, 188, 409, 599 ],
+        "max_moves": [ 76495, 76490, 76190, 7430 ],
+        "types": [ "poison" ]
+    },
+    "gastrodon": {
+        "ability_id": "sand-force",
+        "base_stats": [ 111, 83, 68, 92, 82, 39 ],
+        "id": "Gastrodon",
+        "moves": [ 34, 806, 317, 127 ],
+        "max_moves": [ 760130, 758120, 770110, 765130 ],
+        "types": [ "water", "ground" ]
+    },
+    "glalie": {
+        "ability_id": "ice-body",
+        "base_stats": [ 80, 80, 80, 80, 80, 80 ],
+        "id": "Glalie",
+        "moves": [ 798, 242, 423, 313 ],
+        "max_moves": [ 774140, 772130, 763120, 7430 ],
+        "types": [ "ice" ]
+    },
+    "gloom": {
+        "ability_id": "chlorophyll",
+        "base_stats": [ 60, 65, 70, 85, 75, 40 ],
+        "id": "Gloom",
+        "moves": [ 474, 92, 585, 78 ],
+        "max_moves": [ 76485, 7430, 767130, 7430 ],
+        "types": [ "grass", "poison" ]
+    },
+    "golduck": {
+        "ability_id": "swift-swim",
+        "base_stats": [ 80, 82, 78, 95, 80, 85 ],
+        "id": "Golduck",
+        "moves": [ 453, 103, 25, 362 ],
+        "max_moves": [ 76590, 7430, 760140, 765120 ],
+        "types": [ "water" ]
+    },
+    "golurk": {
+        "ability_id": "iron-fist",
+        "base_stats": [ 89, 124, 80, 55, 80, 55 ],
+        "id": "Golurk",
+        "moves": [ 264, 325, 815, 219 ],
+        "max_moves": [ 761100, 762110, 771120, 7430 ],
+        "types": [ "ground", "ghost" ]
+    },
+    "gourgeist-average": {
+        "ability_id": "pickup",
+        "base_stats": [ 65, 90, 122, 58, 75, 84 ],
+        "id": "Gourgeist",
+        "moves": [ 595, 425, 388, 184 ],
+        "max_moves": [ 757130, 76290, 7430, 7430 ],
+        "types": [ "ghost", "grass" ]
+    },
+    "grapploct": {
+        "ability_id": "limber",
+        "base_stats": [ 80, 118, 90, 70, 80, 42 ],
+        "id": "Grapploct",
+        "moves": [ 576, 409, 330, 411 ],
+        "max_moves": [ 7430, 76190, 765130, 76195 ],
+        "types": [ "fighting" ]
+    },
+    "greedent": {
+        "ability_id": "cheek-pouch",
+        "base_stats": [ 120, 95, 95, 55, 75, 20 ],
+        "id": "Greedent",
+        "moves": [ 360, 706, 14, 34 ],
+        "max_moves": [ 774120, 769130, 7430, 760130 ],
+        "types": [ "normal" ]
+    },
+    "grimmsnarl": {
+        "ability_id": "prankster",
+        "base_stats": [ 95, 120, 65, 95, 75, 60 ],
+        "id": "Grimmsnarl",
+        "moves": [ 612, 399, 384, 590 ],
+        "max_moves": [ 76170, 772130, 7430, 7430 ],
+        "types": [ "dark", "fairy" ]
+    },
+    "grovyle": {
+        "ability_id": "overgrow",
+        "base_stats": [ 50, 65, 45, 85, 65, 95 ],
+        "id": "Grovyle",
+        "moves": [ 520, 103, 280, 203 ],
+        "max_moves": [ 773130, 7430, 76190, 7430 ],
+        "types": [ "grass" ]
+    },
+    "gurdurr": {
+        "ability_id": "guts",
+        "base_stats": [ 85, 105, 85, 40, 50, 40 ],
+        "id": "Gurdurr",
+        "moves": [ 264, 811, 280, 667 ],
+        "max_moves": [ 761100, 7430, 76190, 771130 ],
+        "types": [ "fighting" ]
+    },
+    "hatterene": {
+        "ability_id": "anticipation",
+        "base_stats": [ 57, 90, 95, 136, 103, 29 ],
+        "id": "Hatterene",
+        "moves": [ 797, 583, 791, 219 ],
+        "max_moves": [ 769130, 767130, 7430, 7430 ],
+        "types": [ "psychic", "fairy" ]
+    },
+    "haunter": {
+        "ability_id": "levitate",
+        "base_stats": [ 45, 50, 45, 115, 55, 95 ],
+        "id": "Haunter",
+        "moves": [ 506, 95, 138, 412 ],
+        "max_moves": [ 762120, 7430, 769130, 773130 ],
+        "types": [ "ghost", "poison" ]
+    },
+    "hawlucha": {
+        "ability_id": "limber",
+        "base_stats": [ 78, 92, 75, 74, 63, 118 ],
+        "id": "Hawlucha",
+        "moves": [ 269, 398, 675, 490 ],
+        "max_moves": [ 7430, 76490, 772130, 76185 ],
+        "types": [ "fighting", "flying" ]
+    },
+    "heatmor": {
+        "ability_id": "flash-fire",
+        "base_stats": [ 85, 97, 66, 105, 66, 65 ],
+        "id": "Heatmor",
+        "moves": [ 680, 315, 241, 76 ],
+        "max_moves": [ 757130, 757140, 7430, 773140 ],
+        "types": [ "fire" ]
+    },
+    "heliolisk": {
+        "ability_id": "dry-skin",
+        "base_stats": [ 62, 55, 52, 109, 94, 109 ],
+        "id": "Heliolisk",
+        "moves": [ 486, 97, 496, 189 ],
+        "max_moves": [ 759120, 7430, 760110, 77190 ],
+        "types": [ "electric", "normal" ]
+    },
+    "hitmonchan": {
+        "ability_id": "iron-fist",
+        "base_stats": [ 50, 105, 79, 35, 110, 76 ],
+        "id": "Hitmonchan",
+        "moves": [ 612, 7, 9, 8 ],
+        "max_moves": [ 76170, 757130, 759130, 763130 ],
+        "types": [ "fighting" ]
+    },
+    "hitmonlee": {
+        "ability_id": "limber",
+        "base_stats": [ 50, 120, 53, 35, 110, 87 ],
+        "id": "Hitmonlee",
+        "moves": [ 370, 469, 299, 490 ],
+        "max_moves": [ 76195, 7430, 757130, 76185 ],
+        "types": [ "fighting" ]
+    },
+    "hitmontop": {
+        "ability_id": "intimidate",
+        "base_stats": [ 50, 95, 95, 35, 110, 70 ],
+        "id": "Hitmontop",
+        "moves": [ 529, 813, 280, 811 ],
+        "max_moves": [ 771130, 76390, 76190, 7430 ],
+        "types": [ "fighting" ]
+    },
+    "indeedee-male": {
+        "ability_id": "synchronize",
+        "base_stats": [ 60, 65, 55, 105, 95, 95 ],
+        "id": "Indeedee",
+        "moves": [ 595, 797, 347, 247 ],
+        "max_moves": [ 757130, 769130, 7430, 762130 ],
+        "types": [ "psychic", "normal" ]
+    },
+    "ivysaur": {
+        "ability_id": "chlorophyll",
+        "base_stats": [ 60, 62, 63, 80, 80, 60 ],
+        "id": "Ivysaur",
+        "moves": [ 520, 235, 76, 188 ],
+        "max_moves": [ 773130, 7430, 773140, 76490 ],
+        "types": [ "grass", "poison" ]
+    },
+    "jellicent": {
+        "ability_id": "water-absorb",
+        "base_stats": [ 100, 60, 70, 85, 105, 60 ],
+        "id": "Jellicent",
+        "moves": [ 605, 291, 433, 196 ],
+        "max_moves": [ 767130, 765130, 7430, 763110 ],
+        "types": [ "water", "ghost" ]
+    },
+    "jigglypuff": {
+        "ability_id": "friend-guard",
+        "base_stats": [ 115, 45, 20, 45, 25, 20 ],
+        "id": "Jigglypuff",
+        "moves": [ 164, 113, 313, 577 ],
+        "max_moves": [ 7430, 7430, 7430, 767100 ],
+        "types": [ "normal", "fairy" ]
+    },
+    "jolteon": {
+        "ability_id": "volt-absorb",
+        "base_stats": [ 65, 65, 60, 110, 95, 130 ],
+        "id": "Jolteon",
+        "moves": [ 85, 129, 247, 270 ],
+        "max_moves": [ 759130, 760110, 762130, 7430 ],
+        "types": [ "electric" ]
+    },
+    "jynx": {
+        "ability_id": "dry-skin",
+        "base_stats": [ 65, 50, 35, 115, 95, 95 ],
+        "id": "Jynx",
+        "moves": [ 577, 142, 58, 496 ],
+        "max_moves": [ 767100, 7430, 763130, 760110 ],
+        "types": [ "ice", "psychic" ]
+    },
+    "kadabra": {
+        "ability_id": "magic-guard",
+        "base_stats": [ 40, 35, 30, 120, 70, 105 ],
+        "id": "Kadabra",
+        "moves": [ 473, 496, 203, 605 ],
+        "max_moves": [ 769130, 760110, 7430, 767130 ],
+        "types": [ "psychic" ]
+    },
+    "kangaskhan": {
+        "ability_id": "early-bird",
+        "base_stats": [ 105, 95, 80, 40, 80, 90 ],
+        "id": "Kangaskhan",
+        "moves": [ 34, 389, 91, 200 ],
+        "max_moves": [ 760130, 772120, 771130, 768140 ],
+        "types": [ "normal" ]
+    },
+    "kingler": {
+        "ability_id": "hyper-cutter",
+        "base_stats": [ 55, 130, 115, 50, 50, 75 ],
+        "id": "Kingler",
+        "moves": [ 152, 469, 91, 276 ],
+        "max_moves": [ 765130, 7430, 771130, 76195 ],
+        "types": [ "water" ]
+    },
+    "klang": {
+        "ability_id": "minus",
+        "base_stats": [ 60, 80, 95, 70, 85, 50 ],
+        "id": "Klang",
+        "moves": [ 451, 804, 430, 408 ],
+        "max_moves": [ 759100, 759120, 774130, 770130 ],
+        "types": [ "steel" ]
+    },
+    "klefki": {
+        "ability_id": "prankster",
+        "base_stats": [ 57, 80, 91, 80, 87, 75 ],
+        "id": "Klefki",
+        "moves": [ 113, 578, 430, 583 ],
+        "max_moves": [ 7430, 7430, 774130, 767130 ],
+        "types": [ "steel", "fairy" ]
+    },
+    "klinklang": {
+        "ability_id": "plus",
+        "base_stats": [ 60, 100, 115, 70, 85, 90 ],
+        "id": "Klinklang",
+        "moves": [ 544, 508, 416, 319 ],
+        "max_moves": [ 774100, 7430, 760150, 7430 ],
+        "types": [ "steel" ]
+    },
+    "krookodile": {
+        "ability_id": "anger-point",
+        "base_stats": [ 95, 117, 80, 65, 70, 92 ],
+        "id": "Krookodile",
+        "moves": [ 414, 207, 663, 201 ],
+        "max_moves": [ 771130, 7430, 772130, 7430 ],
+        "types": [ "ground", "dark" ]
+    },
+    "lairon": {
+        "ability_id": "sturdy",
+        "base_stats": [ 60, 90, 140, 50, 50, 40 ],
+        "id": "Lairon",
+        "moves": [ 798, 231, 157, 319 ],
+        "max_moves": [ 774140, 774130, 770130, 7430 ],
+        "types": [ "steel", "rock" ]
+    },
+    "lampent": {
+        "ability_id": "flash-fire",
+        "base_stats": [ 60, 40, 60, 95, 60, 55 ],
+        "id": "Lampent",
+        "moves": [ 807, 806, 517, 433 ],
+        "max_moves": [ 757120, 758120, 757130, 7430 ],
+        "types": [ "ghost", "fire" ]
+    },
+    "lanturn": {
+        "ability_id": "volt-absorb",
+        "base_stats": [ 125, 58, 58, 76, 76, 67 ],
+        "id": "Lanturn",
+        "moves": [ 352, 56, 85, 109 ],
+        "max_moves": [ 765110, 765140, 759130, 7430 ],
+        "types": [ "water", "electric" ]
+    },
+    "lickitung": {
+        "ability_id": "oblivious",
+        "base_stats": [ 90, 55, 75, 60, 75, 30 ],
+        "id": "Lickitung",
+        "moves": [ 496, 59, 87, 330 ],
+        "max_moves": [ 760110, 763140, 759140, 765130 ],
+        "types": [ "normal" ]
+    },
+    "liepard": {
+        "ability_id": "limber",
+        "base_stats": [ 64, 88, 50, 88, 50, 106 ],
+        "id": "Liepard",
+        "moves": [ 372, 583, 259, 103 ],
+        "max_moves": [ 772110, 767130, 7430, 7430 ],
+        "types": [ "dark" ]
+    },
+    "lilligant": {
+        "ability_id": "own-tempo",
+        "base_stats": [ 70, 60, 75, 110, 75, 90 ],
+        "id": "Lilligant",
+        "moves": [ 80, 483, 113, 676 ],
+        "max_moves": [ 773140, 7430, 7430, 758130 ],
+        "types": [ "grass" ]
+    },
+    "linoone": {
+        "ability_id": "pickup",
+        "base_stats": [ 78, 70, 61, 50, 61, 100 ],
+        "id": "Linoone",
+        "moves": [ 163, 42, 608, 421 ],
+        "max_moves": [ 760120, 75890, 7430, 762120 ],
+        "types": [ "normal" ]
+    },
+    "linoone-galar": {
+        "ability_id": "pickup",
+        "base_stats": [ 78, 70, 61, 50, 61, 100 ],
+        "id": "Linoone",
+        "moves": [ 675, 555, 269, 164 ],
+        "max_moves": [ 772130, 772110, 7430, 7430 ],
+        "types": [ "dark", "normal" ]
+    },
+    "lopunny": {
+        "ability_id": "cute-charm",
+        "base_stats": [ 65, 76, 84, 54, 96, 105 ],
+        "id": "Lopunny",
+        "moves": [ 409, 25, 204, 340 ],
+        "max_moves": [ 76190, 760140, 7430, 766130 ],
+        "types": [ "normal" ]
+    },
+    "lurantis": {
+        "ability_id": "contrary",
+        "base_stats": [ 70, 105, 90, 80, 90, 45 ],
+        "id": "Lurantis",
+        "moves": [ 437, 311, 404, 496 ],
+        "max_moves": [ 773140, 760100, 758130, 760110 ],
+        "types": [ "grass" ]
+    },
+    "luxray": {
+        "ability_id": "guts",
+        "base_stats": [ 80, 120, 79, 95, 79, 70 ],
+        "id": "Luxray",
+        "moves": [ 263, 113, 804, 604 ],
+        "max_moves": [ 760120, 7430, 759120, 7430 ],
+        "types": [ "electric" ]
+    },
+    "lycanroc-midday": {
+        "ability_id": "sand-rush",
+        "base_stats": [ 75, 115, 65, 55, 65, 112 ],
+        "id": "Lycanroc",
+        "moves": [ 709, 444, 496, 336 ],
+        "max_moves": [ 77090, 770130, 760110, 7430 ],
+        "types": [ "rock" ]
+    },
+    "lycanroc-midnight": {
+        "ability_id": "no-guard",
+        "base_stats": [ 85, 115, 75, 55, 75, 82 ],
+        "id": "Lycanroc",
+        "moves": [ 444, 280, 269, 242 ],
+        "max_moves": [ 770130, 76190, 7430, 772130 ],
+        "types": [ "rock" ]
+    },
+    "machoke": {
+        "ability_id": "no-guard",
+        "base_stats": [ 80, 100, 70, 50, 60, 45 ],
+        "id": "Machoke",
+        "moves": [ 223, 317, 371, 811 ],
+        "max_moves": [ 76190, 770110, 772100, 7430 ],
+        "types": [ "fighting" ]
+    },
+    "magmar": {
+        "ability_id": "vital-spirit",
+        "base_stats": [ 65, 95, 57, 100, 85, 93 ],
+        "id": "Magmar",
+        "moves": [ 126, 807, 499, 496 ],
+        "max_moves": [ 757140, 757120, 76475, 760110 ],
+        "types": [ "fire" ]
+    },
+    "magneton": {
+        "ability_id": "analytic",
+        "base_stats": [ 50, 60, 95, 120, 70, 70 ],
+        "id": "Magneton",
+        "moves": [ 486, 430, 393, 113 ],
+        "max_moves": [ 759120, 774130, 7430, 7430 ],
+        "types": [ "electric", "steel" ]
+    },
+    "malamar": {
+        "ability_id": "contrary",
+        "base_stats": [ 86, 92, 88, 68, 75, 73 ],
+        "id": "Malamar",
+        "moves": [ 576, 797, 400, 85 ],
+        "max_moves": [ 7430, 769130, 772120, 759130 ],
+        "types": [ "dark", "psychic" ]
+    },
+    "manectric": {
+        "ability_id": "lightning-rod",
+        "base_stats": [ 70, 75, 60, 105, 60, 105 ],
+        "id": "Manectric",
+        "moves": [ 804, 129, 315, 706 ],
+        "max_moves": [ 759120, 760110, 757140, 769130 ],
+        "types": [ "electric" ]
+    },
+    "mantine": {
+        "ability_id": "water-absorb",
+        "base_stats": [ 85, 40, 70, 80, 140, 70 ],
+        "id": "Mantine",
+        "moves": [ 403, 291, 469, 352 ],
+        "max_moves": [ 766130, 765130, 7430, 765110 ],
+        "types": [ "water", "flying" ]
+    },
+    "maractus": {
+        "ability_id": "storm-drain",
+        "base_stats": [ 75, 86, 67, 106, 67, 60 ],
+        "id": "Maractus",
+        "moves": [ 437, 412, 389, 367 ],
+        "max_moves": [ 773140, 773130, 772120, 7430 ],
+        "types": [ "grass" ]
+    },
+    "marowak": {
+        "ability_id": "battle-armor",
+        "base_stats": [ 60, 80, 110, 50, 80, 45 ],
+        "id": "Marowak",
+        "moves": [ 155, 675, 442, 103 ],
+        "max_moves": [ 771100, 772130, 774130, 7430 ],
+        "types": [ "ground" ]
+    },
+    "marowak-alola": {
+        "ability_id": "rock-head",
+        "base_stats": [ 60, 80, 110, 50, 80, 45 ],
+        "id": "Marowak",
+        "moves": [ 394, 708, 261, 442 ],
+        "max_moves": [ 757140, 762130, 7430, 774130 ],
+        "types": [ "fire", "ghost" ]
+    },
+    "marshtomp": {
+        "ability_id": "torrent",
+        "base_stats": [ 70, 85, 70, 60, 70, 50 ],
+        "id": "Marshtomp",
+        "moves": [ 518, 127, 91, 8 ],
+        "max_moves": [ 765130, 765130, 771130, 763130 ],
+        "types": [ "water", "ground" ]
+    },
+    "metang": {
+        "ability_id": "clear-body",
+        "base_stats": [ 60, 75, 100, 55, 80, 50 ],
+        "id": "Metang",
+        "moves": [ 309, 9, 427, 115 ],
+        "max_moves": [ 774130, 759130, 769120, 7430 ],
+        "types": [ "steel", "psychic" ]
+    },
+    "mienshao": {
+        "ability_id": "inner-focus",
+        "base_stats": [ 65, 125, 60, 95, 60, 105 ],
+        "id": "Mienshao",
+        "moves": [ 396, 469, 317, 25 ],
+        "max_moves": [ 76190, 7430, 770110, 760140 ],
+        "types": [ "fighting" ]
+    },
+    "miltank": {
+        "ability_id": "scrappy",
+        "base_stats": [ 95, 80, 105, 40, 70, 100 ],
+        "id": "Miltank",
+        "moves": [ 25, 208, 86, 583 ],
+        "max_moves": [ 760140, 7430, 7430, 767130 ],
+        "types": [ "normal" ]
+    },
+    "mimikyu-disguised": {
+        "ability_id": "disguise",
+        "base_stats": [ 55, 90, 80, 50, 105, 96 ],
+        "id": "Mimikyu",
+        "moves": [ 421, 163, 608, 174 ],
+        "max_moves": [ 762120, 760120, 7430, 7430 ],
+        "types": [ "ghost", "fairy" ]
+    },
+    "morpeko": {
+        "ability_id": "hunger-switch",
+        "base_stats": [ 58, 95, 58, 70, 58, 97 ],
+        "id": "Morpeko",
+        "moves": [ 783, 399, 85, 423 ],
+        "max_moves": [ 759140, 772130, 759130, 763120 ],
+        "types": [ "electric", "dark" ]
+    },
+    "mr-mime": {
+        "ability_id": "filter",
+        "base_stats": [ 40, 45, 65, 100, 120, 90 ],
+        "id": "Mr. Mime",
+        "moves": [ 113, 115, 270, 94 ],
+        "max_moves": [ 7430, 7430, 7430, 769130 ],
+        "types": [ "psychic", "fairy" ]
+    },
+    "mr-mime-galar": {
+        "ability_id": "ice-body",
+        "base_stats": [ 50, 65, 65, 90, 90, 100 ],
+        "id": "Mr. Mime",
+        "moves": [ 113, 115, 196, 94 ],
+        "max_moves": [ 7430, 7430, 763110, 769130 ],
+        "types": [ "ice", "psychic" ]
+    },
+    "mudsdale": {
+        "ability_id": "own-tempo",
+        "base_stats": [ 100, 125, 100, 55, 85, 35 ],
+        "id": "Mudsdale",
+        "moves": [ 808, 276, 328, 249 ],
+        "max_moves": [ 772130, 76195, 77190, 76170 ],
+        "types": [ "ground" ]
+    },
+    "munchlax": {
+        "ability_id": "thick-fat",
+        "base_stats": [ 135, 85, 40, 40, 85, 5 ],
+        "id": "Munchlax",
+        "moves": [ 9, 7, 34, 441 ],
+        "max_moves": [ 759130, 757130, 760130, 76495 ],
+        "types": [ "normal" ]
+    },
+    "musharna": {
+        "ability_id": "forewarn",
+        "base_stats": [ 116, 55, 85, 107, 95, 29 ],
+        "id": "Musharna",
+        "moves": [ 797, 473, 281, 412 ],
+        "max_moves": [ 769130, 769130, 7430, 773130 ],
+        "types": [ "psychic" ]
+    },
+    "nidoking": {
+        "ability_id": "rivalry",
+        "base_stats": [ 81, 102, 77, 85, 75, 85 ],
+        "id": "Nidoking",
+        "moves": [ 667, 7, 8, 9 ],
+        "max_moves": [ 771130, 757130, 763130, 759130 ],
+        "types": [ "poison", "ground" ]
+    },
+    "nidoqueen": {
+        "ability_id": "poison-point",
+        "base_stats": [ 90, 92, 87, 75, 85, 76 ],
+        "id": "Nidoqueen",
+        "moves": [ 815, 474, 204, 247 ],
+        "max_moves": [ 771120, 76485, 7430, 762130 ],
+        "types": [ "poison", "ground" ]
+    },
+    "ninjask": {
+        "ability_id": "speed-boost",
+        "base_stats": [ 61, 90, 45, 50, 50, 160 ],
+        "id": "Ninjask",
+        "moves": [ 210, 164, 189, 806 ],
+        "max_moves": [ 75890, 7430, 77190, 758120 ],
+        "types": [ "bug", "flying" ]
+    },
+    "noctowl": {
+        "ability_id": "tinted-lens",
+        "base_stats": [ 100, 50, 50, 86, 96, 70 ],
+        "id": "Noctowl",
+        "moves": [ 497, 115, 143, 95 ],
+        "max_moves": [ 76090, 7430, 766140, 7430 ],
+        "types": [ "normal", "flying" ]
+    },
+    "obstagoon": {
+        "ability_id": "reckless",
+        "base_stats": [ 93, 90, 101, 60, 81, 95 ],
+        "id": "Obstagoon",
+        "moves": [ 808, 85, 263, 103 ],
+        "max_moves": [ 772130, 759130, 760120, 7430 ],
+        "types": [ "dark", "normal" ]
+    },
+    "octillery": {
+        "ability_id": "sniper",
+        "base_stats": [ 75, 105, 75, 105, 75, 45 ],
+        "id": "Octillery",
+        "moves": [ 806, 430, 503, 491 ],
+        "max_moves": [ 758120, 774130, 765130, 76470 ],
+        "types": [ "water" ]
+    },
+    "oranguru": {
+        "ability_id": "symbiosis",
+        "base_stats": [ 90, 60, 80, 90, 110, 60 ],
+        "id": "Oranguru",
+        "moves": [ 689, 113, 94, 473 ],
+        "max_moves": [ 7430, 7430, 769130, 769130 ],
+        "types": [ "normal", "psychic" ]
+    },
+    "orbeetle": {
+        "ability_id": "swarm",
+        "base_stats": [ 60, 45, 110, 80, 120, 90 ],
+        "id": "Orbeetle",
+        "moves": [ 495, 94, 60, 522 ],
+        "max_moves": [ 7430, 769130, 769120, 758100 ],
+        "types": [ "bug", "psychic" ]
+    },
+    "palossand": {
+        "ability_id": "sand-veil",
+        "base_stats": [ 85, 75, 110, 100, 75, 35 ],
+        "id": "Palossand",
+        "moves": [ 805, 815, 659, 247 ],
+        "max_moves": [ 760100, 771120, 7430, 762130 ],
+        "types": [ "ghost", "ground" ]
+    },
+    "palpitoad": {
+        "ability_id": "swift-swim",
+        "base_stats": [ 75, 65, 55, 65, 55, 69 ],
+        "id": "Palpitoad",
+        "moves": [ 497, 503, 414, 340 ],
+        "max_moves": [ 76090, 765130, 771130, 766130 ],
+        "types": [ "water", "ground" ]
+    },
+    "pangoro": {
+        "ability_id": "iron-fist",
+        "base_stats": [ 95, 124, 78, 69, 71, 58 ],
+        "id": "Pangoro",
+        "moves": [ 418, 359, 663, 811 ],
+        "max_moves": [ 77490, 76190, 772130, 7430 ],
+        "types": [ "fighting", "dark" ]
+    },
+    "passimian": {
+        "ability_id": "receiver",
+        "base_stats": [ 100, 120, 90, 40, 60, 80 ],
+        "id": "Passimian",
+        "moves": [ 280, 317, 164, 512 ],
+        "max_moves": [ 76190, 770110, 7430, 766110 ],
+        "types": [ "fighting" ]
+    },
+    "pelipper": {
+        "ability_id": "drizzle",
+        "base_stats": [ 60, 50, 100, 95, 70, 65 ],
+        "id": "Pelipper",
+        "moves": [ 814, 311, 469, 98 ],
+        "max_moves": [ 76690, 760100, 7430, 76090 ],
+        "types": [ "water", "flying" ]
+    },
+    "perrserker": {
+        "ability_id": "steely-spirit",
+        "base_stats": [ 70, 110, 100, 50, 60, 50 ],
+        "id": "Perrserker",
+        "moves": [ 232, 133, 808, 87 ],
+        "max_moves": [ 774100, 7430, 772130, 759140 ],
+        "types": [ "steel" ]
+    },
+    "persian": {
+        "ability_id": "technician",
+        "base_stats": [ 65, 70, 60, 65, 65, 115 ],
+        "id": "Persian",
+        "moves": [ 263, 583, 364, 496 ],
+        "max_moves": [ 760120, 767130, 76090, 760110 ],
+        "types": [ "normal" ]
+    },
+    "persian-alola": {
+        "ability_id": "fur-coat",
+        "base_stats": [ 65, 60, 60, 75, 65, 115 ],
+        "id": "Persian",
+        "moves": [ 372, 555, 364, 511 ],
+        "max_moves": [ 772110, 772110, 76090, 7430 ],
+        "types": [ "dark" ]
+    },
+    "piloswine": {
+        "ability_id": "thick-fat",
+        "base_stats": [ 100, 100, 80, 60, 60, 50 ],
+        "id": "Piloswine",
+        "moves": [ 59, 317, 420, 276 ],
+        "max_moves": [ 763140, 770110, 76390, 76195 ],
+        "types": [ "ice", "ground" ]
+    },
+    "pincurchin": {
+        "ability_id": "electric-surge",
+        "base_stats": [ 48, 101, 95, 91, 85, 15 ],
+        "id": "Pincurchin",
+        "moves": [ 56, 87, 367, 599 ],
+        "max_moves": [ 765140, 759140, 7430, 7430 ],
+        "types": [ "electric" ]
+    },
+    "politoed": {
+        "ability_id": "drizzle",
+        "base_stats": [ 90, 75, 75, 90, 100, 70 ],
+        "id": "Politoed",
+        "moves": [ 710, 496, 414, 270 ],
+        "max_moves": [ 765130, 760110, 771130, 7430 ],
+        "types": [ "water" ]
+    },
+    "poliwrath": {
+        "ability_id": "water-absorb",
+        "base_stats": [ 90, 95, 95, 70, 90, 70 ],
+        "id": "Poliwrath",
+        "moves": [ 409, 34, 811, 710 ],
+        "max_moves": [ 76190, 760130, 7430, 765130 ],
+        "types": [ "water", "fighting" ]
+    },
+    "polteageist": {
+        "ability_id": "weak-armor",
+        "base_stats": [ 60, 65, 65, 134, 114, 70 ],
+        "id": "Polteageist",
+        "moves": [ 312, 389, 473, 202 ],
+        "max_moves": [ 7430, 772120, 769130, 773130 ],
+        "types": [ "ghost" ]
+    },
+    "porygon": {
+        "ability_id": "download",
+        "base_stats": [ 65, 60, 70, 85, 75, 40 ],
+        "id": "Porygon",
+        "moves": [ 492, 58, 85, 63 ],
+        "max_moves": [ 772130, 763130, 759130, 760150 ],
+        "types": [ "normal" ]
+    },
+    "pyukumuku": {
+        "ability_id": "innards-out",
+        "base_stats": [ 55, 60, 130, 30, 130, 5 ],
+        "id": "Pyukumuku",
+        "moves": [ 92, 269, 599, 68 ],
+        "max_moves": [ 7430, 7430, 7430, 7610 ],
+        "types": [ "water" ]
+    },
+    "quagsire": {
+        "ability_id": "unaware",
+        "base_stats": [ 95, 85, 85, 65, 65, 35 ],
+        "id": "Quagsire",
+        "moves": [ 411, 503, 92, 133 ],
+        "max_moves": [ 76195, 765130, 7430, 7430 ],
+        "types": [ "water", "ground" ]
+    },
+    "qwilfish": {
+        "ability_id": "intimidate",
+        "base_stats": [ 65, 95, 85, 55, 55, 85 ],
+        "id": "Qwilfish",
+        "moves": [ 14, 398, 710, 798 ],
+        "max_moves": [ 7430, 76490, 765130, 774140 ],
+        "types": [ "water", "poison" ]
+    },
+    "raichu": {
+        "ability_id": "lightning-rod",
+        "base_stats": [ 60, 90, 55, 90, 80, 110 ],
+        "id": "Raichu",
+        "moves": [ 804, 683, 113, 411 ],
+        "max_moves": [ 759120, 7430, 7430, 76195 ],
+        "types": [ "electric" ]
+    },
+    "raichu-alola": {
+        "ability_id": "surge-surfer",
+        "base_stats": [ 60, 85, 50, 95, 85, 110 ],
+        "id": "Raichu",
+        "moves": [ 85, 604, 94, 496 ],
+        "max_moves": [ 759130, 7430, 769130, 760110 ],
+        "types": [ "electric", "psychic" ]
+    },
+    "relicanth": {
+        "ability_id": "rock-head",
+        "base_stats": [ 100, 90, 130, 45, 65, 55 ],
+        "id": "Relicanth",
+        "moves": [ 710, 457, 175, 799 ],
+        "max_moves": [ 765130, 770150, 7600, 76890 ],
+        "types": [ "water", "rock" ]
+    },
+    "rhydon": {
+        "ability_id": "rock-head",
+        "base_stats": [ 105, 130, 120, 45, 45, 40 ],
+        "id": "Rhydon",
+        "moves": [ 529, 479, 684, 184 ],
+        "max_moves": [ 771130, 770100, 774120, 7430 ],
+        "types": [ "ground", "rock" ]
+    },
+    "ribombee": {
+        "ability_id": "sweet-veil",
+        "base_stats": [ 60, 55, 60, 95, 70, 124 ],
+        "id": "Ribombee",
+        "moves": [ 676, 577, 312, 313 ],
+        "max_moves": [ 758130, 767100, 7430, 7430 ],
+        "types": [ "bug", "fairy" ]
+    },
+    "roselia": {
+        "ability_id": "poison-point",
+        "base_stats": [ 50, 60, 45, 100, 80, 65 ],
+        "id": "Roselia",
+        "moves": [ 437, 326, 311, 791 ],
+        "max_moves": [ 773140, 769130, 760100, 7430 ],
+        "types": [ "grass", "poison" ]
+    },
+    "rotom": {
+        "ability_id": "levitate",
+        "base_stats": [ 50, 50, 77, 95, 77, 91 ],
+        "id": "Rotom",
+        "moves": [ 486, 261, 417, 506 ],
+        "max_moves": [ 759120, 7430, 7430, 762120 ],
+        "types": [ "electric", "ghost" ]
+    },
+    "salazzle": {
+        "ability_id": "corrosion",
+        "base_stats": [ 68, 64, 60, 111, 60, 117 ],
+        "id": "Salazzle",
+        "moves": [ 92, 53, 440, 599 ],
+        "max_moves": [ 7430, 757130, 76485, 7430 ],
+        "types": [ "poison", "fire" ]
+    },
+    "sandaconda": {
+        "ability_id": "sand-spit",
+        "base_stats": [ 72, 107, 125, 65, 70, 71 ],
+        "id": "Sandaconda",
+        "moves": [ 815, 799, 806, 137 ],
+        "max_moves": [ 771120, 76890, 758120, 7430 ],
+        "types": [ "ground" ]
+    },
+    "sandslash": {
+        "ability_id": "sand-veil",
+        "base_stats": [ 75, 100, 110, 45, 55, 65 ],
+        "id": "Sandslash",
+        "moves": [ 306, 707, 444, 141 ],
+        "max_moves": [ 760130, 771130, 770130, 758130 ],
+        "types": [ "ground" ]
+    },
+    "sandslash-alola": {
+        "ability_id": "snow-cloak",
+        "base_stats": [ 75, 100, 120, 25, 65, 65 ],
+        "id": "Sandslash",
+        "moves": [ 419, 157, 280, 14 ],
+        "max_moves": [ 763110, 770130, 76190, 7430 ],
+        "types": [ "ice", "steel" ]
+    },
+    "sceptile": {
+        "ability_id": "unburden",
+        "base_stats": [ 70, 85, 65, 105, 85, 120 ],
+        "id": "Sceptile",
+        "moves": [ 520, 784, 437, 404 ],
+        "max_moves": [ 773130, 768110, 773140, 758130 ],
+        "types": [ "grass" ]
+    },
+    "scolipede": {
+        "ability_id": "swarm",
+        "base_stats": [ 60, 100, 89, 55, 69, 112 ],
+        "id": "Scolipede",
+        "moves": [ 798, 92, 675, 224 ],
+        "max_moves": [ 774140, 7430, 772130, 758140 ],
+        "types": [ "bug", "poison" ]
+    },
+    "scyther": {
+        "ability_id": "technician",
+        "base_stats": [ 70, 110, 80, 55, 80, 105 ],
+        "id": "Scyther",
+        "moves": [ 210, 98, 372, 17 ],
+        "max_moves": [ 75890, 76090, 772110, 766110 ],
+        "types": [ "bug", "flying" ]
+    },
+    "seadra": {
+        "ability_id": "sniper",
+        "base_stats": [ 55, 65, 95, 95, 45, 85 ],
+        "id": "Seadra",
+        "moves": [ 503, 406, 164, 496 ],
+        "max_moves": [ 765130, 768130, 7430, 760110 ],
+        "types": [ "water" ]
+    },
+    "seaking": {
+        "ability_id": "water-veil",
+        "base_stats": [ 80, 92, 65, 65, 80, 68 ],
+        "id": "Seaking",
+        "moves": [ 127, 340, 398, 529 ],
+        "max_moves": [ 765130, 766130, 76490, 771130 ],
+        "types": [ "water" ]
+    },
+    "sealeo": {
+        "ability_id": "thick-fat",
+        "base_stats": [ 90, 60, 70, 75, 70, 45 ],
+        "id": "Sealeo",
+        "moves": [ 58, 362, 291, 207 ],
+        "max_moves": [ 763130, 765120, 765130, 7430 ],
+        "types": [ "ice", "water" ]
+    },
+    "seismitoad": {
+        "ability_id": "swift-swim",
+        "base_stats": [ 105, 95, 75, 85, 75, 74 ],
+        "id": "Seismitoad",
+        "moves": [ 497, 48, 188, 103 ],
+        "max_moves": [ 76090, 7430, 76490, 7430 ],
+        "types": [ "water", "ground" ]
+    },
+    "sharpedo": {
+        "ability_id": "speed-boost",
+        "base_stats": [ 70, 120, 40, 95, 40, 95 ],
+        "id": "Sharpedo",
+        "moves": [ 453, 372, 207, 799 ],
+        "max_moves": [ 76590, 772110, 7430, 76890 ],
+        "types": [ "water", "dark" ]
+    },
+    "shiinotic": {
+        "ability_id": "rain-dish",
+        "base_stats": [ 60, 45, 80, 90, 100, 30 ],
+        "id": "Shiinotic",
+        "moves": [ 668, 585, 240, 311 ],
+        "max_moves": [ 7430, 767130, 7430, 760100 ],
+        "types": [ "grass", "fairy" ]
+    },
+    "sigilyph": {
+        "ability_id": "wonder-skin",
+        "base_stats": [ 72, 58, 80, 103, 80, 97 ],
+        "id": "Sigilyph",
+        "moves": [ 94, 240, 403, 430 ],
+        "max_moves": [ 769130, 7430, 766130, 774130 ],
+        "types": [ "psychic", "flying" ]
+    },
+    "skarmory": {
+        "ability_id": "weak-armor",
+        "base_stats": [ 65, 80, 140, 40, 70, 70 ],
+        "id": "Skarmory",
+        "moves": [ 372, 211, 404, 19 ],
+        "max_moves": [ 772110, 774120, 758130, 766130 ],
+        "types": [ "steel", "flying" ]
+    },
+    "skuntank": {
+        "ability_id": "aftermath",
+        "base_stats": [ 103, 93, 67, 71, 61, 84 ],
+        "id": "Skuntank",
+        "moves": [ 808, 807, 491, 389 ],
+        "max_moves": [ 772130, 757120, 76470, 772120 ],
+        "types": [ "poison", "dark" ]
+    },
+    "slowbro": {
+        "ability_id": "own-tempo",
+        "base_stats": [ 95, 75, 110, 100, 80, 30 ],
+        "id": "Slowbro",
+        "moves": [ 797, 244, 53, 473 ],
+        "max_moves": [ 769130, 7430, 757130, 769130 ],
+        "types": [ "water", "psychic" ]
+    },
+    "slowking": {
+        "ability_id": "own-tempo",
+        "base_stats": [ 95, 75, 80, 100, 110, 30 ],
+        "id": "Slowking",
+        "moves": [ 248, 417, 534, 8 ],
+        "max_moves": [ 769140, 7430, 765130, 763130 ],
+        "types": [ "water", "psychic" ]
+    },
+    "sneasel": {
+        "ability_id": "keen-eye",
+        "base_stats": [ 55, 95, 55, 35, 75, 115 ],
+        "id": "Sneasel",
+        "moves": [ 813, 808, 675, 555 ],
+        "max_moves": [ 76390, 772130, 772130, 772110 ],
+        "types": [ "dark", "ice" ]
+    },
+    "starmie": {
+        "ability_id": "analytic",
+        "base_stats": [ 60, 75, 85, 100, 85, 115 ],
+        "id": "Starmie",
+        "moves": [ 408, 605, 427, 196 ],
+        "max_moves": [ 770130, 767130, 769120, 763110 ],
+        "types": [ "water", "psychic" ]
+    },
+    "stoutland": {
+        "ability_id": "scrappy",
+        "base_stats": [ 85, 110, 90, 45, 90, 80 ],
+        "id": "Stoutland",
+        "moves": [ 416, 263, 496, 608 ],
+        "max_moves": [ 760150, 760120, 760110, 7430 ],
+        "types": [ "normal" ]
+    },
+    "stunfisk": {
+        "ability_id": "static",
+        "base_stats": [ 109, 66, 84, 81, 99, 32 ],
+        "id": "Stunfisk",
+        "moves": [ 604, 85, 414, 330 ],
+        "max_moves": [ 7430, 759130, 771130, 765130 ],
+        "types": [ "ground", "electric" ]
+    },
+    "stunfisk-galar": {
+        "ability_id": "mimicry",
+        "base_stats": [ 109, 81, 99, 66, 84, 32 ],
+        "id": "Stunfisk",
+        "moves": [ 319, 805, 492, 414 ],
+        "max_moves": [ 7430, 760100, 772130, 771130 ],
+        "types": [ "ground", "steel" ]
+    },
+    "sudowoodo": {
+        "ability_id": "sturdy",
+        "base_stats": [ 70, 100, 115, 30, 65, 30 ],
+        "id": "Sudowoodo",
+        "moves": [ 707, 444, 334, 776 ],
+        "max_moves": [ 771130, 770130, 7430, 76190 ],
+        "types": [ "rock" ]
+    },
+    "swampert": {
+        "ability_id": "damp",
+        "base_stats": [ 100, 110, 90, 85, 90, 60 ],
+        "id": "Swampert",
+        "moves": [ 518, 59, 414, 133 ],
+        "max_moves": [ 765130, 763140, 771130, 7430 ],
+        "types": [ "water", "ground" ]
+    },
+    "swoobat": {
+        "ability_id": "simple",
+        "base_stats": [ 67, 57, 55, 77, 55, 114 ],
+        "id": "Swoobat",
+        "moves": [ 493, 683, 94, 403 ],
+        "max_moves": [ 7430, 7430, 769130, 766130 ],
+        "types": [ "psychic", "flying" ]
+    },
+    "talonflame": {
+        "ability_id": "gale-wings",
+        "base_stats": [ 78, 81, 71, 74, 69, 126 ],
+        "id": "Talonflame",
+        "moves": [ 366, 542, 211, 53 ],
+        "max_moves": [ 7430, 766140, 774120, 757130 ],
+        "types": [ "fire", "flying" ]
+    },
+    "tangela": {
+        "ability_id": "leaf-guard",
+        "base_stats": [ 65, 55, 115, 100, 40, 60 ],
+        "id": "Tangela",
+        "moves": [ 438, 78, 803, 34 ],
+        "max_moves": [ 773140, 7430, 773120, 760130 ],
+        "types": [ "grass" ]
+    },
+    "tauros": {
+        "ability_id": "anger-point",
+        "base_stats": [ 75, 100, 95, 40, 70, 110 ],
+        "id": "Tauros",
+        "moves": [ 263, 667, 370, 372 ],
+        "max_moves": [ 760120, 771130, 76195, 772110 ],
+        "types": [ "normal" ]
+    },
+    "tentacruel": {
+        "ability_id": "clear-body",
+        "base_stats": [ 80, 70, 65, 80, 120, 100 ],
+        "id": "Tentacruel",
+        "moves": [ 352, 56, 398, 14 ],
+        "max_moves": [ 765110, 765140, 76490, 7430 ],
+        "types": [ "water", "poison" ]
+    },
+    "thievul": {
+        "ability_id": "unburden",
+        "base_stats": [ 70, 58, 58, 87, 92, 90 ],
+        "id": "Thievul",
+        "moves": [ 492, 555, 269, 807 ],
+        "max_moves": [ 772130, 772110, 7430, 757120 ],
+        "types": [ "dark" ]
+    },
+    "togedemaru": {
+        "ability_id": "sturdy",
+        "base_stats": [ 65, 98, 63, 40, 73, 96 ],
+        "id": "Togedemaru",
+        "moves": [ 609, 398, 527, 442 ],
+        "max_moves": [ 75990, 76490, 759110, 774130 ],
+        "types": [ "electric", "steel" ]
+    },
+    "togetic": {
+        "ability_id": "serene-grace",
+        "base_stats": [ 55, 40, 85, 80, 105, 40 ],
+        "id": "Togetic",
+        "moves": [ 791, 266, 583, 595 ],
+        "max_moves": [ 7430, 7430, 767130, 757130 ],
+        "types": [ "fairy", "flying" ]
+    },
+    "torkoal": {
+        "ability_id": "drought",
+        "base_stats": [ 70, 85, 140, 85, 70, 20 ],
+        "id": "Torkoal",
+        "moves": [ 807, 517, 229, 108 ],
+        "max_moves": [ 757120, 757130, 760100, 7430 ],
+        "types": [ "fire" ]
+    },
+    "toxtricity-amped": {
+        "ability_id": "plus",
+        "base_stats": [ 75, 98, 70, 114, 70, 75 ],
+        "id": "Toxtricity",
+        "moves": [ 804, 86, 304, 715 ],
+        "max_moves": [ 759120, 7430, 760130, 7430 ],
+        "types": [ "electric", "poison" ]
+    },
+    "trevenant": {
+        "ability_id": "harvest",
+        "base_stats": [ 85, 110, 76, 65, 82, 56 ],
+        "id": "Trevenant",
+        "moves": [ 532, 115, 409, 433 ],
+        "max_moves": [ 773130, 7430, 76190, 7430 ],
+        "types": [ "ghost", "grass" ]
+    },
+    "tsareena": {
+        "ability_id": "queenly-majesty",
+        "base_stats": [ 72, 120, 98, 50, 98, 72 ],
+        "id": "Tsareena",
+        "moves": [ 312, 688, 512, 207 ],
+        "max_moves": [ 7430, 773120, 766110, 7430 ],
+        "types": [ "grass" ]
+    },
+    "tyrantrum": {
+        "ability_id": "strong-jaw",
+        "base_stats": [ 82, 121, 119, 69, 59, 71 ],
+        "id": "Tyrantrum",
+        "moves": [ 799, 350, 276, 34 ],
+        "max_moves": [ 76890, 77090, 76195, 760130 ],
+        "types": [ "rock", "dragon" ]
+    },
+    "unfezant": {
+        "ability_id": "big-pecks",
+        "base_stats": [ 80, 115, 80, 65, 55, 93 ],
+        "id": "Unfezant",
+        "moves": [ 814, 269, 297, 366 ],
+        "max_moves": [ 76690, 7430, 7430, 7430 ],
+        "types": [ "normal", "flying" ]
+    },
+    "vanillish": {
+        "ability_id": "ice-body",
+        "base_stats": [ 51, 65, 65, 80, 75, 59 ],
+        "id": "Vanillish",
+        "moves": [ 54, 58, 59, 304 ],
+        "max_moves": [ 7430, 763130, 763140, 760130 ],
+        "types": [ "ice" ]
+    },
+    "vaporeon": {
+        "ability_id": "water-absorb",
+        "base_stats": [ 130, 65, 60, 110, 95, 65 ],
+        "id": "Vaporeon",
+        "moves": [ 352, 204, 311, 114 ],
+        "max_moves": [ 765110, 7430, 760100, 7430 ],
+        "types": [ "water" ]
+    },
+    "vespiquen": {
+        "ability_id": "pressure",
+        "base_stats": [ 70, 80, 102, 80, 102, 40 ],
+        "id": "Vespiquen",
+        "moves": [ 454, 207, 814, 279 ],
+        "max_moves": [ 758130, 7430, 76690, 76180 ],
+        "types": [ "bug", "flying" ]
+    },
+    "vikavolt": {
+        "ability_id": "levitate",
+        "base_stats": [ 77, 70, 90, 145, 75, 43 ],
+        "id": "Vikavolt",
+        "moves": [ 209, 189, 398, 405 ],
+        "max_moves": [ 759120, 77190, 76490, 758130 ],
+        "types": [ "bug", "electric" ]
+    },
+    "vileplume": {
+        "ability_id": "chlorophyll",
+        "base_stats": [ 75, 80, 85, 110, 90, 50 ],
+        "id": "Vileplume",
+        "moves": [ 202, 580, 92, 676 ],
+        "max_moves": [ 773130, 7430, 7430, 758130 ],
+        "types": [ "grass", "poison" ]
+    },
+    "wailmer": {
+        "ability_id": "water-veil",
+        "base_stats": [ 130, 70, 35, 70, 35, 60 ],
+        "id": "Wailmer",
+        "moves": [ 362, 798, 340, 203 ],
+        "max_moves": [ 765120, 774140, 766130, 7430 ],
+        "types": [ "water" ]
+    },
+    "wartortle": {
+        "ability_id": "rain-dish",
+        "base_stats": [ 59, 63, 80, 65, 80, 58 ],
+        "id": "Wartortle",
+        "moves": [ 518, 58, 396, 56 ],
+        "max_moves": [ 765130, 763130, 76190, 765140 ],
+        "types": [ "water" ]
+    },
+    "weezing": {
+        "ability_id": "neutralizing-gas",
+        "base_stats": [ 65, 90, 120, 85, 70, 60 ],
+        "id": "Weezing",
+        "moves": [ 499, 257, 188, 399 ],
+        "max_moves": [ 76475, 757130, 76490, 772130 ],
+        "types": [ "poison" ]
+    },
+    "weezing-galar": {
+        "ability_id": "misty-surge",
+        "base_stats": [ 65, 90, 120, 85, 70, 60 ],
+        "id": "Weezing",
+        "moves": [ 790, 499, 53, 269 ],
+        "max_moves": [ 767130, 76475, 757130, 7430 ],
+        "types": [ "poison", "fairy" ]
+    },
+    "whimsicott": {
+        "ability_id": "prankster",
+        "base_stats": [ 60, 67, 85, 77, 75, 116 ],
+        "id": "Whimsicott",
+        "moves": [ 542, 269, 412, 583 ],
+        "max_moves": [ 766140, 7430, 773130, 767130 ],
+        "types": [ "grass", "fairy" ]
+    },
+    "whiscash": {
+        "ability_id": "hydration",
+        "base_stats": [ 110, 78, 73, 76, 71, 60 ],
+        "id": "Whiscash",
+        "moves": [ 340, 562, 330, 428 ],
+        "max_moves": [ 766130, 76495, 765130, 769130 ],
+        "types": [ "water", "ground" ]
+    },
+    "wigglytuff": {
+        "ability_id": "competitive",
+        "base_stats": [ 140, 70, 45, 85, 50, 45 ],
+        "id": "Wigglytuff",
+        "moves": [ 605, 496, 797, 186 ],
+        "max_moves": [ 767130, 760110, 769130, 7430 ],
+        "types": [ "normal", "fairy" ]
+    },
+    "xatu": {
+        "ability_id": "magic-bounce",
+        "base_stats": [ 65, 75, 70, 95, 70, 95 ],
+        "id": "Xatu",
+        "moves": [ 94, 493, 403, 109 ],
+        "max_moves": [ 769130, 7430, 766130, 7430 ],
+        "types": [ "psychic", "flying" ]
+    }
+}

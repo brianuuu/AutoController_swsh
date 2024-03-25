@@ -1,0 +1,416 @@
+{
+	"adaptability": [
+		"适应力"
+	],
+	"aftermath": [
+		"引爆"
+	],
+	"air-lock": [
+		"气闸"
+	],
+	"analytic": [
+		"分析"
+	],
+	"anger-point": [
+		"愤怒穴位"
+	],
+	"anticipation": [
+		"危险预知"
+	],
+	"aroma-veil": [
+		"芳香幕"
+	],
+	"battery": [
+		"蓄电池"
+	],
+	"battle-armor": [
+		"战斗盔甲"
+	],
+	"beast-boost": [
+		"异兽提升"
+	],
+	"big-pecks": [
+		"健壮胸肌"
+	],
+	"blaze": [
+		"猛火"
+	],
+	"cheek-pouch": [
+		"颊囊"
+	],
+	"chlorophyll": [
+		"叶绿素"
+	],
+	"clear-body": [
+		"恒净之躯"
+	],
+	"cloud-nine": [
+		"无关天气"
+	],
+	"competitive": [
+		"好胜"
+	],
+	"compound-eyes": [
+		"复眼"
+	],
+	"contrary": [
+		"唱反调"
+	],
+	"corrosion": [
+		"腐蚀"
+	],
+	"cute-charm": [
+		"迷人之躯"
+	],
+	"damp": [
+		"湿气"
+	],
+	"dark-aura": [
+		"暗黑气场"
+	],
+	"disguise": [
+		"画皮"
+	],
+	"download": [
+		"下载"
+	],
+	"drizzle": [
+		"降雨"
+	],
+	"drought": [
+		"日照"
+	],
+	"dry-skin": [
+		"干燥皮肤"
+	],
+	"early-bird": [
+		"早起"
+	],
+	"effect-spore": [
+		"孢子"
+	],
+	"electric-surge": [
+		"电气制造者"
+	],
+	"fairy-aura": [
+		"妖精气场"
+	],
+	"filter": [
+		"过滤"
+	],
+	"flash-fire": [
+		"引火"
+	],
+	"flower-gift": [
+		"花之礼"
+	],
+	"fluffy": [
+		"毛茸茸"
+	],
+	"forewarn": [
+		"预知梦"
+	],
+	"friend-guard": [
+		"友情防守"
+	],
+	"full-metal-body": [
+		"金属防护"
+	],
+	"fur-coat": [
+		"毛皮大衣"
+	],
+	"gale-wings": [
+		"疾风之翼"
+	],
+	"grassy-surge": [
+		"青草制造者"
+	],
+	"gulp-missile": [
+		"口导弹"
+	],
+	"guts": [
+		"毅力"
+	],
+	"harvest": [
+		"收获"
+	],
+	"healer": [
+		"治愈之心"
+	],
+	"huge-power": [
+		"大力士"
+	],
+	"hunger-switch": [
+		"饱了又饿"
+	],
+	"hydration": [
+		"湿润之躯"
+	],
+	"hyper-cutter": [
+		"怪力钳"
+	],
+	"ice-body": [
+		"冰冻之躯"
+	],
+	"ice-scales": [
+		"冰鳞粉"
+	],
+	"imposter": [
+		"变身者"
+	],
+	"innards-out": [
+		"飞出的内在物"
+	],
+	"inner-focus": [
+		"精神力"
+	],
+	"intimidate": [
+		"威吓"
+	],
+	"iron-fist": [
+		"铁拳"
+	],
+	"keen-eye": [
+		"锐利目光"
+	],
+	"klutz": [
+		"笨拙"
+	],
+	"leaf-guard": [
+		"叶子防守"
+	],
+	"levitate": [
+		"飘浮"
+	],
+	"light-metal": [
+		"轻金属"
+	],
+	"lightning-rod": [
+		"避雷针"
+	],
+	"limber": [
+		"柔软"
+	],
+	"magic-bounce": [
+		"魔法镜"
+	],
+	"magic-guard": [
+		"魔法防守"
+	],
+	"mimicry": [
+		"拟态"
+	],
+	"minus": [
+		"负电"
+	],
+	"misty-surge": [
+		"薄雾制造者"
+	],
+	"mummy": [
+		"木乃伊"
+	],
+	"neutralizing-gas": [
+		"?????"
+	],
+	"no-guard": [
+		"无防守"
+	],
+	"oblivious": [
+		"迟钝"
+	],
+	"overgrow": [
+		"茂盛"
+	],
+	"own-tempo": [
+		"我行我素"
+	],
+	"pickup": [
+		"捡拾"
+	],
+	"plus": [
+		"正电"
+	],
+	"poison-point": [
+		"毒刺"
+	],
+	"power-construct": [
+		"群聚变形"
+	],
+	"prankster": [
+		"恶作剧之心"
+	],
+	"pressure": [
+		"压迫感"
+	],
+	"prism-armor": [
+		"棱镜装甲"
+	],
+	"psychic-surge": [
+		"精神制造者"
+	],
+	"queenly-majesty": [
+		"女王的威严"
+	],
+	"rain-dish": [
+		"雨盘"
+	],
+	"receiver": [
+		"接球手"
+	],
+	"reckless": [
+		"舍身"
+	],
+	"refrigerate": [
+		"冰冻皮肤"
+	],
+	"rivalry": [
+		"斗争心"
+	],
+	"rock-head": [
+		"坚硬脑袋"
+	],
+	"sand-force": [
+		"沙之力"
+	],
+	"sand-rush": [
+		"拨沙"
+	],
+	"sand-spit": [
+		"?????"
+	],
+	"sand-veil": [
+		"沙隐"
+	],
+	"sap-sipper": [
+		"食草"
+	],
+	"scrappy": [
+		"胆量"
+	],
+	"serene-grace": [
+		"天恩"
+	],
+	"shadow-shield": [
+		"幻影防守"
+	],
+	"shed-skin": [
+		"蜕皮"
+	],
+	"sheer-force": [
+		"强行"
+	],
+	"shell-armor": [
+		"硬壳盔甲"
+	],
+	"simple": [
+		"单纯"
+	],
+	"slush-rush": [
+		"拨雪"
+	],
+	"sniper": [
+		"狙击手"
+	],
+	"snow-cloak": [
+		"雪隐"
+	],
+	"solar-power": [
+		"太阳之力"
+	],
+	"soundproof": [
+		"隔音"
+	],
+	"speed-boost": [
+		"加速"
+	],
+	"static": [
+		"静电"
+	],
+	"steam-engine": [
+		"蒸汽机"
+	],
+	"steely-spirit": [
+		"钢之意志"
+	],
+	"storm-drain": [
+		"引水"
+	],
+	"strong-jaw": [
+		"强壮之颚"
+	],
+	"sturdy": [
+		"结实"
+	],
+	"suction-cups": [
+		"吸盘"
+	],
+	"surge-surfer": [
+		"冲浪之尾"
+	],
+	"swarm": [
+		"虫之预感"
+	],
+	"sweet-veil": [
+		"甜幕"
+	],
+	"swift-swim": [
+		"悠游自如"
+	],
+	"symbiosis": [
+		"共生"
+	],
+	"synchronize": [
+		"同步"
+	],
+	"technician": [
+		"技术高手"
+	],
+	"teravolt": [
+		"兆级电压"
+	],
+	"thick-fat": [
+		"厚脂肪"
+	],
+	"tinted-lens": [
+		"有色眼镜"
+	],
+	"torrent": [
+		"激流"
+	],
+	"tough-claws": [
+		"硬爪"
+	],
+	"triage": [
+		"先行治疗"
+	],
+	"turboblaze": [
+		"涡轮火焰"
+	],
+	"unaware": [
+		"纯朴"
+	],
+	"unburden": [
+		"轻装"
+	],
+	"vital-spirit": [
+		"干劲"
+	],
+	"volt-absorb": [
+		"蓄电"
+	],
+	"water-absorb": [
+		"储水"
+	],
+	"water-veil": [
+		"水幕"
+	],
+	"weak-armor": [
+		"碎裂铠甲"
+	],
+	"white-smoke": [
+		"白色烟雾"
+	],
+	"wonder-skin": [
+		"奇迹皮肤"
+	]
+}
