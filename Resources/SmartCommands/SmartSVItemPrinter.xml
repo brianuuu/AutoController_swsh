@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartSVGimmighoulFarmer>
+	<C_Restart>Home,2,Nothing,21,X,1,ASpam,120</C_Restart>
+	<C_Talk>A,60,Nothing,1,A,2</C_Talk>
+	<C_ToTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1</C_ToTime>
+	<C_SyncTime>A,2,Nothing,1,A,6,Nothing,1,LDown,1,RDown,1,A,4</C_SyncTime>
+	<C_Print>X,1,Nothing,1,Loop,2,ASpam,200</C_Print>
+</SmartSVGimmighoulFarmer>
