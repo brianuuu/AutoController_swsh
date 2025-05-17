@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SmartLoto>
-	<C_SyncTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1,A,2,Nothing,1,A,6,Nothing,1,LDown,1,RDown,1,A,4</C_SyncTime>
+	<C_SyncTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,RRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1,A,2,Nothing,1,A,6,Nothing,1,LDown,1,RDown,1,A,4</C_SyncTime>
 	<C_SkipYearJP>LUpA,1,LRight,1,RRight,1,LRight,1,RRight,1</C_SkipYearJP>
 	<C_SkipYearEU>LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1</C_SkipYearEU>
 	<C_SkipYearUS>LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1,LRight,1</C_SkipYearUS>

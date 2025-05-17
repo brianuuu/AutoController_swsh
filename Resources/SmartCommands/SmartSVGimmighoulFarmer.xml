@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SmartSVGimmighoulFarmer>
-	<C_ToTime>Home,2,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,LDown,1,RDown,1,A,4</C_ToTime>
+	<C_ToTime>Home,2,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,RRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,LDown,1,RDown,1,A,4</C_ToTime>
 	<C_SkipJPDay>LRight,1,RRight,1,LUpA,1,RRight,1,LRight,1,Nothing,2,A,1,Nothing,2</C_SkipJPDay>
 	<C_SkipEUDay>LUpA,1,RRight,1,LRightA,1,RRight,1,Nothing,2,A,1,Nothing,2</C_SkipEUDay>
 	<C_SkipUSDay>RRight,1,LUpA,1,RRight,1,LRightA,1,RRight,1,Nothing,2,A,1,Nothing,2</C_SkipUSDay>

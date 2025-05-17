@@ -180,19 +180,19 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					// Close game, sync/unsync time, start game
 					commandIndex = 3;
-					m_endIndex = 48;
+					m_endIndex = 49;
 				}
 				else if (m_sequence == 17)
 				{
 					// Done skipping 3 days
-					commandIndex = 82;
-					m_endIndex = 86;
+					commandIndex = 83;
+					m_endIndex = 87;
 				}
 				else if (m_sequence > 17)
 				{
 					// Spam down button for 10secs, user should check the pokemon
-					commandIndex = 87;
-					m_endIndex = 88;
+					commandIndex = 88;
+					m_endIndex = 89;
 					
 					if (m_sequence >= 120)
 					{
@@ -204,51 +204,51 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					if (m_sequence == 2)
 					{
 						// First time, just invite others
-						commandIndex = 74;
+						commandIndex = 75;
 					}
 					else
 					{
 						// Collect watts and invite others
-						commandIndex = 70;
+						commandIndex = 71;
 					}
-					m_endIndex = 81;
+					m_endIndex = 82;
 				}
 				else if (m_sequence % 5 == 3)	// 3,8,13
 				{
 					// Goto date and time 1
 					commandIndex = 9;
-					m_endIndex = 36;
+					m_endIndex = 37;
 				}
 				else if (m_sequence % 5 == 4)	// 4,9,14
 				{
 					// Goto date and time 2
-					commandIndex = 49;
-					m_endIndex = 52;
+					commandIndex = 50;
+					m_endIndex = 53;
 				}
 				else if (m_sequence % 5 == 0)	// 5,10,15
 				{
 					// Plus 1 year
 					if (m_JP_EU_US == 0)
 					{
-						commandIndex = 55;
-						m_endIndex = 59;
+						commandIndex = 56;
+						m_endIndex = 60;
 					}
 					else if (m_JP_EU_US == 1)
 					{
-						commandIndex = 53;
-						m_endIndex = 57;
+						commandIndex = 54;
+						m_endIndex = 58;
 					}
 					else // if (m_JP_EU_US == 2)
 					{
-						commandIndex = 53;
-						m_endIndex = 58;
+						commandIndex = 54;
+						m_endIndex = 59;
 					}
 				}
 				else if (m_sequence % 5 == 1)	// 6,11,16
 				{
 					// Back to game and quit raid
-					commandIndex = 60;
-					m_endIndex = 69;
+					commandIndex = 61;
+					m_endIndex = 70;
 				}
 			}
 		

@@ -181,14 +181,14 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				if (m_farmTotal > 0 && m_farmCount >= m_farmTotal)
 				{
 					// Goto home and stop the program
-					if (m_endIndex == 53)
+					if (m_endIndex == 54)
 					{
 						state = DONE;
 					}
 					else
 					{
-						commandIndex = 52;
-						m_endIndex = 53;
+						commandIndex = 53;
+						m_endIndex = 54;
 					}
 					break;
 				}
@@ -198,38 +198,38 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				{
 					// sync and unsync time
 					commandIndex = 3;
-					m_endIndex = 42;
+					m_endIndex = 43;
 				}
 				else if (m_sequence == 2)
 				{
 					// Plus 1 year
 					if (m_JP_EU_US == 0)
 					{
-						commandIndex = 45;
-						m_endIndex = 49;
+						commandIndex = 46;
+						m_endIndex = 50;
 					}
 					else if (m_JP_EU_US == 1)
 					{
-						commandIndex = 43;
-						m_endIndex = 47;
+						commandIndex = 44;
+						m_endIndex = 48;
 					}
 					else // if (m_JP_EU_US == 2)
 					{
-						commandIndex = 43;
-						m_endIndex = 48;
+						commandIndex = 44;
+						m_endIndex = 49;
 					}
 				}
 				else if (m_sequence == 3)
 				{
 					// go back to game
-					commandIndex = 50;
-					m_endIndex = 55;
+					commandIndex = 51;
+					m_endIndex = 56;
 				}
 				else if (m_sequence == 4)
 				{
 					// collect watts
-					commandIndex = 61;
-					m_endIndex = 62;
+					commandIndex = 62;
+					m_endIndex = 63;
 					
 					m_farmCount++;					
 					m_saveCount++;
@@ -241,8 +241,8 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 				else if (m_sequence == 5)
 				{
 					// save game
-					commandIndex = 56;
-					m_endIndex = 60;
+					commandIndex = 57;
+					m_endIndex = 61;
 					
 					m_saveCount = 0;
 					m_sequence = 0;

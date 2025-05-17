@@ -138,7 +138,7 @@ static const Command m_command[] PROGMEM = {
 	{NOTHING, 1},
 	{RIGHT, 1},
 	{NOTHING, 1},
-	{NOTHING, 1},
+	{RIGHT, 1},
 	{NOTHING, 1},
 	{A, 1},
 	{NOTHING, 1},

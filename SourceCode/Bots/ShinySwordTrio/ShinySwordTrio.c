@@ -187,21 +187,21 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					if (m_sequence == 1)
 					{
 						// Minus 1 hour
-						commandIndex = 67;
+						commandIndex = 68;
 						if (m_JP_EU_US == 2)
 						{
-							m_endIndex = 72;
+							m_endIndex = 73;
 						}
 						else
 						{
-							m_endIndex = 71;
+							m_endIndex = 72;
 						}
 						m_sequence++;
 					}
 					else // if (m_sequence == 2)
 					{
-						commandIndex = 73;
-						m_endIndex = 77;
+						commandIndex = 74;
+						m_endIndex = 78;
 						
 						m_sequence = 0;
 						m_cycle = 0;
@@ -218,7 +218,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 					{
 						// Goto system clock
 						commandIndex = 34;
-						m_endIndex = 66;
+						m_endIndex = 67;
 						
 						m_sequence = 1;
 						break;

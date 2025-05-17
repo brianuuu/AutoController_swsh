@@ -11,7 +11,7 @@
 	<C_BackToGame>Home,1,Nothing,26,Home,1,Nothing,26</C_BackToGame>
 	<C_SkipJPMonth>A,4,LLeft,1,RLeft,1,LLeft,1,LUp,1,LLeft,1,LUpA,1,LRight,1,RRight,1,LRightA,1,Nothing,2</C_SkipJPMonth>
 	<C_SkipJPYear>A,4,LLeft,1,RLeft,1,LLeft,1,LUp,1,LLeft,1,LUp,1,LLeft,1,LUpA,1,RRight,1,LRight,1,RRight,1,LRightA,1,Nothing,2</C_SkipJPYear>
-	<C_ToSyncTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1</C_ToSyncTime>
+	<C_ToSyncTime>Home,1,Nothing,21,LRight,1,RRight,1,LDown,1,LRight,1,RRight,1,A,18,Loop,1,LDown,1,RDown,1,Loop,7,LDown,1,A,12,LDown,1,RDown,1,LDown,1,RDown,6,LDown,1,RDown,1,A,6,Nothing,1</C_ToSyncTime>
 	<C_SkipJPYearRaid>LDown,1,RDown,1,A,4,Nothing,1,LUpA,1,LRight,1,RRight,1,LRight,1,RRight,1,A,1,Nothing,6</C_SkipJPYearRaid>
 	<C_SkipEUYearRaid>LDown,1,RDown,1,A,4,Nothing,1,LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1,A,1,Nothing,6</C_SkipEUYearRaid>
 	<C_SkipUSYearRaid>LDown,1,RDown,1,A,4,Nothing,1,LRight,1,RRight,1,LUpA,1,LRight,1,RRight,1,LRight,1,A,1,Nothing,6</C_SkipUSYearRaid>

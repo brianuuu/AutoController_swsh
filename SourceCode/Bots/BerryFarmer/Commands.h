@@ -19,7 +19,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 10},
 	{NOTHING, 20},
 	
-	//----------Sync and unsync time, goto change date [3,42]----------
+	//----------Sync and unsync time, goto change date [3,43]----------
 	// To System Settings
 	{HOME, 5},
 	{NOTHING, 100},
@@ -27,6 +27,7 @@ static const Command m_command[] PROGMEM = {
 	{RRIGHT, 4},
 	{DOWN, 4},
 	{RIGHT, 4},
+	{RRIGHT, 4},
 	{A, 120},
 	
 	// To Date and Time
@@ -68,7 +69,7 @@ static const Command m_command[] PROGMEM = {
 	{A, 5},
 	{NOTHING, 16},
 	
-	//----------Plus 1 year [43,49]----------
+	//----------Plus 1 year [44,50]----------
 	{RIGHT, 4},		// EU/US start
 	{RRIGHT, 4},
 	{UP | A, 4},	// JP start
@@ -77,7 +78,7 @@ static const Command m_command[] PROGMEM = {
 	{RIGHT, 4},		// US end
 	{RRIGHT, 4},	// JP end
 	
-	//----------Back to game [50,55]----------
+	//----------Back to game [51,56]----------
 	{A, 5},
 	{NOTHING, 30},
 	{HOME, 5},
@@ -85,13 +86,13 @@ static const Command m_command[] PROGMEM = {
 	{HOME, 5},
 	{NOTHING, 120},
 	
-	//----------Save Game [56,59]----------
+	//----------Save Game [57,60]----------
 	{X, 70},
 	{R, 150},
 	{A, 4},
 	{NOTHING, 420},
 	
-	//----------Collect berries [60,61]----------
+	//----------Collect berries [61,62]----------
 	{A_SPAM, 140},	
 	{B_SPAM, 1040},
 };
