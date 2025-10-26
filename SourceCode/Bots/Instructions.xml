@@ -303,4 +303,18 @@
   <S3_TableturfSkip>
     <text>Start a battle with any NPC</text>
   </S3_TableturfSkip>
+  <PLZA_BenchReset>
+    <text>Stand next to a bench lol</text>
+  </PLZA_BenchReset>
+  <PLZA_ShinyLitwick>
+    <text>Go to the Sewers</text>
+    <text>Climb down the ladder, this normalizes the camera</text>
+    <text>Move backwards until the tunnel to the right</text>
+    <text>Move left against the railing</text>
+  </PLZA_ShinyLitwick>
+  <PLZA_RestaurantBattler>
+    <text>Go to Restaurant Le Nah</text>
+    <text>Stand in front of the counter</text>
+    <text>Make sure the right attack (A button) of the current Pokemon can hit all Pokemon</text>
+  </PLZA_RestaurantBattler>
 </Instructions>
