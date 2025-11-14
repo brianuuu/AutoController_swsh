@@ -1,4 +1,4 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <SmartPLZARestaurantBattler>
-	<C_Loop>ZL,3,ZLA,3,Nothing,1,Loop,10</C_Loop>
+	<C_Loop>ZL,3,ZLA,3,Y,3,Nothing,1,Loop,10</C_Loop>
 </SmartPLZARestaurantBattler>

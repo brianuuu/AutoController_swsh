@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartPLZAFossil>
+	<C_Restart>Home,1,Nothing,21,X,1,ASpam,100</C_Restart>
+	<C_ToBox>X,1,Nothing,10,A,1,Nothing,40</C_ToBox>
+	<C_ScrollBox>LDown,2,DDown,2,LDown,2,DDown,2,LRight,2,DUp,2,LUp,2,DUp,2,LUp,2,DRight,2,Loop,3,Nothing,20</C_ScrollBox>
+</SmartPLZAFossil>

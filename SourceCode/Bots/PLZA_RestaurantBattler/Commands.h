@@ -11,5 +11,6 @@ static const Command m_command[] PROGMEM = {
 	//----------Loop----------
 	{ZL, 3},
 	{ZL | A, 3},
+	{ZL | Y, 3},
 	{NOTHING, 1},
 };
